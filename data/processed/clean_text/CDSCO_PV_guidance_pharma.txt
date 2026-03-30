@@ -1,0 +1,2550 @@
+of 70 
+ Pharmacovigilance Guidance Document 
+for 
+Marketing Authorization Holders of Pharmaceutical 
+Products 
+ 
+Effective Date: 
+ 
+Version: 2.0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Published by; 
+National Coordination Centre-Pharmacovigilance Programme of India, 
+Indian Pharmacopoeia Commission in collaboration with Central Drugs 
+Standard Control Organization, Ministry of Health & Family Welfare, 
+Government of India
+
+DISCLAIMER 
+ 
+ 
+The Pharmacovigilance Guidance Document for Marketing Authorization 
+Holders (MAHs) of Pharmaceutical Products in India is a regulatory guidance 
+document. These guidelines are for the guidance of all stakeholders and are not 
+meant to substitute or rephrase the rules made under the Drugs and Cosmetic 
+Act, 1940 & Rules, 1945 or any other relevant Act and are subject to being in 
+conformity with the Drugs and Cosmetic Act, 1940 & Rules, 1945 including New 
+Drugs & Clinical Trials Rules, 2019 (NDCT Rules, 2019) as amended from time 
+to time. 
+This document facilitates MAHs to set up a Pharmacovigilance System at their 
+organization as per the recent amendment in Drugs and Cosmetic Act, 1940 & 
+Rules, 1945 . This document will help in uniformity of Pharmacovigilance System 
+in India, Preparation of Pharmacovigilance System Master File by MAHs, Post 
+Marketing Surveillance of Pharmaceutical Products, Preparation & Submission 
+of Periodic Safety Update Report (PSUR), Quality Management System (QMS) at 
+MAH site, Audits and Inspection of Pharmacovigilance System at MAH site and 
+submission of Risk Management Plan by MAH . In the event of any dispute as 
+regard to the content of this document and the statues, the statutory provisions 
+shall prevail. In case, there is an anomaly between the content of this document 
+and any other statutory/official document, the decision of the Government of 
+India or the implementing authority shall prevail.
+
+PREFACE 
+ 
+This Pharmacovigilance Guidance Document for MAHs of Pharmaceutical 
+Products in India is in accordance with the objective of Drugs and Cosmetics Act, 
+1940 & Rules, 1945 including NDCT Rules 2019. This guidance document is 
+prepared by the National Coordination Centre (NCC)-Pharmacovigilance 
+Programme of India (PvPI), Indian Pharmacopoeia Commission (IPC) in 
+collaboration with Central Drugs Standard Control Organization (CDSCO) to 
+facilitate submission of the safety profile of drugs by MAHs involved in the 
+manufacture, sale, import and distribution of pharmaceutical products in India. 
+This guidance document defines the roles & responsibilities of CDSCO, 
+State(s)/UT(s) Drugs Controller, NCC-PvPI, IPC and MAHs in preparation of 
+Pharmacovigilance System Master File by MAHs, Post Marketing Surveillance 
+of Pharmaceutical Products, Preparation & Submission of Periodic Safety 
+Update Report (PSUR), Quality Management System (QMS) at MAH site, Audits 
+and Inspection of Pharmacovigilance System at MAH site and submission of 
+Risk Management Plan, wherever applicable. This guidance document also 
+provides assistance to MAHs on establishing and ensuring an effective 
+Pharmacovigilance System at their site. This guidance document may be 
+amended from time to time after obtaining necessary approvals from the 
+concerned authorities.
+
+of 70 
+  
+ 
+CONTENTS 
+ 
+1. Abbreviations 
+2. Introduction 
+a) Objectives 
+b) Scope 
+3. Roles & Responsibilities of Authorities 
+a) Central Drugs Standard Control Organization (CDSCO) 
+b) State(s)/UT(s) Drugs Controller 
+c) National Coordination Centre-Pharmacovigilance Programme of 
+India, Indian Pharmacopoeia Commission  
+4. Chapters 
+Chapter 1: Pharmacovigilance System Master File 
+Chapter 2: Collection, Processing and Reporting of Individual Case 
+Safety Report (ICSR) by Marketing Authorization Holder 
+(MAH) 
+Chapter 3: Preparation & Submission of Periodic Safety Update Report 
+by MAH 
+Chapter 4: Quality Management System at MAH site 
+Chapter 5: Audits & Inspections of Pharmacovigilance System at MAH 
+site 
+Chapter 6: Submission of Risk Management Plan 
+5. References 
+6. Appendices 
+Appendix A 
+Appendix B 
+Appendix C 
+Appendix D
+
+of 70 
+ Appendix E 
+ 
+ 
+1. Abbreviations 
+ADR  Adverse Drug Reaction  
+AE Adverse Event  
+AEFI  Adverse Event Following Immunization  
+AIIMS  All India Institute of Medical Sciences  
+AMC  Adverse Drug Reaction Monitoring Centre  
+CAPA Corrective And Preventive Action 
+CCDS  Company Core Data Sheet  
+CCSI  Company Core Safety Information  
+CDSCO  Central Drugs Standard Control Organization  
+CIOMS  Council for International Organizations of Medical 
+Sciences  
+CRO  Contract Research Organization  
+CT Clinical Trial  
+DCG (I)  Drugs Controller General (India)  
+DHPC  Direct Healthcare Professional Communication  
+E2B  Electronic Transmission of Individual Case Safety 
+Report  
+EUA  Emergency Use Authorization  
+FDA  Food and Drugs Administration  
+GoI Government of India  
+GVP  Good Pharmacovigilance Practices 
+HCP  Healthcare Professional  
+HQ Head Quarter  
+ 
+ICH  International Council for Harmonization of 
+Technical Requirements for Pharmaceuticals for 
+Human Use  
+ICSR  Individual Case Safety Report  
+IPC Indian Pharmacopoeia Commission  
+MAHs  Marketing Authorization Holders  
+MoH& FW Ministry of Health & Family Welfare  
+NCC  National Coordination Centre
+
+of 70 
+  
+PSUR Periodic Safety Update Report 
+PT Preferred Term  
+PvPI Pharmacovigilance Programme of India  
+PV Pharmacovigilance  
+PSMF Pharmacovigilance System Master File  
+PVOIC  Pharmacovigilance Officer In-charge  
+QMS  Quality Management System  
+RMP  Risk Management Plan  
+RSI Reference Safety Information  
+SAE  Serious Adverse Event  
+SJS Stevens Johnson Syndrome  
+ SOC  System Organ Class  
+SOP  Standard Operating Procedure  
+SmPCs  Summary of Product Characteristics  
+SUSAR  Suspected Unexpected Serious Adverse Reaction  
+UMC  Uppsala Monitoring Centre  
+UT Union Territory  
+WHO  World Health Organization  
+XML  Extensible Markup Language  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ NRA National Regulatory Authority  
+PBRER  Periodic Benefit-Risk Evaluation Report  
+PIL Prescribing Information Leaflet  
+PMS  Post Marketing Surveillance
+
+of 70 
+  
+ 
+ 
+ 
+ 
+2. Introduction 
+ 
+India is one of the largest producers of quality medicines and also has robust 
+Pharmacovigilance System to monitor the safety profile of marketed 
+pharmaceutical products . The Ministry of Health & Family Welfare 
+(MoH&FW), Government of India re-casted Pharmacovigilance Programme 
+of India shifting the National Coordination Centre at Indian Pharmacopoeia 
+Commission in April 2011. NCC-PvPI, IPC is receiving Individual Case 
+Safety Reports (ICSRs) from the stakeholders including Marketing 
+Authorization Holders across the country. This guidance document facilitates 
+MAHs to setup & implementation of uniform Pharmacovigilance System for 
+pharmaceutical products in the Indian market in post-licensure period. 
+This guidance document uses the following key terms; 
+Pharmacovigilance (PV): 
+PV defined as science and activities relating to the detection, collation, 
+assessment, understanding and prevention of Adverse Event (AE) or any 
+other drug related problem. 
+Marketing Authorization Holders (MAHs): 
+MAHs refers to the manufacturer or the importer of the drug, who has valid 
+manufacturing or import licence. 
+After marketing authorization of new drug, the safety profile may show 
+variation from that in clinical trial from patient to patient and therefore, 
+MAH has to be carefully monitored for a specific period to submit the PSUR. 
+As per the Drugs and Cosmetics Act, 1940 & Rules, 1945 including NDCT 
+Rules, 2019, the PSURs are required to be submitted every six months for 
+first two years from the date of approval and for subsequent two years 
+annually. The Licensing Authority may extend the total duration of 
+submission of PSUR, if it is considered necessary in the interest of public 
+health. 
+In some specific condition, the early introduction of a new drug/vaccine is 
+permitted, even if the complete clinical trial data as per the approved 
+protocol is not available. This is based on the careful assessment of expected 
+benefit & potential risk from limited number of subjects/patients. This is 
+often referred to as Emergency Use Authorization (EUA). In COVID- 19
+
+of 70 
+ pandemic, several vaccines and drugs were approved under EUA . In EUA, it 
+is imperative that each EUA case is meticulously followed for any AE. 
+Thus, the reporting of any AE is important for continued risk-benefit 
+evaluation of drug. This guidance document provides critical information for 
+reporting AE by MAHs without any failure, accurate ly within stipulated 
+time to NCC-PvPI, IPC and National Regulatory Authority (i.e. CDSCO). 
+This guidance document does not deal with medical devices and veterinary 
+products. 
+ 
+a) Objectives 
+ 
+The Pharmacovigilance Guidance Document for MAHs has the following 
+objectives; 
+1. To assist and facilitate MAHs of pharmaceutical products for reporting all 
+AEs accurately, efficiently and timely to NCC-PvPI, IPC and CDSCO. 
+2. To establish a uniform PV System at MAHs site across the country by; 
+ Preparation of Pharmacovigilance System Master File 
+ Collecti ng, Processing and Reporting of Individual Case Safety 
+Report (ICSR) by Marketing Authorization Holder (MAH) 
+ Preparation & Submission of Periodic Safety Update Report by 
+MAH 
+ Implementation of Quality Management System at MAH site 
+ Audits & Inspections of Pharmacovigilance System at MAH site 
+ Preparation and Submission of Risk Management Plan 
+b) Scope 
+The scope of document covers the following category of pharmaceutical 
+products: 
+ Drugs, New Drugs and Subsequently approved drugs 
+ Biologics including Biosimilars, Vaccines, Cell lines/culture-based 
+products etc. (Refer “Guidance for industry on PV Requirements for 
+Biological Products ” by CDSCO for vaccines along with this 
+guidance documents) 
+ Radiopharmaceuticals 
+ Phytopharmaceuticals Products 
+ 
+3. Role & Responsibilities of Different Authorities 
+In the context of Pharmacovigilance of Pharmaceutical Products, following are 
+the authorities: - 
+The Central Drugs Standard Control Organization (CDSCO) under Directorate 
+General of Health Services in Ministry of Health and Family Welfare 
+(MoHFW), Government of India (GoI) is the National Regulatory Authority
+
+of 70 
+ (NRA) responsible for approval of new drugs, conduct of clinical trials, 
+enforcement of the standards for drugs, control over the quality of imported 
+drugs in the country and coordination of the activities of State Drugs Control 
+Organizations by providing expert advice with a view to bring the uniformity in 
+the enforcement and implementation of the Drugs and Cosmetics Act 1940 and 
+Rules 1945, their under. 
+ The Drugs Controller General of India, DCG(I), is the chairman of the steering 
+committee of   Pharmacovigilance Programme of India. The CDSCO receives the 
+drug safety related recommendation from the PvPI for taking appropriate 
+regulatory actions.  
+The National Coordination Centre (NCC) at IPC has been established to conduct 
+Pharmacovigilance under Pharmacovigilance Programme of India. Various ADR 
+monitoring centres have been established in various medical colleges across the 
+country, which are reporting to PvPI at IPC. 
+As a condition of the marketing authorization, the MAH is also required to 
+submit PSUR after licensure of the pharmaceutical product. The PSURs are to 
+be submitted every six months for first two years of the approval and for 
+subsequent two years annually. The Licensing Authority may extend the total 
+duration of submission of PSURs if it is considered necessary in the interest of 
+public health. The compiled PSUR data should then be reviewed by CDSCO.  
+Based on review, regulatory decisions are taken by CDSCO on safety and efficacy 
+of the pharmaceutical products.  
+CDSCO is responsible to take appropriate regulatory decision on the basis of 
+recommendations of Signal Review Panel (SRP) of NCC-PvPI. CDSCO is also 
+responsible to take regulatory decisions on the basis of analysis of the PSUR 
+data. Evidence-based information is utilized for appropriate regulatory deci sions 
+by the CDSCO such as changing/updating Prescribing Information Leaflet (PIL), 
+issuing drug alerts, and signals, etc. if any. 
+Licensing Authority: 
+Drugs fall under the Concurrent List of the 7th Schedule of Constitution of India. 
+Drugs & Cosmetics Act is a Central Act enforced both by the Central and State 
+Governments. Every State and Union Territory of India has its own Drugs 
+Regulatory Authorities. The State Drugs Controllers are primarily responsible 
+for licensing of manufacturing and sale/distribution of drugs. 
+As per the requirements under sub para (2) of Schedule M (Good Manufacturing 
+Practices and requirements of premises, plant and equipment for pharmaceutical 
+products) of Drugs and Cosmetics Act 1940 and Rules 1945 there under 
+mentioned as under, "Reports of serious adverse drug reactions resulting from
+
+of 70 
+ the use of a drug along with comments and documents shall be forthwith 
+reported to the concerned licensing authority."  
+It is required under Rule that MAH should monitor Adverse Drug Reactions/ 
+complaints related to the drugs marketed in the country and report to the 
+Licensing authority. The MAHs are also encouraged to report all adverse events 
+to NCC-PvPI (IPC). 
+National Coordination Centre-Pharmacovigilance Programme of India, 
+Indian Pharmacopoeia Commission 
+Pharmacovigilance Programme of India was operationalized in July, 2010 by 
+Ministry of Health and Family Welfare (MoHFW), Government of India with a 
+mission to safeguard the health of Indian population by ensuring that the 
+benefits of use of medicine outweigh the risks associated with its use. The 
+AIIMS, New Delhi was established as National Coordination Centre (NCC) for 
+PvPI. Later on, MoHFW, GoI on 15th April 2011, recasted this programme and 
+shifted the NCC from AIIMS, New Delhi to Indian Pharmacopoeia Commission 
+(IPC), Ghaziabad. 
+IPC was created to set standards of drugs in the country. Its basic function is to 
+regularly update the standards of drugs. The standards of drugs are updated by 
+adding new and revising the existing monographs through Indian 
+Pharmacopoeia (IP). It further promotes rational use of medicines by publishing 
+National Formulary of India (NFI). 
+The IPC as a National Coordination Centre (NCC) for PvPI has been working in 
+collaboration with national and international stakeholders, ensuring patient's 
+safety by monitoring ADRs. The NCC-PvPI, IPC also participates in the 
+Programme for International Drug Monitoring by contributing ADRs to Uppsala 
+Monitoring Centre (UMC), Sweden, a WHO-collaboration Centre. NCC-PvPI is 
+also working as a WHO Collaborating Centre for Pharmacovigilance in Public 
+Health Programmes and Regulatory Services since, July 2017. 
+The PvPI has succeeded in establishing AMCs across the major parts of the 
+country, upgrading capacity- building and training to the stakeholders, besides 
+encouraging hospitals, individuals and civil society to participate in PvPI. 
+Several tools and methods have been introduced by the PvPI to report ADR in 
+Hindi, English and other vernacular languages, mobile apps, helpline - 
+18001803024 (Toll-free), etc. PVPI has also been coordinating with Public Heal th 
+Programmes (PHPs) such as National Tuberculosis Elimination Programme 
+(NTEP), National Aids Control Programme (NACP) and National Centre for 
+Vector-Borne Diseases Control (NCVBDC). 
+There are following expert ’s panels/committees under PvPI:  -
+
+ Steering Committee 
+ Working Group 
+ Signal Review Panel 
+ Core Training Panel 
+ Quality Review Panel 
+The PvPI has a system to collect, collate and analyze drug safety data from 
+Indian population, which is submitted to CDSCO for appropriate regulatory 
+decision, States/UTs drug regulatory authorities to promote and protect public 
+health. 
+ 
+Figure I : PvPI-Programme Communication
+
+B. CHAPTERS 
+ 
+Chapter 1 - Pharmacovigilance System Master File 
+Chapter 2 - Collection, Processing & Reporting of Individual Case Safety Report 
+Chapter 3 - Preparation & Submission of Periodic Safety Update Report 
+Chapter 4 - Quality Management System at MAH's organization 
+Chapter 5 - Audits and Inspections of Pharmacovigilance systems at MAH's   
+                    Organization 
+Chapter 6 - Submission of Risk Management Pl an
+
+CHAPTER 1 
+ 
+Pharmacovigilance System Master File (PSMF) 
+ 
+Contents: 
+1.1 Introduction 
+1.2 Scope 
+1.3 Contents of the PS MF 
+1.3.1 Pharmacovigilance personnel and their responsibilities  
+1.3.2 Pharmacovigilance organization structure 
+1.3.3 Sources of safety data 
+1.3.4 Pharmacovigilance processes 
+1.3.5 Pharmacovigilance system performance 
+1.4 Annexures to the PS MF
+
+of 70 
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Pharmacovigilance System Master File 
+ 
+1.1 Introduction 
+The Pharmacovigilance System Master File (PSMF) provides a description of the 
+pharmacovigilance system used by the MAH with respect to pharmaceutical 
+products marketed by them. The PSMF is not a part of the marketing 
+authorization (MA) dossier and is maintained independently from the MA. 
+1.2 Scope 
+The scope of this chapter is to provide guidance for MAH to create and maintain 
+the PSMF at their site. This describes the different documents to be created, 
+updated , controlled, archived and traceable, whenever required.  
+1.3 Contents of the PSMF 
+The PSMF should contain all information related to MAH ’s PV system and cover 
+the following sections: 
+1.3.1  Pharmacovigilance personnel and their responsibilities : - 
+A qualified and trained personnel should be authorized by the company 
+management as Pharmacovigilance Officer In-charge (PVOIC) with 
+responsibilities for dealing PV activities at MAH's organization. The PVOIC 
+should be a medical or pharmacy professional trained in the collection and 
+analysis of AE reports. The PVOIC shall be responsible for the following: 
+ Development of training modules and organizing training for staff of PV 
+department; 
+ Identification of PV activities and framing of SOPs, revision of SOPs; 
+ Establishment and maintenance of QMS of PV department;
+
+of 70 
+  The PVOIC should reside in India and respond to queries of regulatory 
+authorities including PvPI, IPC whenever required. The information 
+related to the PVOIC provided in the PSMF should include: 
+•Contact details (Name, address, phone, e -mail); 
+•Summary, curriculum vitae with the key information on the role of the PVOIC;  
+•A description of the responsibilities guaranteeing that the PVOIC has sufficient 
+authority over the PV system in order to promote, maintain and improve 
+compliance; 
+•Details of Person -in-charge to work in the absence of PVOIC; 
+ 
+1.3.2  Pharmacovigilance Organization Structure  
+ 
+1.3.2.1  Marketing Authorization Holder 
+The Pharmacovigilance system organogram at MAH site should be included in 
+the PSMF. The authorized signatory should be clearly indicated. The description 
+of PV system at MAH site should be provided in PSMF. 
+1.3.2.2  Contract Research Organization  
+If, MAH assigns the responsibilities of PV activities of their pharmaceutical 
+products to any CRO, then the information of the company(ies) including their 
+allied PV departments involved and the relationship(s) between Contract 
+Research Organizations & operational units relevant to the fulfilment of PV 
+obligations should be provided. It should include: 
+ The PV organizational structure of the CRO's showing the organogram of 
+the PV department.; 
+ Name & address of the organization, where the PV functions are 
+undertaken such as collection of AEs, ICSRs processing, preparation & 
+submission of PSURs, signal detection, Risk Management Plan (RMP), 
+post-marketing surveillance and management of safety variations; 
+ Delegated activities (contracts and agreements); 
+ Service providing system (e.g., medical information, auditors, patient 
+support programme providers, study data management etc.); 
+ Commercial arrangements (distributors, licensing partners, co-marketing 
+etc.); 
+ Technical providers (hosting of computer systems and validation etc.)
+
+of 70 
+  1.3.3 Sources of safety data 
+The PVOIC will be responsible to collect data, reports, publications related to 
+safety of all pharmaceutical products marketed by the MAH. The main sources 
+for safety data will be as follows: 
+ Medical information inquiries; 
+ "Contact us" emails, website inquiry forms and helpline etc.; 
+ Pharmaceutical Product market complaints-Receipt, handling and 
+disposal; 
+ MAH employees involved in PV activities; 
+ Spontaneous information from patient or their care givers and follow up 
+of information; 
+ Published literature; 
+ Spontaneous reporting by HCPs; 
+ Reports from internet , digital media or social media; 
+ Patient-support programmes; 
+ Reports from National Regulatory Authorities; 
+ Contract partners involved in PV activities; 
+1.3.4 Pharmacovigilance Processes 
+1.3.4.1 Description 
+A description and flow-diagram of the entire PV process, data handling, records 
+control and archives of PV performance and covering the following aspects 
+should be included in the PSMF: 
+ The procedures for ICSR collection, collation, processing, assessment, 
+reporting and follow-up; should clarify the activities; 
+ Compilation of all ICSR and preparation & submission of PSURs of new 
+drugs in accordance with the New Drugs and Clinical Trials Rules, 2019 
+as amended from time to time; 
+ Review of ICSR, detection of signal (if any), Drug Safety Alerts, CAPA; 
+ Communication of Drug safety concerns to Consumers, HCPs, PvPI and 
+the National Regulatory Authorities; 
+ SmPCs and PILs with history of revisions 
+1.3.4.2 SOPs should include the following: 
+ Description of the process, data handling and records of PV performance;
+
+of 70 
+  ICSR collection, collation, follow-up, assessment and reporting; 
+ PSUR scheduling, preparation and submission; 
+ Quality issue, recall or withdrawal of pharmaceutical products; 
+ Training procedures, evaluations and documentations; 
+ Signal detection and evaluation process; 
+ Communication of safety concerns to consumers, HCPs and regulatory 
+authorities; 
+ Implementation of safety variations in PILs/SmPCs; 
+ Safety data exchange agreements, if any; 
+ Safety data archival and retrieval; 
+ PV audit & inspections; 
+ Quality Control for PV activities; 
+1.3.4.3 Computerized systems and database 
+The location, functionality and operational responsibility for computerized 
+systems and databases for receiving, collating and reporting safety information 
+should be described in PSMF. Validation status of computer system functionality 
+with change control, if any; nature of testing; back-up procedures should also be 
+described. The MAH can have data collection in Excel spreadsheets to record and 
+track the data. 
+1.3.4.4 QMS in Pharmacovigilance 
+The QMS should be established in PV activities, which should include: 
+• Document and record control: The MAHs should retain the soft copy 
+back-up of all PV documents for indefinite time and hard copies for at least 
+10 years. The MAHs shall maintain a logbook for recording primary 
+information received for every Adverse Events reported. 
+• Trainings: A summary of trainings records and files should be available at 
+the PV site of MAH. Staff should be appropriately trained for performing PV-
+related activities, including any individual, who may receive safety reports. 
+• Auditing: The QA of the company should supervise/facilitate the internal & 
+external audits of PV system. The audit report must be documented within 
+the quality system; with a brief description of the CAPA associated with the 
+significant findings, the date it was identified and the anticipated resolution
+
+date(s) with cross reference to the audit report and the documented CAPA 
+plan(s). 
+1.3.5  Pharmacovigilance System Performance 
+The key indicators for the performance of PV system e.g., number and quality of 
+ICSRs, CAPA needs to be identified and measured for annual trend analysis. 
+The PSMF should contain evidence of the ongoing monitoring of the PV system 
+performance including compliance of the main PV output. The PSMF should 
+include a description of the monitoring methods applied and contain as a 
+minimum the following: 
+• An explanation of how the correct reporting of ICSRs is assessed. In the 
+annexure, figures/graphs should be provided to show the timelines of 
+submission; 
+• A description of any metrics used to monitor the quality of submissions and 
+performance of PV. This should include information provided by the 
+regulatory authority regarding the quality of ICSR reporting, PSURs or 
+other submissions; 
+• An overview of the timelines of PSUR reporting; 
+• An overview of the methods used to ensure the timelines of safety variation 
+submissions compared to internal and competent authority deadlines 
+including the tracking of required safety variations that have been identified 
+but not yet submitted; 
+• Wherever applicable, an overview of adherence to RMP commitments, or 
+other obligations or conditions of marketing authorization(s) relevant to PV. 
+1.4 Annexures to the PSMF 
+ 
+• A list of pharmaceutical products including the name of the 
+pharmaceutical product , active substance(s) and excipients; 
+ 
+• A list of contract agreements covering delegated activities including the  
+   pharmaceutical products; 
+ 
+• A list of tasks delegated by the PVOIC for PV; 
+ 
+• A list of all completed audits (regulatory as well as internal) and a list of
+
+CHAPTER-2 
+ 
+Collection, Collation, Processing & Reporting of Individual Case Safety Reports 
+ 
+Contents: 
+ 
+2.1 Introduction 
+ 
+2.2 Structure & Processes 
+ 
+2.3 Literature monitoring 
+ 
+2.4 Follow-up of ICSR 
+ 
+2.5 Processing of ICSR 
+ 
+2.6 Reporting of ICSR 
+ 
+2.7 Coding of Adverse Event & Indication 
+ 
+2.8 Reporting time lines 
+ 
+2.9 Causality assessment 
+ 
+2.10 Special Population
+
+of 70 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.1 Introduction  
+This section highlights the general principles for the Collection, Collation, 
+Processing & Reporting of Individual Case Safety Reports associated with 
+pharmaceutical products for human use. 
+2.2 Structure & Processes 
+ 
+2.2.1  Collection and Collation of ICSR 
+The MAHs will collect the Adverse Events of their marketed pharmaceutical 
+products from different sources. The following sources/methods required to be 
+established by MAHs to strengthen spontaneous reporting. 
+2.2.1.1  Medical inquiries 
+The MAHs should have a process in place to record all the medical inquiri es 
+related to their pharmaceutical products and documents including follow-up 
+information or clarifications with a patient/consumer or HCPs. For inquiries that 
+relate to safety of the pharmaceutical product, MAHs should ensure that there is 
+a mechanism in place to transfer details of such cases to the PV point of contact.  
+2.2.1.2  “Contact us ”, e-mails and website inquiry forms 
+The MAH should consider the mechanism(s) by which incoming information via 
+"Contact us" on their MAH portal, through e mail addresses and website inquiry 
+forms is monitored to allow the identification and transfer of PV data to the 
+designated PV person in an appropriate time frame to meet the regulatory 
+requirement. 
+2.2.1.3  MAH ’s employees 
+The employees of the MAH designated for the PV work, should be trained timely 
+on the type of the information received and data collected from the various
+
+of 70 
+ sources. These employees should be well versed in dealing with the information 
+i.e., how to report particular Adverse Events? The data captured manually by the 
+medical representative during a discussion with HCP regarding an AE or other 
+safety related issue should be retained and he/she should be aware of reporting 
+the same to the PV personnel of the respected MAHs. 
+2.2.1.4  Contractual partners 
+There could be different types of contractual arrangements existing in the 
+pharmaceutical industry like loan licensing, contract manufacturing, 
+distribution etc. The responsibilities regarding PV activities among partners 
+should be clearly defined in a drug safety data exchange agreement. Contractual 
+partners are a potential source of ICSR and mechanisms should be in place for 
+the exchange of these ICSR in an appropriate manner & timeframe to meet 
+regulatory requirements. 
+2.2.1.5  Information on Adverse Events from the internet or digital 
+media 
+The MAHs should regularly screen relevant websites or digital media (including 
+newspapers) or social media under their management or responsibility for 
+potential reports of Adverse Events. The frequency of the screening should allow 
+for potential valid ICSR to be reported to the competent authorities within the 
+appropriate reporting timeframe based on the date of the information was posted 
+on the website/digital media. MAHs may also consider utilizing their 
+websites/portals to facilitate the collection of Adverse Event s. 
+2.2.1.6  Solicited reports 
+As defined in ICH-E2D, solicited reports of suspected ADRs are those derived 
+from organized data collection systems, which include clinical trials, non-
+interventional studies, registries, post-approval named patient use programmes, 
+other patient support and disease management programmes, surveys of patients 
+or healthcare providers, compassionate use or name patient use, or information 
+gathering on efficacy or patient compliance. Reports of suspected ADRs obtained 
+from any of these data collection systems should not be considered spontaneous. 
+2.2.1.7  Miscellaneous sources for reporting  
+The MAH should have other methods like e-mail, fax, online submission, mobile 
+app, helpline, postal letters etc. to report Adverse Events. Patient identity should 
+be kept confidential. 
+2.3 Literature Monitoring 
+The scientific and medical literature is a significant source of information for 
+monitoring the safety and benefit-risk profile of pharmaceutical products,
+
+of 70 
+ particularly in relation to the detection of new safety signals or emerging safety 
+issues. MAHs should perform monthly literature review of their pharmaceutical 
+products by using electronic literature data base (such as PubMed, Science 
+Direct, Scopus etc.). Any AE identified by this process need to be processed as 
+per spontaneous ICSR. The MAHs are advised to submit ICSR to NCC-PvPI 
+along with the complete literature reference including Digital Object Identifier 
+(DOI) or copy of full-length article, wherever feasible. 
+2.4 Follow-up of ICSR 
+When initial ICSR  is received, the information on Adverse Event may be 
+incomplete. Thus, the ICSR should be followed up as necessary to obtain the 
+required information (Refer section 2.6.1, Essential data element of ICSR) 
+required for clinical evaluation of the ICSR.  
+For serious ICSRs, at least two follow-up attempts must be made and 
+documented. For non-serious ICSRs, at least one follow-up attempt must be 
+made and documented. While reporting to PvPI, the MAH should clearly indicate 
+that the reported ICSR is either initial or follow up. 
+2.5 Processing of ICSR 
+2.5.1  ICSR receipt 
+2.5.1 .1 Date of receipt  
+The MAH should record the date of receipt for each Adverse Events; this applies 
+to both initial notification and any follow-up communication. 
+2.5.1.2 Validation of reports 
+All reports of Adverse Events should be validated by authorized signatories of 
+MAHs before reporting them to the NCC-PvPI, IPC & National Regulatory 
+Authority.  
+2.6 Reporting of ICSR  
+Only valid ICSR would qualify for reporting to NCC- PvPI  & National Regulatory 
+Authority . Each valid ICSR should have the following minimum criter ia for 
+reporting: - 
+1. An identifiable patient (one or more identifier such as, patient initial, age, 
+gender, weight); 
+2. An Adverse Event  
+3. A suspected pharmaceutical product; 
+4. An identifiable reporter (source);
+
+of 70 
+ The fields to describe the above four criteria are as follows: - 
+2.6.1  Identifiable patient should have the following information:  
+ Patient Initials: Write first letters of name & surname e.g., Vipin Sharma 
+should be written as VS. 
+ Age or date of birth: Write either the date of birth (DD/MM/YYYY) or age 
+of the patient at the time of an Adverse Event occurred. 
+ Gender: Male/Female/Transgender 
+ Weight: In case of adult (in Kg) and in case of infant use value up to two 
+decimals. 
+Note: If any of this information is missing, the ICSR will still be considered. 
+Any one of the above can define the identifiable patient for case processing. 
+2.6.2 An Adverse Event 
+ Date of onset of adverse event 
+ Date of stop of adverse event 
+ Describe adverse event: Provide the description of the reaction in terms of 
+nature, localization, etc. e.g patient developed erythematous 
+maculopapular rash over upper and lower limb. 
+2.6.3 A suspected pharmaceutical product 
+1. The details of suspected medication(s) such as drug name (brand or 
+generic), Batch No/Lot No., expiry date, marketing authorization holder, 
+dose, route, frequency, dates of therapy started & stopped, and indication 
+should be provided. 
+    2. Action Taken  with respect to suspect medication/medical product 
+after adverse event:  
+         Mention the status of action taken at the time of Adverse Event reporting 
+as- 
+ Drug withdrawn –Was the suspect medication discontinued?   
+ Dose reduced – Was the dose of suspected medication reduced after the 
+occurrence of Adverse Event? 
+ Dose increased – In certain situations, there may be lack of therapeutic 
+efficacy of a medication. They are not normally reported. Medical products 
+used in critical conditions or for life threatening diseases, vaccines, 
+contraceptives, etc. non effectiveness is also regarded as an adverse event. 
+ Dose not changed – Was the suspected medication continued? 
+ Unknown – Where information is not known?
+
+ Not Applicable – Such as case of chemotherapy, vaccination, anesthetic 
+agents etc. (given in one dose or in cycle).  
+3. Re-challenge details:  Mention the status on re-challenge as- 
+ 'Yes' -If, the adverse drug reaction reappeared after re-introduction of 
+suspected medication. 
+ 'No'- If, the adverse drug reaction did not reappear after re-introduction 
+of suspected medication. 
+ 'Effect unknown'- When the above information is not available 
+ Dose - In some cases, when the suspect product is re-introduced, in those 
+cases the dose given to the patient must be specified.  
+4. Concomitant drugs: The details like dose, route, frequency of all 
+concomitant drugs should be provided in the same manner as that of suspected 
+drugs including self-medication, Over the Counter medication, herbal 
+medications, etc. with therapy dates.  
+5. Relevant tests/ laboratory data/investigation:  Mention relevant 
+laboratory tests /investigation data before & after Adverse Events. 
+6.Other relevant history:  The relevant medical history of patient  including 
+pre-existing medical conditions (e.g., allergies, pregnancy, smoking, alcohol use, 
+hepatic/ renal dysfunction) and concurrent condition, if any. 
+7. Seriousness of the reaction:  If, any adverse drug reaction is serious in 
+nature, tick the appropriate reason for seriousness as- 
+ Death: If, the patient died, mention the cause and date of death.   
+ Life-threatening: If, the patient was at substantial risk of dying at the 
+time of Adverse Events.  
+ Hospitalization /prolongation of existing hospitalization: If, 
+Adverse Events caused hospitalization or increased the hospital stay of 
+the patient. 
+ Disability: If, Adverse Events resulted in a substantial disruption of a 
+person's ability to conduct normal life functions. 
+ Congenital anomaly: If, exposure of the drug prior to conception or 
+during pregnancy may have resulted in a birth defect.  
+ Other medically important condition: When the event does not fit to 
+above conditions, but the event may have put the patient at risk and 
+required medical or surgical intervention to prevent any one of the above
+
+of 70 
+ 8. Outcomes: Tick the outcome of the adverse event at the time of reporting as-  
+ Recovered/resolved: If, the patient recovered/resolved from the 
+adverse event. 
+ Not recovered/not resolved:  If, the patient did not 
+recover/resolve from the adverse event. 
+ Recovering/resolving:  If, the patient is recovering/resolving from 
+the adverse event. 
+ Fatal:  If, the patient died. 
+ Recovered/resolved with sequelae:  If, the patient has 
+completely recovered from the adverse event (mention the date of 
+recovery) or recovered with sequelae (e.g., scar). 
+ Unknown:  If, the outcome is not known. 
+ 
+2.6.4 An identifiable reporter (source); 
+ Name & address:  A reporter must mention his/her name, address and 
+contact details. The identity of the reporter will be maintained 
+confidential. 
+ Date of report:  Mention the date on which he/she reported the Adverse 
+Events. 
+ Reporter qualification:  Qualification of the reporter need to be 
+mentioned. 
+ 
+2.7 Coding of Adverse Event 
+ 
+For the purpose of ICSR reporting (expedited and periodic) to National 
+Regulatory Authority/NCC-PvPI, IPC, Marketing Authorization Holders are 
+required to code Adverse Events, Indication preferably using latest version of 
+MedDRA. 
+ 
+2.8 Reporting time lines 
+ All Serious Adverse Events must be reported by MAH within 15 calendar 
+days of receipt of information from any source, to 
+ 
+(a) National Regulatory Authority (NRA), i.e, CDSCO through email - 
+sae@cdsco.nic.in 
+     (b) National Coordination Centre, Pharmacovigilance Programme of India,         
+           Indian Pharmacopoeia Commission through email mah.nccpvpi-
+ipc@gov.in. 
+All Non-Serious Adverse Events must be reported by MAH within 30 calendar 
+days of receipt of information from any source, to
+
+of 70 
+        (a) National Regulatory Authority (NRA), i.e, CDSCO through email – 
+dci@nic.in , pharma.covig@cdsco.nic.in 
+       (b) National Coordination Centre, Pharmacovigilance Programme of India,         
+           Indian Pharmacopoeia Commission through email mah.nccpvpi-ipc@gov.in 
+Note: The adverse events due to lack of efficacy, medication error etc. must also 
+be reported to national regulatory authority/NCC-PvPI, IPC. 
+ 
+ 
+2.9  Causality assessment 
+ 
+The MAHs should preferably follow WHO-UMC causality assessment scale 
+for establishing a causal relationship between the suspected drugs and 
+Adverse Events .  
+For WHO-UMC causality assessment scale, refer Appendix - A. 
+ 
+2.10 Special population 
+ 
+2.10.1  Use of a pharmaceutical product during pregnancy or 
+breastfeeding 
+ 
+Where during pregnancy, a woman has been exposed to any potential teratogenic 
+medication, the follow up should be done till the delivery or child birth to assess 
+the adverse outcome of maternal exposure. 
+When an active substance (or one of its metabolites) has a long half-life, this 
+should be taken into account when assessing the possibility of exposure of the 
+embryo, if the pharmaceutical product was taken before conception. 
+Reports of exposure to pharmaceutical products during pregnancy should contain 
+as many detailed elements as possible in order to assess the causal relationship 
+between any reported Adverse Events and the exposure to the suspected 
+pharmaceutical product. 
+Individual cases with an adverse outcome associated with a pharmaceutical 
+product following exposure during pregnancy are classified as serious reports 
+and should be reported: 
+ Reports of congenital anomalies or developmental delay in foetus or child; 
+ Reports of fetal death and spontaneous abortion; 
+ Reports of serious suspected adverse reactions in the neonate. 
+However, in certain circumstances, reports of pregnancy exposure with no 
+suspected reactions may necessitate reporting. This may be a condition of the
+
+marketing authorization or stipulated in the risk management plan; for example, 
+pregnancy exposure to pharmaceutical products contraindicated in pregnancy or 
+pharmaceutical products with a special need for surveillance because of a high 
+teratogenic potential (e.g., thalidomide, isotretinoin). A signal of a possible 
+teratogenic effect (e.g., through a cluster of similar abnormal outcomes) should 
+be notified immediately to the regulatory authority/NCC-PvPI, IPC. 
+Note: ADRs which occur in infants following exposure to a pharmaceutical 
+product from breast milk should be reported. 
+ 
+2.10.2  Use of a pharmaceutical product in pediatric or elderly 
+population 
+The collection of safety information in pediatric or elderly population is 
+important. Reasonable attempts should therefore be made to obtain and submit 
+the age or age group of the patient when a case is reported by a healthcare 
+professional, or consumer in order to be able to identify potential safety signals 
+specific to a particular population.
+
+CHAPTER-3 
+ 
+Preparation and Submission of Periodic Safety Update Report 
+ 
+Contents: 
+ 
+3.1   Introduction 
+ 
+3.2   Objective 
+ 
+3.3   General Principles 
+ 
+3.4   Structure & Content
+
+of 70 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.1 Introduction 
+The Periodic Safety Update Report is a document for evaluation of the benefit-
+risk profile of a pharmaceutical product submitted by the MAH at defined time 
+points as per Drugs and Cosmetics Act, 1940 and New Drugs & Clinical Trial 
+Rules, 2019 there under during the post-marketing phase. 
+3.2 Objective 
+This chapter defines the recommended format, content and timelines of PSUR 
+submission in conformity with New Drugs and Clinical Trial Rules-2019 of the 
+Drugs and Cosmetics Act, 1940. PSURs are intended to be submitted to national 
+regulatory authority and the MAH are also encouraged to submit the same in 
+electronic format to NCC-PvPI, IPC in order to monitor the safety and efficacy of 
+pharmaceutical products marketed in India. 
+The main objective of a PSUR is to present a comprehensive, concise and critic al 
+analysis of new or emerging information on the risks and benefits of the 
+pharmaceutical products in approved indications. The PSUR, is therefore, a tool 
+for post-marketing evaluation at defined time points in the life cycle of a 
+pharmaceutical product. 
+1. Post marketing assessment of new drug – 
+ 
+(1) When a new drug is approved for marketing, assessment of safety and 
+efficacy of the drug are generally based on data from a limited number of 
+patients, many studied under the controlled conditions of randomized trials. 
+Often, high risk patients and patients with concomitant illnesses that require 
+use of other drugs are excluded from clinical trials, and long-term treatment 
+data are limited. Moreover, patients in trials are closely monitored for 
+evidence of adverse events. 
+ 
+(2) In actual clinical practice, monitoring is less intensive, a broader range of  
+patients are treated (age, co-morbidities, drugs, genetic abnormalities), and
+
+of 70 
+ events too rare to occur in clinical trials may be observed. Therefore, 
+subsequent to approval of a new drug, the drug shall be closely monitored and 
+post marketing assessment of its benefit-risk profile shall be carried out.  
+ 
+(3) A person intending to import or manufacture any new drug for sale or 
+distribution shall have a pharmacovigilance system in place for collecting, 
+processing and forwarding the adverse drug reaction report to the Central 
+Licencing Authority emerging from the use of the drug imported or 
+manufactured or marketed by the applicant in the country. 
+ 
+(4) The pharmacovigilance system shall be managed by qualified and trained 
+personnel and the officer in-charge of collection and processing of data shall 
+be a medical officer or a pharmacist trained in collection and analysis of 
+adverse drug reaction reports. 
+ 
+(5) Post marketing assessment of new drug may be carried out in different ways 
+as under: - 
+(A) Phase IV (Post marketing) trial - Phase IV (Post marketing) trial 
+include additional drug-drug interactions, dose-response or safety studies 
+and trials designed to support use under the approved indications, e.g. 
+mortality or morbidity studies etc. Such trial will be conducted under an 
+approved protocol with defined scientific objectives, inclusion and 
+exclusion criteria, safety and efficacy assessment criteria etc. with the 
+new drug under approved conditions for use in approved patient 
+population. In such trial the ethical aspects for protection of rights, safety 
+and well-being of the trial subjects shall be followed as per the regulatory 
+provisions including that for compensation in case of clinical trial related 
+injury or death and good clinical practices guidelines. In such study, the 
+study drug may be provided to the trial subject free of cost unless 
+otherwise there is specific concern or justification for not providing the 
+drug free of cost, to the satisfaction of the Central Licencing Authority 
+and the ethics committee. 
+ 
+(B) Post marketing surveillance study or observational or non-
+interventional study for active surveillance-  Such studies are 
+conducted with a new drug under approved conditions of its use under a 
+protocol approved by Central Licencing Authority with scientific 
+objective. Inclusion or exclusion of subject are decided as per the 
+recommended use as per prescribing information or approved package 
+insert. In such studies the study drugs are the part of treatment of 
+patient in the wisdom of the prescriber included in the protocol. The 
+regulatory provisions and guidelines applicable for clinical trial of a new
+
+of 70 
+ drug are not applicable in such cases as drugs are already approved for 
+marketing. 
+ 
+(C) Post marketing surveillance through periodic safety update 
+reports-  As part of post marketing surveillance of new drug the 
+applicant shall furnish periodic safety update reports (PSURs) in 
+accordance with the procedures as follows; 
+(i) The applicant shall furnish periodic safety update reports (PSURs) in 
+order to- 
+a) report all relevant new information from appropriate sources;  
+b) relate the data to patient exposure; 
+c) summarise the market authorisation status in different countries and any 
+significant variations related to safety; and  
+d) indicate whether changes shall be made to product information in order to 
+optimise the use of product.  
+(ii) Ordinarily all dosage forms and formulations as well as indications for new 
+drugs should be covered in one periodic safety update reports. Within the single 
+periodic safety update reports separate presentations of data for different dosage 
+forms, indications or separate population need to be given.  
+(iii) All relevant clinical and non-clinical safety data should cover only  the period 
+of the report (interval data). The periodic safety update reports shall be 
+submitted every six months for the first two years after approval of the drug is 
+granted to the applicant. For subsequent two years – the periodic safety update 
+reports need to be submitted annually. Central Licencing Authority may extend 
+the total duration of submission of periodic safety update reports if it is 
+considered necessary in the interest of public health. Periodic safety update 
+reports due for a period must be submitted within thirty calendar days of the 
+last day of the reporting period. However, all cases involving serious unexpected 
+adverse reactions must be reported to the Licencing Authority within fifteen 
+days of initial receipt of the information by the applicant. If marketing of the 
+new drug is delayed by the applicant after obtaining approval to market, such 
+data will have to be provided on the deferred basis beginning from the time the 
+new drug is marketed. Vaccines and biologicals always considered as new drugs, 
+unless specified, otherwise, by the Licensing Authority. 
+(iv) New studies specifically planned or conducted to examine a safety issue 
+should be described in the periodic safety update reports. 
+(v) A PSUR should be structured as follows:
+
+of 70 
+ (1) Title Page:  The title page of periodic safety update reports should capture 
+the name of the drug; reporting interval; permitted indication of such drug; date 
+of permission of the drug; date of marketing of drug; licensee name and address.  
+(2) Introduction:  This section of periodic safety update reports should capture 
+the reporting interval; drugs intended use, mode of action, therapeutic class, 
+dose, route of administration, formulation and a brief description of the approved 
+indication and population. 
+(3) Current worldwide marketing authorisation status:  This section of 
+periodic safety update reports should capture the brief narrative over view 
+including details of countries where the drug is currently approved along with 
+date of first approval, date of marketing and if product was withdrawn in any of 
+the countries with reasons thereof. 
+(4) Actions taken in reporting interval for safety reasons: 
+In case, an already approved drug is in clinical trial for any other 
+indication/purpose in India or abroad has been reported for any safety concern, 
+periodic safety update reports should also include actions related to safety that 
+have been taken during the reporting interval. This data should cover any safety 
+concern arising from investigational uses, by the sponsor of the clinical trial (s), 
+regulatory authorities, data monitoring committees, or ethics committees, 
+besides the date of post marketing experience. 
+(5) Changes to reference safety information (RSI):  This section should 
+include any significant changes in reference safety information within the 
+reporting interval. Such changes include information relating to 
+contraindications, warnings, precautions, adverse events, and important findings 
+from ongoing and completed clinical trials and significant non-clinical findings, if 
+any. 
+Note: Even if there is no significant change in RSI (Prescribing Information 
+Leaflet & Company Core Data Sheet/Summary of Product Characteristics), 
+MAHs should submit recent dated approved RSI as an Annexure. 
+(6) Estimated patient exposure:  This section of periodic safety update reports 
+should provide the estimates of the size and nature of the population exposed to 
+the drug. Brief descriptions of the methods used to estimate the subject or 
+patient exposure should be provided. 
+6.1 Cumulative subject exposure in clinical trial  (Below points are taken 
+from EMA guideline with permission VII.B.5.5.1).  
+This section of the PSUR should include the following information in tabular 
+format as referred below:
+
+of 70 
+  Cumulative numbers of subjects from ongoing and completed clinical trials 
+exposed to the investigational pharmaceutical product, placebo, and/or active 
+comparator(s) since the date of first approval for conducting an interventional 
+clinical trial in any country (Refer Appendix-B, Table 01). 
+ More detailed cumulative subject exposure in clinical trials should be 
+presented, if available (e.g. sub-  grouped by age, sex, and racial/ethnic group) 
+important differences among trials in dose, routes of administration, or 
+patient populations can be noted in the tables, if applicable, or separate  
+tables can be considered (Refer Appendix-B, Table No. 02 & 03); 
+ Important differences among trials in dose, routes of administration, or 
+patient populations can be noted in the tables, if applicable, or separate  
+tables can be considered. 
+ If, clinical trials have been or are being performed in special po pulation (e.g. 
+pregnant women; patients with renal, hepatic, or cardiac impairment; or 
+patients with relevant genetic polymorphisms), exposure data should be 
+provided as appropriate. 
+ When, there are substantial differences in the time of exposure between 
+subjects randomized to the investigational pharmaceutical product or 
+comparator(s), or disparities in length of exposure between clinical trials, it 
+can be useful to express exposure in subject-time (subject-days, -months, or -
+years). 
+ New drug exposure in healthy volunteers might be less relevant to the overall 
+safety profile, depending on the type of ADR, particularly, when subjects are 
+exposed to a single dose. Such data can be presented separately with an 
+explanation as appropriate. 
+ If, the SAEs from clinical trials are presented by indication in the summary 
+tabulations, the patient exposure should also be presented by indication, 
+where available. 
+ For individual trials of particular importance, demographic characteristic s 
+should be provided separately, if available. 
+ 
+6.2 Cumulative and interval patient exposure from Marketing 
+Experience from India 
+Interval patient exposure refers as the patient exposure occurring between 
+two data lock points of PSUR. Separate estimations should be provided for 
+interval exposure and, when possible, cumulative exposure (since the date of 
+marketing authorization) from India. (Refer Appendix-B, Table No. 04 and 
+05). The estimated number of patients exposed should be provided, when 
+possible, along with the method(s) used to determine the same. If an estimate 
+of the number of patients is not available, alternative estimated measures of 
+exposure should be presented along with the method(s) used to derive them, if
+
+of 70 
+ available. Examples of alternative measures of exposure include patient-days 
+of exposure and number of prescriptions. If applicable, data of special 
+population and vulnerable population should be identified and submitted. 
+The data should be presented according to the following categories: 
+6.2.1  Post-approval exposure 
+An overall estimation of patient exposure should be provided. In addition, the 
+data should be presented by indication, sex, age, dose, formulation, and region, 
+wherever applicable. Depending upon the product, other relevant variables, such 
+as vaccinations, etc. should be described. Whenever, there are patterns of reports 
+indicating a safety signal, exposure data within relevant subgroups should be 
+presented, if possible. Some industries may be running some programmes for 
+ensuring patient safety such as patient support programme, if in this 
+programme, any safety concern or serious ADR is observed, it should also be 
+communicated to NCC- PvPI.  
+6.2.2  Post-approval use in special population 
+Where the approved drug has been used in special population, the cumulative 
+estimated patient exposure should be provided with method of calculation. 
+Sources of such data may include  non-interventional studies designed to obtain 
+this information, such as registries.  
+The following are the examples of special population: 
+• Paediatric population; 
+• Elderly population; 
+• Pregnant or lactating women; 
+• Patients with hepatic and/or renal impairment; 
+• Patients with other relevant co-morbidity; 
+• Patients with disease severity different from that studied in clinical trials; 
+• Sub-population carrying relevant genetic polymorphism(s); 
+• Patients of different racial and/or ethnic origin; 
+• Any other vulnerable population. 
+6.2.3  Other post-approval use 
+If the MAH becomes aware of any specific pattern of use of a pharmaceutical 
+product, which may be relevant for assessment of product safety, a brief 
+description should be provided. Examples of such patterns of use are drug abuse
+
+of 70 
+ (for example, some cough syrups, anti-histamines, pregabalin, are used for 
+sedation), misuse (such as use of antibiotics in viral infection) and use beyond 
+that recommended in the reference product information (e.g., an anti-epileptic 
+drug used for neuropathic pain and/or prophylaxis of migraine headaches). 
+6.3 Cumulative and interval estimated patient exposure from Marketing 
+Experience from rest of the world. 
+The estimations should be provided separately for interval exposure (since the 
+data lock points of the previous PSUR) and, when possible, cumulative exposure 
+from the date of approval in the rest of the world. (Refer Appendix-B, Table 06 
+and 07). The data should be presented as mentioned in the section 6.2. 
+7. Presentation of individual case histories:  This section of Periodic Safety 
+Update Reports should include the individual case information available to a 
+licence holder and provide brief case narrative, medical history, indica tion 
+treated with suspect drug, causality assessment. Provide following 
+information: 
+7.1 Reference prescribing information 
+In this section, an updated reference prescribing information of a new drug 
+should be provided by the MAH. 
+7.2 Individual cases received from India (Line listing of ICSRs) 
+The line listing of ICSRs should at least contain the following information: age, 
+gender, seriousness criteria, ADR start/stop date, therapy start/stop date of 
+suspected/concomitant drug, dose, route of administration, indication of 
+suspected/concomitant drug, relevant past medical history, outcome & causality 
+assessment in tabulated form. 
+7.3 Individual cases received from rest of the world 
+In this section an Individual cases received from rest of the world should br 
+provided by the MAH.  
+7.4 Cumulative and interval summary tabulations of serious adverse 
+events from clinical investigations. 
+This section of the PSUR should provide a brief narration of the serious adverse 
+events as mentioned in the appendix… ... background for the Appendix (example 
+of Format need to be provided) that provides a cumulative summary tabulation 
+of SAE reported in the MAHs, clinical trials, from the first authorization to 
+conduct a clinical trial in any country worldwide to the data lock point of the 
+current PSUR. The MAHs should explain any omission of data (e.g., clinical trial  
+data might not be available for pharmaceutical products marketed for many
+
+of 70 
+ years). The tabulation(s) should be organized by SOC, for the new drug, as well 
+as for the comparator arm(s) (active comparators, placebo) used in the clinical 
+development programme. Data can be integrated across the programme. 
+Alternatively, when useful and feasible, tabulations of SAEs can be presented by 
+trial, indication, route of administration, or other variables. 
+This section should not serve to provide analyses or conclusions based on the 
+SAEs. 
+• Appendix B, Table 8 provides cumulative tabulations of SAEs from clinical 
+trials. While tabulating SAEs from clinical trials only those criteria should be 
+used which are defined in NDCT Rules, 2019. This should not include non- 
+serious adverse events.  
+• The causality assessment, where has been done should also be mentioned as 
+related and not-related. 
+• While coding SAE (Table 8) and AE/ADR (Table 9) , Preferred Term (PT) and 
+System Organ Class (S OC) should be used. 
+7.5 Cumulative and interval summary tabulations from post-marketing 
+data sources  
+This section of the PSUR should provide background for the Appendix that 
+provides cumulative and interval summary tabulations of ADRs from the date of 
+marketing authorization to the data lock point of the current PSUR.  
+The tabulation should include: 
+• Serious and non-serious AEs/ADRs from spontaneous ICSR, including 
+reports from HCPs, consumers, scientific literature, and regulatory 
+authorities 
+• Serious adverse drug reactions from non-interventional studies 
+• Solicited reports of serious ADRs 
+For special issues or concerns, additional tabulations of adverse drug reactions  
+can be presented by indication, route of administration, or other variables. This 
+section should not serve to provide analyses or conclusions based on the data 
+presented (Refer Appendix-B, Table 09). 
+8. Studies  
+This section of PSURs should capture the brief summary of clinically important 
+safety and efficacy findings obtained from the licence holder, sponsored clinical 
+trials and published safety studies that became available during the reporting 
+interval.  Whenever possible and relevant, data categorized by sex and age
+
+of 70 
+ (particularly children versus adult), indication, dose and region should be 
+presented. 
+MAH-sponsored post-marketing studies with the primary objective of 
+identifying, characterizing, or quantifying a safety hazard, or confirming the 
+safety profile of the pharmaceutical product that were completed or ongoing 
+during the reporting interval should be included as an Appendix. The listing 
+should include the following information: 
+• Study ID (e.g., protocol number or another identifier); 
+• Study title; 
+• Study type (e.g., randomized clinical trial, cohort study, case-control 
+study); 
+• Study population (including country and other relevant population 
+descriptors, e.g., paediatric population or trial subjects with impaired 
+renal function); 
+• Study initiation and completion date (as defined by the manufacturer 
+and/or importer); 
+• Status: Ongoing or Completed. 
+8.1.1 Completed clinical study 
+A brief summary of clinically important safety and efficacy findings obtained 
+from completed trial during the reporting interval should be provided. This 
+information can be presented in a narrative format or as a synopsis (Refer ICH-
+E3). It could include information that supports or refutes previously identified 
+safety concerns, as well as evidence of new safety signals. 
+8.1.2  Ongoing clinical study 
+If the manufacturer and/or importer is aware of clinically important information 
+that has arisen from ongoing clinical trials (e.g. learned through interim safety 
+analyses or as a result of unblinding of subjects with Adverse Events), this sub-
+section should briefly summarize the concern(s). It could include information 
+that supports or refutes previously identified safety concerns, as well as evidence 
+of new safety signals. 
+8.1.3  Long-term follow- up 
+Wherever applicable, this sub-section should provide information from long-term 
+follow-up of subjects  from clinical trials of new drugs, particularly advanced 
+therapy products (e.g. gene therapy, cell therapy products and tissue engineering
+
+of 70 
+ and biotech products). These are referred as Advanced Therapy Medicinal 
+Products (ATMPs). 
+8.1.4  Other therapeutic uses of pharmaceutical product 
+This should include clinically important safety information from othe r 
+programmes, if and when conducted by the manufacturer and/or importer that 
+follow a specific protocol (e.g., expanded access programmes, compassionate use 
+programmes, particular patient uses and other organized data collection). 
+8.1.5  New safety data related to Fixed Dose Combination therapies 
+Unless otherwise specified by national regulatory authority requirements, the 
+following data from combination therapies: 
+• If the product that is the subject of a PSUR is also approved or under 
+development as a component of a combination product or a multi-drug 
+regimen, this section should summarize important safety findings from the 
+use of the fixed dose combination therapy 
+• If this PSUR is a combination product, this section should summarize 
+important safety information arising from the individual components 
+• The information specific to the combination can be incorporated into a 
+separate section(s) of the PSUR for one or all of the individual components of 
+the combination. 
+8.2 Findings from non-interventional Studies 
+This section should summarize relevant safety information or information 
+with potential impact on the benefit or risk evaluations, from MAH -
+sponsored non-interventional studies that became available during the 
+reporting interval (e.g., observational studies, epidemiological studies, 
+registries, and active surveillance programmes). This should include relevant 
+information from drug utilization studies, when applicable to multiple 
+regions. 
+8.3 Information from other clinical trial sources 
+8.3.1 Other clinical trials 
+This sub-section should summarize information accessible with reasonable effort 
+from any other clinical trial/study sources to the MAH during the reporting 
+interval (e.g. including results from pooled analyses or meta-analyses of 
+randomized clinical trials, and safety information provided by co- development 
+partners or from investigator-initiated trials). 
+8.3.2 Medication errors
+
+of 70 
+ This sub-section should summarize relevant information on patterns of 
+medication errors and potential medication errors, even when not associated 
+with adverse outcomes. This information may be received by the manufacturer 
+and/or importer via spontaneous reporting systems, medical information queries, 
+customer complaints, screening of digital media, patient support programmes, or 
+other available information sources. 
+8.4 Findings from non-Clinical Studies;  
+This section should summarize major safety findings from non-clinical in vivo  
+and in vitro  studies (e.g., carcinogenicity, reproduction, or immunotoxicity 
+studies) ongoing or completed during the reporting interval. 
+ 
+ 
+8.5 Findings from literature 
+This section should summarize new and significant safety findings, either 
+published in the scientific literature or made available as unpublished data, 
+relevant to the approved pharmaceutical product that the manufacturer and/or 
+importer became aware of during the reporting interval. 
+Literature searches for PSUR should be as wide as possible and should also 
+include studies reporting safety outcomes in groups of subjects and other 
+products containing the same active substance. 
+This should include: 
+• Pregnancy outcomes (including termination) with or without adverse 
+outcomes 
+• Use in paediatric populations 
+• Compassionate supply, named patient use 
+• Lack of efficacy 
+• Asymptomatic overdose, abuse or misuse 
+• Medication error where no adverse events occurred 
+Important non-clinical safety findings 
+9. Other Information: This section of PSURs should include the details about 
+signal and Risk Management Plan in place by licence holder (if any). (For 
+detail please refer Module 6)
+
+of 70 
+ (a) Signal and risk evaluation: In this section, licence holder will provide the 
+details of signal and risk identified during the reporting period and evaluation of 
+signals identified during the reporting period.  
+(b) Risk management plan: In this section, licence holder will provide the brief 
+details of safety concern and necessary action taken by him to mitigate these 
+safety concerns.  
+9.1 Lack of efficacy in controlled clinical trials 
+Data from clinical trials indicating lack of efficacy, or lack of efficacy relative to 
+established therapy(ies), for pharmaceutical products intended to treat or 
+prevent serious or life-threatening illnesses (e.g., excess cardiovascular AEs in a 
+trial of a new anti-platelet drug for Acute Coronary Syndromes) could reflect a 
+significant risk to the treated population and should be summarized in this 
+section. 
+ 
+9.2 Late-breaking information 
+This section should summarize information on potentially important safety and 
+efficacy/effectiveness findings that arise within 15 days after the data lock point 
+of the PSUR in preparation. Examples include clinically significant new 
+publications, important follow-up data, clinically relevant toxicological findings 
+and any action that the manufacturer and/or importer, a data monitoring 
+committee, or a regulatory authority has taken for the safety reasons.  
+Any significant change proposed to the reference product information which has 
+occurred after the data lock point of the report, but before submission should also 
+be included in this section, where feasible. Such changes could include a new 
+contraindication, warning/precaution, or new ADR. 
+9.3 Overview of signals: new, ongoing, or closed 
+A new signal is a signal that the MAH became aware of during the reporting 
+interval. A new clinically important information on a previously closed signal 
+that became available during the reporting period of the PSUR (i.e., a new aspect 
+of a previously refuted signal or recognized risk likely to warrant further action 
+to verify) would also constitute a new signal. New signals may be classified as 
+closed or ongoing, depending on the status of signal evaluation at the data lock 
+point of the PSUR. Examples would include new information on a previously: 
+• Closed and refuted signal, which would result in the signal being re-opened; 
+• Identified risk which is indicative of a clinically significant difference in the 
+severity of the risk, e.g., transient increase in liver enzymes are identified
+
+of 70 
+ risks and new information is received indicative of a more severe outcome 
+such as hepatic failure; neutropenia is an identified risk and a well-
+documented and unconfined case report of agranulocytosis is received; 
+• Identified risk for which a higher frequency of the risk is newly found, e.g., 
+in a sub population; and 
+• Potential risk which, if confirmed, would warrant a new warning, 
+precaution, a new contraindication or restriction in indication(s) or 
+population or other risk minimization activities. 
+Refer Appendix-C, include a tabular listing of all signals ongoing or closed at the 
+data lock points of the PSUR. 
+When a regulatory authority has requested that a specific safety concern (not 
+considered a signal) be monitored and reported in a PSUR, the MAH should 
+summarize the result of the analysis of such safety concern in this section even if 
+it is negative. 
+10. Overall Safety Evaluation:  This section of PSURs should capture the 
+overall safety evaluation of the drug based upon its risk benefit evaluation for 
+approved indication.  
+The purpose of this section is to provide: 
+• Important identified risks; 
+• Important potential risks; 
+• Important missing information. 
+• In case a signal was indicated in previous interval report and now has been 
+refuted because of new evidences which resulted in closure, should be 
+specifically mentioned here.  
+• An evaluation of new information with respect to previously recognized 
+identified and potential risks 
+• An updated characterization of important potential and identified risks, 
+where applicable and 
+• A summary of the effectiveness of risk minimization activities (if any) in any 
+country or region, which may have utility in other countries or regions. 
+These evaluations of subsections should not summarize or repeat information 
+presented in previous sections of the PSUR, but should instead provide an 
+interpretation of the information, with a view towards characterizing the profile 
+of those risks assessed as important.
+
+of 70 
+ 10.2   Benefit Evaluation 
+10.2.1 Important baseline efficacy/effectiveness information 
+This section summarizes information on the efficacy/effectiveness of the 
+pharmaceutical product as of the beginning of the reporting interval, and 
+provides the basis for the benefit evaluation. This information should relate to 
+the approved indication(s) of the pharmaceutical product listed in the reference 
+product information 
+For pharmaceutical products with multiple indications, population, and/or routes 
+of administration, the benefit should be characterized separately by these 
+factors, wherever relevant. The level of detail provided in this section should be 
+sufficient to support the characterization of benefit in PSUR and the benefit-risk 
+assessment. 
+ 
+ 
+10.2.2  Newly identified information on efficacy/effectiveness 
+Wherever necessary, for some products new information on efficacy/effectiveness 
+in approved indications that may have become available during the reporting 
+interval should be presented in this section.  
+New information about efficacy/effectiveness in uses other than the approved 
+indication(s) (off-label use) should not be included, unless relevant for the 
+benefit-risk evaluation in the approved indication. 
+Information on additional indications approved during the reporting interval 
+should also be included in this section. New information on efficacy /effectiveness 
+might also include changes in the therapeutic environment that could impact 
+efficacy/effectiveness over time, e.g., vaccines, emergence of resistance to anti-
+infective agents. 
+10.2.3  Characterization of benefits 
+This sub-section provides an integration of the baseline benefit information and 
+the new benefit information that has become available during the reporting 
+interval, for authorized indications. When there are no new relevant benefit 
+data, this sub-section should provide a characterization of the information in 
+sub-section "Important baseline efficacy and effectiveness information". 
+When there is a clear information about the benefit and no significant change in 
+the risk profile in this reporting interval, the integration of baseline and new 
+information in this sub-section should be provided. This sub-section should
+
+of 70 
+ provide a concise but critical evaluation of the strengths and limitations of the 
+evidence on efficacy and effectiveness, as follows: 
+• A brief description of the strength of evidence of benefit, considering 
+comparator(s), effect size, statistical rigor, methodological strengths and 
+deficiencies, and consistency of findings across clinical trials/studies 
+• New information that challenge the validity of a surrogate endpoint, if used 
+• Clinical relevance of the effect size 
+• Generalizability of treatment response across the indicated patient 
+population, e.g., information that demonstrates lack of treatment effect in a 
+sub-population 
+• Adequacy of characterization of dose-response 
+• Duration of effect 
+• Comparative efficacy 
+A determination of the extent to which efficacy findings from clinical trials are 
+generalizable to patient populations treated in medical practice. 
+10.3 Benefit risk analysis evaluation  
+This section should provide an integration and critical analysis of the key 
+information. This section also provides the benefit-risk analysis, and should not 
+simply duplicate the benefit and risk characterization presented in subsections 
+mentioned above. 
+10.3.1  Benefit-Risk context- medical need and important alternatives 
+This sub-section should provide a brief description of the medical need for the 
+pharmaceutical product in the approved indications, and summarize alternatives 
+(medical, surgical, or other; including no treatment). 
+10.3.2  Benefit-Risk analysis evaluation 
+A benefit-risk balances is specific to an indication and population. For products 
+approved for more than one indication, benefit-risk profiles should be evaluated 
+and presented for each indication individually. If there are important differences 
+in the benefit-risk profiles among populations within an indication, benefit-risk 
+evaluation should be presented by population, if possible. 
+The benefit-risk evaluation should be presented and discussed in a way that 
+facilitates the comparison of benefits and risks, and should take into account the 
+following points:
+
+of 70 
+ • Whereas previous sections included all important benefit and risk 
+information, not all benefits and risks contribute importantly to the overall 
+benefit-risk evaluation. Therefore, the key benefits and risks considered in 
+the evaluation should be specified. The key information presented in the 
+previous benefit and risk sections should be carried forward for integration 
+in the benefit-risk evaluation. 
+• Consider the context of use of the pharmaceutical product: the condition to 
+be treated, prevented, or diagnosed; its severity and seriousness; and the 
+population to be treated. 
+• With respect to key benefit(s), consider its nature, clinical importance, 
+duration, and generalizability, as well as evidence of efficacy in non-
+responders to other therapies and alternative treatments. Consider the effect 
+size. If there are individual elements of benefit, consider all (e.g., for 
+therapies for arthritis: reduction of symptoms and inhibition of radiographic 
+progression of joint damage). 
+• With respect to risk, consider its clinical importance, e.g., nature of toxicity, 
+seriousness, frequency, predictability, preventability, reversibility, impact on 
+patients, and whether it arose from off-label use, a new use, or misuse. 
+• The strengths, weaknesses, and uncertainties of the evidence should be 
+considered when formulating the benefit-risk evaluation. Describe how 
+uncertainties in the benefits and risks impact the evaluation. Limitations of 
+the assessment should be described. 
+Provide a clear explanation of the methodology and reasoning used for benefit- 
+risk evaluation: 
+• The assumptions, considerations, and judgement or weighing that support 
+the conclusions of the benefit-risk evaluation, should be clear. 
+• If a formal quantitative or semi-quantitative assessment of benefit-risk is 
+provided, a summary of the methods should be included. 
+• Economic considerations (e.g., cost-effectiveness) should not be included in 
+the benefit-risk evaluation. 
+Note: When there is important new information or an ad hoc PSUR has been 
+requested, a detailed benefit-risk analysis is warranted. 
+Conversely, where little new information has become available during the 
+reporting interval, the primary focus of the benefit-risk evaluation might consist 
+of an evaluation of updated interval safety data. 
+11. Conclusion:
+
+This section of PSURs should provide the details on the safety profile of drug (s) 
+and necessary action taken by the license holder in this regard.  
+Based on the evaluation of the cumulative safety data, and the benefit-risk 
+analysis, the manufacturer and/or importer should assess the need for further 
+changes to the reference product information and propose changes as 
+appropriate. In addition, and as applicable, the conclusion should include 
+preliminary proposal(s) to optimize or further evaluate the benefit-risk balance, 
+for further discussion with the national regulatory authority. This may include 
+proposals for additional risk minimization activities. These proposals should also 
+be considered for incorporation into the Risk Management Plan. 
+12. Appendix : The appendix includes the copy of marketing authorization in 
+India, copy of prescribing information, line listings with narrative of 
+Individual Case Safety Reports. 
+ 
+CHAPTER 4 
+ 
+Quality Management System at Marketing Authorization Holder 
+Organization 
+Contents: 
+4.1 Introduction 
+ 
+4.2 Scope 
+ 
+4.3 Structures and Processes 
+ 
+4.4 Specific quality system procedures and processes
+
+of 70 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.1 Introduction 
+This module contains guidance for the Marketing Authorization Holders for the 
+establishment, maintenance, performance, performance and quality assurance of 
+PV system. 
+4.2 Scope 
+This guidance document is applicable to all MAHs who hold marketing 
+authorization for manufacture or import of pharmaceutical products in Indian 
+market. 
+4.3  Structures and Processes 
+4.3.1  Pharmacovigilance system 
+All MAH should have the PV system which should comply with the quality 
+management system including requirements of NDCT Rules 2019, Schedule M of 
+the Drugs & Cosmetics Act, 1940, and Rules thereunder. 
+The PV system at MAH should have an organogram describing PV personnel ’s 
+roles and responsibilities, procedures, processes and resources, including 
+management of resources, compliance and records (Refer Chapter 1 for more 
+details). 
+4.3.2  Quality Management System (QMS) of PV 
+The QMS in PV is a framework of policies, procedures and system necessary to 
+ensure quality related to detection, assessment, understanding, evaluation and 
+prevention of adverse events on pharmaceutical products. 
+The quality management system is based on the following activities:
+
+of 70 
+  Quality planning: Establishing structures of PV system, planning, effective 
+integration and consistent processes for safety; 
+ Quality adherence: Carrying out tasks and responsibilities in accordance with 
+quality requirements such as collection of ICSRs, completeness of report, case 
+narrative, data management, causality assessment, signal management, etc.;  
+ Quality control and assurance: By monitoring the parameters described 
+under quality adherence; 
+ Quality improvements: Taking Corrective and Preventive measures, as and 
+when required, to ensure patient safety. 
+ 
+4.3.3  Requirements and Responsibilities of QMS at MAH site 
+MAH should have a sufficient number of competent and appropriately qualified, 
+and trained personnel for the performance of PV activities. 
+In case, where MAH has completely outsourced the PV activities, through a valid 
+contract, the outsourced agency/institution should comply with the above 
+statement. The responsibility of adhering to PV QMS will ultimately lie with 
+MAH. 
+The managerial staff in the organization should be responsible for compliance of 
+PV Guidance Document for MAHs of Pharmaceutical Products. 
+4.3.4  Training of MAH personnel for PV 
+The personnel involved in PV activities should receive induction (within one 
+month of joining and continued trainings with proper evaluation of performance, 
+thereafter. The organization should maintain the training plans and records of 
+trainings. The organization should keep identifying the continued training 
+needs. 
+4.3.5  Facilities and equipment for PV 
+Achieving the required quality for the conduct of PV processes and their 
+outcomes is also intrinsically linked with appropriate facilities and equipment 
+used to support the processes. Facilities and equipment should include office 
+space, Information Technology (IT) systems and storage space (electronic). They 
+should be located, identified, designed, constructed, adapted and maintained to 
+suit their intended purpose in line with the quality objectives for PV System.  
+Facilities and equipment which are critical for the conduct of PV should be 
+subject to appropriate checks, qualification and/or validation activities to prove 
+their suitability for the intended purpose. 
+4.4  Specific quality system procedures and processes 
+ 
+4.4.1  Compliance management by MAH
+
+of 70 
+ For the purpose of compliance, MAHs should have specific quality system 
+procedures and processes in place in order to ensure the following:   
+•Continuous monitoring of PV data,  the examination of options for risk 
+minimization and prevention and that appropriate measures are taken by the 
+MAH (refer Chapter 6 for detailed information) 
+•Scientific evaluation of all information on the risks of pharmaceutical products 
+as regards patients or public health, in particular as regards adverse reactions in 
+human beings arising from use of the product within or outside the terms of its 
+marketing authorization or associated with occupational exposure (refer 
+Chapters 2, 3 and 6 for detailed information) 
+•Submission of accurate and verifiable data on all ADRs to the regulatory 
+authority/NCC-PvPI, IPC within the legally required time-limits (refer Chapters 
+2 and 6 for detailed information) 
+•Quality, integrity and completeness of the information s ubmitted on the risks of 
+pharmaceutical products, including processes to avoid duplicate submissions and 
+to validate signals (refer Chapters 2, 3 and 6 for detailed information) 
+•Effective communication with regulatory authority, including communication 
+on new or changed risks, the PVMF (refer Chapter 1 for detailed information), 
+risk management systems (refer Chapter 6 for detailed Information), PSURs 
+(refer Chapter 3 for detailed information) and CAPAs (refer Chapters l & 5 for 
+detailed information). 
+4.4.2  Record management 
+The MAH shall record all PV information and ensure that it is handled and 
+stored so as to allow accurate reporting, interpretation and verification of that 
+information. 
+As part of a record management system, specific measures should, therefore be 
+taken at each stage in the storage and processing of PV data to ensure data 
+security and confidentiality. This should involve strict limitation of access to 
+documents and to databases to authorized personnel respecting the medical and 
+administrative confidentiality of the data. The electronic copies of the PV records 
+should be stored indefinitely. Time line to store hard copies need to be confirmed 
+with CDSCO. 
+4.4.3  Documentation of the quality system 
+All elements, requirements and provisions adopted for the quality system should 
+be documented in a systematic and orderly manner in the form of written 
+policies and procedures. For the requirements of documenting the quality system 
+(refer Chapter 1 for detailed information). 
+4.4.4  Critical PV processes
+
+of 70 
+ The following PV processes should be considered as critical: 
+• Benefit-risk evaluation; 
+• Establishing, assessing & implementing risk management systems and 
+evaluating the effectiveness of risk minimization; 
+• Collection, processing, management, quality control, follow-up for missing 
+information, coding, classification, duplicate detection, evaluation and timely 
+electronic transmission of ICSRs from any source; 
+• Signal management; 
+• Scheduling, preparation (including data evaluation and quality control), 
+submission and assessment of PSURs; 
+• Interaction between the PV and product quality defect systems; 
+• Communication about safety concerns between MAHs and licensing 
+authority in particular notifying changes to the benefit-risk balance of 
+pharmaceutical products; 
+• Communicating information to patients and healthcare professionals about 
+changes to the benefit-risk balance of pharmaceutical products for the aim of 
+safe and effective use of pharmaceutical products; 
+• Keeping product information up- to-date with the current scientific 
+knowledge, including the conclusions of the assessment and 
+recommendations from the regulatory authority; 
+• Implementation of variations to marketing authorizations for safety reasons 
+according to the urgency required. 
+• Provisions for events that could severely impact on the organization's staff 
+and infrastructure in general or on the structures and processes for PV in 
+particular; and 
+• Back-up systems for urgent exchange of information within an organization, 
+amongst organizations sharing PV tasks as well as between MAHs and 
+competent authorities. 
+ 
+4.4.5  Monitoring the effectiveness of QMS in PV  
+ 
+The QMS in PV should be continuously monitored for its effectiveness by the 
+MAH through the following processes:  
+ 
+• System reviews by those responsible for management  
+• Audits 
+• Compliance monitoring 
+• Inspections 
+• Evaluating the effectiveness of actions taken with pharmaceutical products 
+for the purpose of minimizing risks and supporting their safe and effective 
+use in patients. 
+ 
+The organization may use performance indicators to continuously monitor 
+the good performance of PV activities in relation to the quality 
+requirements. The requirements for the quality system itself are laid out in 
+this Chapter and its effectiveness should be monitored by managerial staff, 
+who should review the documentation of the quality system at regular
+
+intervals with the frequency and the extent of the reviews to be determined 
+in a risk-based manner. 
+Reviews of the quality system should include the review of SOPs and work 
+instructions, deviations from the established quality system, audits and 
+inspections reports as well as the use of the indicators referred to above. 
+ 
+4.4.6  Responsibilities of the MAH in relation to the PVOIC for PV 
+ 
+Refer Chapter 1 for detailed information. 
+ 
+ 
+ 
+ 
+ 
+CHAPTER 5 
+ 
+Audit & Inspection of Pharmacovigilance System at Marketing 
+Authorization Holder Organization 
+ 
+Contents:  
+5.1 Introduction 
+5.2 Objectives  
+5.3 Inspection Types  
+5.4 Inspection Procedure  
+5.5 Regulatory Actions  
+5.6 Training Inspectors
+
+of 70 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.1 Introduction 
+This chapter provides insights into planning, conducting, reporting and 
+follow-up of PV inspections by regulatory authorities/officials responsible for 
+inspection. 
+ 
+5.2 Objectives 
+The objectives of PV audits and inspections are as below: 
+ 
+ To verify by examination and evidence, the appropriateness of the 
+implementation and operation of the PV system including its quality 
+system s. 
+ To assess and establish that the MAH has qualified personnel, robust 
+system and facilities to conduct PV activities 
+ To identify, record and address non-compliance, which may pose a risk 
+to public health 
+ To take regulatory action, wherever considered necessary based on the 
+result of the inspections/audits. 
+The results of an inspection will be provided to the inspected MAH, who will 
+be given the opportunity to comment on any non-compliance identified. Any 
+non-compliance should also be rectified by the MAH within two months 
+through the implementation of CAPA plan. 
+5.3 Inspection Types 
+The Inspections of PV can be routine or targeted to MAHs suspected of being 
+non-compliant. 
+5.3.1 Routine inspection
+
+of 70 
+ These inspections are planned and informed inspection of the PV system of 
+MAH. The focus of these inspections is to determine that the MAH has 
+personnel, systems and facilities in place to meet the regulatory PV 
+obligations for the marketed pharmaceutical products in India. 
+These inspections are prioritized on the risk-based approach. 
+5.3.2 Targeted inspections 
+These inspections are conducted as and when there is trigger and the 
+regulatory authority determines that inspection is the appropriate way. 
+Triggering factors for such type of inspections are as below (but not limited 
+to): 
+ Continuous delays or omission and poor-quality reporting of I 
+CSRs/PSURs/RMPs. 
+ Failure to provide the asked information or data within the deadline 
+specified by regulatory authority. 
+ Delays or failure to carry out specific obligations related to the 
+monitoring of pharmaceutical product safety, identified at the time of 
+the marketing authorization. 
+ Delays in the implementation or inappropriate implementation of 
+CAPAs. 
+ Sudden pharmaceutical product withdrawal and recall. 
+ 
+5.4 Inspection Procedure 
+5.4.1 Inspection Planning 
+ 
+PV inspection should be based on a systematic and risk-based approach to 
+make the best use of surveillance and enforcement resources whilst 
+maintaining a high level of public health protection. A risk-based approach to 
+inspection planning will enable the frequency and scope of inspections to be 
+carried out. 
+The PV inspection team will be made by CDSCO including representative(s) 
+from PvPI . 
+The inspection will be planned based on the following: 
+ Compliance history identified during previous PV inspections. 
+ Re-inspection date recommended by the inspectors or assessors as a 
+result of a previous inspection 
+ MAH with sub-contracted PV activities (qualified person responsible 
+for PV functions in India, reporting of safety data, etc.) and multiple 
+firms employed to perform PV activities;
+
+ Changes to the PV safety database(s), which could include a change in 
+the database itself or associated databases, the validation status of the 
+database as well as information about transferred or migrated data; 
+ Changes in contractual arrangements with PV service providers or the 
+organizations at which PV is conducted; 
+ Delegation or transfer of PSMF management. 
+ Change of PVOIC since the last inspection. 
+5.4.2 Organization to be inspected 
+Any party carrying out PV activities in whole or in part, on behalf of, or in 
+conjunction with the MAH may be inspected, in order to confirm their capability 
+to support the MAH's compliance with PV obligations. 
+ 
+ 
+Chapter  6 
+ 
+Submission of Risk Management Plan 
+ 
+Contents: 
+ 
+6.1 Introduction 
+ 
+6.2 Objectives 
+ 
+6.3 Contents of RMP
+
+of 70 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6.1 Introduction 
+At the time of marketing authorization, information on the safety of a 
+pharmaceutical product is relatively limited as the clinical studies ar e carried 
+out in aa relatively small number of subjects, restricted population in terms 
+of age, gender, ethnicity, restricted co-morbidity, restricted co-medication, 
+restricted conditions of use, relatively short duration of exposure and follow 
+up. 
+A pharmaceutical product is authorized on the basis that at the time of 
+authorization, the benefit-risk balance is positive. The product may have 
+multiple risks of varying degree associated with it and individual risks wil l 
+vary from product to product. All actual or potential risks might not have 
+been identified at the time of initial authorization. Many risks will only be 
+discovered and characterised during post-marketing phase. 
+ 
+The aim of Risk Management Plan (RMP) is to document the risk 
+management system considered necessary to identify, characterise and 
+minimise a pharmaceutical product ’s important risks. The Risk Minimization 
+strategy involves continuous monitoring of efficacy and safety profile-Risk 
+Identification, Risk Assessment, Risk Characterization, Risk Communication 
+and Risk Mitigation. 
+ 
+Objectives 
+ Identification and characterization of risk to update the safety profile 
+of the pharmaceutical product(s); 
+ Indicate how to characterize further the safety profile of the 
+pharmaceutical product(s);
+
+of 70 
+  Document measures to prevent or minimize the risks associated with a 
+pharmaceutical product, including an assessment of the effectiveness of 
+interventions; 
+ Document post-marketing obligations that have been imposed as a 
+condition of the marketing authorization; 
+ Document any change in the risk profile of a pharmaceutical product(s) 
+after marketing authorization. 
+The RMP document is a dynamic, stand-alone document which should be 
+updated throughout the life-cycle of a pharmaceutical products.  
+The Licence holder will provide the details of safety concern and necessary 
+action taken by him to mitigate any safety concern in the applications of 
+PSUR. 
+ 
+6.2 Description of RMP 
+6.2.1 Pharmaceutical product overview 
+The MAH should provide an overview of a pharmaceutical product including: 
+ Active Pharmaceutical Ingredient(s) information, name of MAH, date 
+and country of first launch/authorization worldwide (if applicable), 
+chemical class, indication (s), mechanism of action, route of 
+administration, pharmaceutical form and strength. 
+ Information on the excipients used in the formulation of a 
+pharmaceutical product should be provided. 
+ Administrative information on the RMP such as data lock point, date 
+submitted and version number of all parts of RMP. 
+ 
+6.2.2 Safety specifications 
+The MAH should provide a synopsis of the safety profile of a pharmaceutical 
+product(s) and should include, what is known and unknown about the 
+pharmaceutical product(s) safety. The safety specification consists of 
+following subsections: 
+ 
+6.2.2.1 Epidemiology, indication (s) and target population(s): 
+This section should include incidence, prevalence, mortality and relevant co-
+morbidity, and should whenever possible be stratified by age, sex, and raci al 
+and/or ethnic origin. 
+ 
+6.2.2.2 Non-clinical part of the safety specifications: 
+This section should present a summary of important non-clinical safety 
+findings like toxicity related information, interactions etc. 
+ 
+6.2.2.3 Clinical trial exposure:
+
+of 70 
+ This section includes the data on the patients studied in clinical trials. This 
+should be stratified for relevant categories (age, gender, indication, ethnicity, 
+exposure to special population-paediatric, geriatric etc.) and also by the ty pe 
+of clinical trial.  
+ 
+6.2.2.4 Populations not studied in clinical trials: 
+This section describes, which sub-populations within the expected target 
+population have not been studied or have only been studied to a limited 
+degree in the clinical trial population. Limitations of the clinical trials should 
+also be presented in terms of the relevance of exclusion criteria such as 
+paediatric population, geriatrics population, pregnant/lactating women, 
+hepatic /renal impairment patients etc. 
+ 
+6.2.2.5 Post-marketing experience: 
+This section should provide information on the number of patients exposed 
+during post-marketing phase; how the pharmaceutical product has been used 
+in clinical practice, labelled and off-label use including use in the spec ial 
+populations mentioned above? This should also include any action taken by 
+any regulatory authority/MAH for safety reason. 
+6.2.2.6 Identified and potential risks:  
+This section provides information on the important identified and potential 
+risks associated with the use of a pharmaceutical product and potential 
+Adverse Events/Adverse Reactions with other pharmaceutical products, foods, 
+other substances, and the important pharmacological class effects. 
+The risk data should include frequency, public health impact, risk factors, 
+preventability, potential mechanism, evidence source/strength. 
+ 
+6.2.2.7 Summary of the safety concerns:  
+At the end of the RMP document, summary of the "Safety concerns/measures" 
+of pharmaceutical products should be provided. 
+ 
+6.2.3 PV activities  
+MAH should list the various PV activities involved to identify a new safety 
+concern or further characterize known safety concerns or investigation of 
+potential safety concerns, whether it is real or not and how missing 
+information will be sought? PV activities can be divided into routine PV 
+activities and additional PV activities. For each safety concern, the MAH 
+should list their planned PV activities for that concern. PV plans should be 
+proportionate to the risks of the product. If routine PV is considered sufficient 
+for post-marketing safety monitoring, without the need for additional actions 
+(e.g. safety studies) "routine PV" should be carried out against the safety 
+concern.
+
+6.2.4 Risk minimization activities 
+The MAH should have the updated Package inserts, Product labelling, 
+Product Information Leaflet (PIL), pack size, risk minimization activities. 
+The MAH should also consider when appropriate to have additional Risk 
+minimization activities like educational material, communication letter to 
+Healthcare Professionals (HCPs) etc. 
+For each safety concern, the following information should be provided: 
+ Objectives of the risk minimization activities; 
+ Routine risk minimization activities; 
+ Additional risk minimization activities (if any), individual objectives 
+and justification, 
+ How the effectiveness of each (or all) risk minimization activities will 
+be evaluated in terms of attainment of their stated objectives? 
+ What the target is for risk minimization? i.e. what are the criteria for 
+judging success? 
+ Milestones for evaluation and reporting. 
+ 
+ 
+ 
+References: 
+ 
+1. Drugs and Cosmetics Act, 1940  
+2. New Drugs and Clinical Trials Rules 2019 
+3. PvPI Guidance for Spontaneous reporting Document 
+4. Guidance for Industry on Pharmacovigilance Requirements for 
+Biological Products-CDSCO 
+5. ICH Guideline: E2E: Pharmacovigilance Planning 
+6. ICH-E2C (R2): Periodic Benefit-Risk Evaluation Report 
+7. ICH-E2D: Post-Approval Safety Data Management: Definition in 
+Standards for Expedited Reporting 
+8. ICH-E3: Structure and Content of Clinical Study Report 
+9. Good Pharmacovigilance Practices (GVP) of European Union 
+10. WHO- UMC: Global Pharmacovigilance
+
+of 70 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Appendices:  
+Appendix A:  
+WHO-UMC causalit y assessment scale  
+ 
+Causality Term Assessment Criteria* 
+ 
+ 
+Certain  • Event or laboratory test abnormality, with plausible time 
+relationship to drug intake  
+• Cannot be explained by disease or other drugs  
+• Response to withdrawal plausible (pharmacologically, 
+pathologically)  
+• Event definitive pharmacologically or 
+phenomenologically (i.e. an objective and specific 
+medical disorder or a recognized pharmacological 
+phenomenon)  
+• Rechallenge satisfactory, if necessary  
+ 
+Probable / 
+Likely  • Event or laboratory test abnormality, with reasonable 
+time relationship to drug intake  
+• Unlikely to be attributed to disease or other drugs  
+• Response to withdrawal clinically reasonable  
+• Rechallenge not required
+
+of 70 
+  
+Possible  • Event or laboratory test abnormality , with reasonable 
+time relationship to drug intake  
+• Could also be explained by disease or other drugs  
+• Information on drug withdrawal may be lacking or 
+unclear  
+ 
+Unlikely  • Event or laboratory test abnormality, with a time to drug 
+intake that makes a relationship improbable (but not 
+impossible)  
+• Disease or other drugs provide plausible explanations  
+ 
+Conditional/ 
+Unclassified  • Event or laboratory test abnormality  
+• More data for proper assessment needed, or 
+• Additional data under examination  
+ 
+Unassessable / 
+Unclassifiable  • Report suggesting an adverse reaction  
+• Cannot be judged because information is insufficient or 
+contradictory  
+• Data cannot be supplemented or verified  
+ 
+ 
+ 
+ 
+ 
+Appendix B:  
+ 
+Example of summary tabulations  
+Note: These examples can be modified by manufacturer and/or importer to 
+suit specific situations, as appropriate.  
+Table 01:   Estimated cumulative subject exposure from clinical 
+trials  
+ 
+Treatment Number of Subjects 
+Pharmaceutical product   
+Compa rator  
+Placebo  
+ 
+Estimates of cumulative subject exposure,  based upon  actual exposure  
+data from completed clinical trials and the enrolment /randomization 
+schemes for ongoing trials.  
+Table 02:   Cumulative subject exposure to new drug from 
+completed clinical trials by age and sex *
+
+Number of Subjects 
+Age Range Male Female Total 
+    
+    
+Table 03:    Cumulative subject exposure to new drug from completed 
+clinical trials by racial/ethnic group*  
+ 
+Racial/Ethnic Group Number of Subjects 
+Asian  
+Black  
+Caucasian   
+Other   
+Unkn own  
+Total   
+ 
+*Data from completed trial as of [date] 
+ 
+Table 04:  Cumulative exposure from marketing experience from 
+India  
+ 
+Indication Sex Age Dose (mg/day) Formulation 
+ Male Female 2 to 16 > 16 to 65 > 65 Unknow
+n < 40 ≥ 40 Unknow
+n Intraven
+ous Oral Others 
+ 
+Overall 
+             
+ 
+Depression 
+             
+ 
+Migraine
+
+includes cumulative data obtained from month/day /year through month /day/year, 
+where available  
+Table 05: Interval exposure from marketing experience from India  
+Indication Sex Age Dose (mg/day) Formulation 
+ Male Female 2 to 16 > 16 to 65 > 65 Unknow
+n < 40 ≥ 40 Unknow
+n Intraven
+ous Oral Others 
+ 
+Depression 
+             
+ 
+Migraine  
+             
+ 
+Includes interval data obtained from month/day /year through month/day /year, 
+where available  
+Table 06: Cumulative exposure from marketing experience from 
+rest of the world  
+Indication Sex Age Dose 
+(mg/day) Formulati
+on ROW 
+(which ever 
+applicable) 
+ Male Female 2 to 16 > 16 to 65 > 65 Unknown < 40 ≥ 40 Unknown Intravenous Oral Others EU Japan Mexico US/Canada Other 
+ 
+Overall                  
+ 
+Depression
+
+of 70 
+ Includes cumulative data obtained from month /day/year through month /day/year, 
+where available  
+Table 07: Interval exposure from marketing experience from rest o f 
+the world  
+Indication Sex Age Dose 
+(mg/day
+) Formulati
+on ROW 
+(which ever 
+applicable) 
+ Male Female 2 to 16 > 16 to 65 > 65 Unknown < 40 ≥ 40 Unknown Intraveno
+us Oral Others EU Japan Mexico US/Canad
+a Other 
+ 
+Depression                  
+ 
+Migraine                   
+ 
+Includes interval data obtained from month/day /year through month/day /year, 
+wherever available  
+Table 08: Cumulative tabulations of Serious Adverse Events from 
+clinical trials  
+ 
+System Organ 
+Class Investigational 
+Pharmaceutical 
+Product Active 
+Comparator Placebo Causality 
+Assessment 
+(Related 
+(R) and Not 
+related 
+(NR) 
+Preferred Term Listed  Not 
+Listed Listed  Not 
+Listed   
+Blood and 
+lymphatic 
+system 
+disorders       
+Anemia           
+Bone Marrow 
+Necrosis       
+Cardiac
+
+of 70 
+  
+Table 09: Number of ADRs using the term (System Organ Class (SOC) 
+and preferred term (PT) from Post-Marketing Sources  
+ 
+ Report Sources (Literature, Spontaneous, 
+solicited or any other) Non-
+interventional 
+post-marketing 
+sources 
+Serious Non-serious Total 
+Spontane
+ous Serious  
+Interv
+al 
+ Cumul
+ative Interv
+al Cumul
+ative  Interv
+al Cumula
+tive 
+SOC 1        
+PT        
+        
+SOC 2        
+PT        
+Appendix C:  
+ 
+Tabular Summary of Safety Signals that were ongoing or closed during the reporting 
+Interval (Reporting Interval: DD -MM -YYYY to DD-MM -YYYY)  
+Signa
+l 
+term* Date 
+detecte
+d @ Status 
+(ongoin
+g or 
+closed)
+# Date 
+closed 
+(for 
+closed 
+signals)
+* Source of 
+Signal** Reason for 
+evaluation 
+& 
+summary 
+of key data 
+@@ Method of 
+signal 
+evaluation Action(s) 
+taken or 
+planned## 
+Strok
+e MM/YY
+Y Ongoing MM/YY
+Y Meta 
+analysis 
+(published 
+trials) Statistically 
+significant 
+increase in 
+frequency Review 
+meta-
+analysis 
+and 
+available 
+data Pending 
+SJS MM/YY
+Y Closed MM/YY
+Y Spontaneo
+us case 
+reports & 
+one case 
+report in 
+Phase IV Rash 
+already an 
+identified 
+risk SJS not 
+reported in 
+pre Targeted 
+follow up of 
+reports with 
+site visit to 
+one 
+hospital.  RSI 
+updated 
+with a 
+Warning 
+and 
+Precaution disorders 
+Tachycardia       
+Ischemic 
+cardiomyopathy
+
+trial authorizatio
+n CTs. 4 
+apparently 
+unconfound
+ed reports 
+within 6 
+months of 
+approval; 
+plausible 
+time to 
+onset Full review 
+of cases by 
+manufactur
+er and/or 
+importer 
+dermatologi
+st and 
+literature 
+searches DHPC sent 
+to 
+oncologists 
+Effectivene
+ss survey 
+planned 6 
+months 
+post DHPC. 
+RMP 
+updated. 
+ 
+*Signal term: A brief descriptive name of a medical concept for the signal. The description 
+may evolve and be refined as the signal is evaluated. The concept and scope may, or may 
+not, be limited to specific term(s), depending on the source of signal.  
+@ Date detected (month/year): Month and year the manufacturer and/or importer 
+became aware of the signal.  
+#Status: Ongoing: Signal under evaluation at the data lock point of the PSUR . Provide 
+anticipated completion date, if known; closed: Signal for which evaluation was completed 
+before the data lock point of the PSUR  
+ 
+Note: A new signal of which the manufacturer and/or importer became aware during the 
+reporting interval may be classified as closed or ongoing, depending on the status of signal 
+evaluation at the data lock point of the PSUR.  
+$ Date closed (month/year): Month and year when the signal evaluation was 
+completed.  
+**Source of signal: Data or information source from which a signal arose. Examples 
+include, but may not be limited to, spontaneous Adverse Event Reports, clinical trial data, 
+scientific literature, non-clinical study results, or information requests or inquiries from a 
+regulatory authority . 
+@@ Reason for evaluation: A brief summary of key data and rationale for further 
+evaluation . 
+## Actions taken or planned: State whether or not a specific action has been taken or is 
+planned for all closed signals that have been classified as potential or identified risks . If 
+any further actions are planned for newly or previously identified signals under 
+evaluation at the data lock point, these should be listed. Otherwise leave blank for ongoing 
+signals . 
+Appendix D:  
+ 
+PSUR Summary Report Checklist
+
+of 70 
+ S. 
+No. Periodic Safety Update Report (PSUR) 
+Checklist Description Status Page 
+No. 
+1. Product for which PSUR submitted    
+1.1 Biologics    
+1.2 Therapeutic Product    
+1.3 Fixed Dose Combinations    
+1.4 Other    
+2. PSUR Submitted To    
+2.1 CDSCO    
+2.2 NCC-PvPI, IPC    
+2.3 AEFI     
+3. Reason for PSUR Submission    
+3.1 Significant change in what is known about the risks 
+and benefits    
+3.2 Requested Periodic    
+3.3 Requested Ad-Hoc    
+3.4 Voluntary List reasons 
+(e.g. New 
+safety 
+information)   
+4. Status in India    
+4.1 Marketed (since)    
+4.2 Non-marketed    
+5. PSUR Information    
+5.1 Executive summary    
+5.2 Date of marketing authorization     
+5.3 Period covered by the present PSUR    
+5.4 Period covered by the previous PSUR     
+6. Appendices (indicate if included in the 
+submission)    
+6.1 Reference Safety Information    
+6.2 Cumulative summary tabulation of serious AEs 
+from clinical trials and interval/cumulative 
+summary tabulations from marketed experience     
+6.3 Tabular summary of safety signals    
+6.4 Listing of interventional and non-interventional 
+studies with a primary objective of post-marketing
+
+of 70 
+ safety monitoring  
+6.5 List of the sources of information used to prepare 
+the PSUR    
+ 
+Appendix E:  
+ 
+Definitions: 
+ 
+Adverse Drug Reactions 
+(ADR)  A response to a drug which is noxious and unintended , and 
+which occurs at doses normally used in humans for the 
+prophylaxi s, diagnosis , or therapy of dis ease , or for the 
+modification of physiological function (WHO, 1972)  
+Adverse Event (AE)  Any untoward medical occurrence in a patient or clinical 
+investigation subject administered a pharmaceutical product 
+and which does not necessarily hav e to have a causal 
+relationship with this treatment.  
+Benefit - risk analysis  Examination of the favorable (beneficial) and unfavorable 
+results of undertaking a specific course of action. (While this 
+phrase is still commonly used , the more logical pairings of 
+benefit harm and effectiveness-risk ar e slowly replacing it) . 
+Causality assessment  The evaluation of the likelihood that a medicine was the 
+causative agent of an observed adverse reaction . Causality 
+assessment is usually m ade according to established algorithms.  
+Company Core Data Sheet 
+(CCDS)  A document prepared by the MAH containing , in addition to 
+safety  
+in format ion , material related to indications , dosing , 
+pharmacology and other information concerning the product.  
+Company Core Safety 
+Information (CCSI)  All relevant safety information contained in the CCDS prepared 
+by the MAH and which the MAH requires to be listed in all 
+countries where the company markets the drug, except when the 
+local regulatory authority specifically requires a modification. It 
+is the reference information by which listed and unlisted are 
+determined for the purposes of periodic reporting for marketed 
+products, but not by which expected ad unexpected are 
+determined for expedited reporting.  
+Clinical trial  A systematic study on pharmaceutical products on human 
+subjects (whether pati ents or non-pati ent volunt eers) in ord er to 
+discov er or v erify the clinical , pharmacological (including 
+pharmacodynamics / pharmacokinetics) and /or adverse effects, 
+with the objective of determining their safety and/or efficacy .
+
+of 70 
+ Identified risk  An untoward occurrence for which there is adequate evidence of 
+an association with th e pharmaceutical product of interest. 
+Examples of identified risks include:  
+• An adverse reaction adequately demonstrat ed in nonclinical 
+studies and confirmed by clinical data;  
+• An adverse reaction observed in well-designed clinical trials or 
+epidemiological studies for which the magnitude of the 
+difference compared with the comparator group (placebo or 
+active substance) on a parameter of int erest suggests a causal 
+relationship ; and an adverse reaction suggested by a number of 
+well 
+An adverse reaction suggested by a number of well 
+documented spontaneous reports where causality is strongly 
+supported by temporal relationship and biological plausibility , 
+such as anaphylactic reactions or application site reactions.  
+Individual Case Safety 
+Report (ICSR)  A report that contains information describing a suspected ADR 
+related to the administration of one or more pharmaceutical 
+products to an individual patient.  
+Investigational drug  The term investigational drug is used in this guideline to 
+indicate only the experimental product under study or 
+development  
+New Drug  According to New Drugs and Clinical Trials rule 2019-   
+“new drug ” means,― (i ) a drug, including active pharmaceutical 
+ingredient or phytopharmaceutical drug, which has not been used 
+in the country to any significant extent, except in accordance with 
+the provisions of the Act and the rules made thereunder, as per 
+conditions specified in the labelling thereof and has not been 
+approved as safe and efficacious by the Central Licencing 
+Authority with respect to its claims;  
+or  
+(ii) a drug approved by the Central Licencing Authority for 
+certain claims and proposed to be marketed with modified or new 
+claims including indication, route of administration, dosage and 
+dosage form;  
+or  
+(iii) a fixed dose combination of two or more drugs, approved 
+separately for certain claims and proposed to be combined for the 
+first time in a fixed ratio, or where the ratio of ingredients in an 
+approved combination is proposed to be changed with certain 
+claims including indication, route of administration, dosage and 
+dosage form; or  
+(iv) a modified or sustained release form of a drug or novel drug 
+delivery system of any drug approved by the Central Licencing 
+Authority; or  
+(i) a vaccine, recombinant Deoxyribonucleic Acid (r-DNA) 
+derived product, living modified organism, monoclonal anti-
+body, stem cell derived product, gene therapeutic product or
+
+of 70 
+ xenografts, intended to be used as drug; 
+Explanation.― The drugs, other than drugs referred to in sub -
+clauses (iv) and (v), shall continue to be new drugs for a period of 
+four years from the date of their permission granted by the 
+Central Licencing Authority and the drugs referred to in sub-
+clauses (iv) and (v) shall always be deemed to be new drugs; 
+Marketing Authorization 
+Holder (MAH)  For the purpose of this guidance document,  Marketing 
+Authorization Holder (MAH) refers to the manufacturer or the 
+importer of the drug, who has valid manufacturing or import 
+license . 
+Post-marketing  The stage when a drug is generally available on the market.  
+Potential Risk  An untoward occurrence for which there is some basis for 
+suspicion of an association with the medicinal product of 
+interest but where this association has not been confirmed. 
+Examples of potential risks include: non-clinical safety concerns 
+that have not been  
+• Observed or resolved in clinical studies; adverse events 
+observed in clinical trials or  
+• Epidemiological studies for which the magnitude of the 
+difference, compared with the comparator group (placebo or 
+active substance, or unexposed group), on the parameter of 
+interest raises a suspicion of , but is not large enough to 
+suggest , a causal relationship; an event which is known to be 
+associated with other  
+• Products of the same class or which could be expected to occur 
+based on the properties of the medicinal product.  
+PSUR  The Periodic Safety Update Report (PSUR) is a stand-alone 
+document that allows a periodic but comprehensive assessment 
+of the worldwide safety data of a pharmaceutical product.
+
+Reference Safety 
+Information (RSI)  All relevant safety information contained in the reference 
+product information (e .g., CCDS) prepared by the MAH and 
+which the MAH requires to be listed in all countries where the 
+company markets the drug , except when the local regulatory 
+authority specifically requires a modification. It is a subset of 
+information contained within the MAH's reference product 
+information for the PBRER. Where the reference product 
+information is the Company Core Data Sheet (CCDS) , the 
+reference safety information is the Company Core Safety 
+Information (CCSI) . 
+Serious Adverse Event  A serious adverse event or reaction is any untoward medical 
+occurrence that at any dose:  
+results in death  
+results in life-threatening condition  
+requires inpatient hospitalization or prolongation of existing 
+hospitalization  
+results in persistent or significant 
+disability /incapacity is a congenital 
+abnormality/birth defect  
+Side effect  Any unintended outcome that seems to be associated with 
+treatment, including negative or positive effects. This term has 
+come to be used exclusively in the sense of 'adverse effect'; this 
+loses the important dimension of potential reference to 
+unintended positive effects as well as linguistically masking the 
+adverse element of a negative side effect.  
+Solicited reports  Solicited reports are those derived from organized data 
+collection systems , which include clinical trials, registries, post-
+approval named patient use programs, other patient support 
+and disease management programs , surveys of patients or 
+healthcare providers, or information gathering on efficacy or 
+patient compliance . 
+Spontaneous Report  An unsolicited communication to a company , regulatory 
+authority , or other organization that describes an ADR in a 
+patient given one or more medicinal products and which does not 
+derive from a study or any organized data collection scheme.  
+Signal  Information that arises from one or multiple sources (including 
+observations and experiments), that suggests a new potentially 
+causal association, or a new aspect of a known association, 
+between an intervention and an event or set of related events, 
+either adverse or beneficial , that is judged to be of sufficient 
+likelihood to justify further action to verify.  
+Summary of Product 
+Characteristics  A regulatory document attached to the marketing authorization 
+which forms the basis of the product information made available
+

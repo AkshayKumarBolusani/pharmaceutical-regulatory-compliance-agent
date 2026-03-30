@@ -1,0 +1,1445 @@
+Best Practices for FDA Staff in 
+the Postmarketing Safety 
+Surveillance of Human Drug 
+and Biological Products 
+U.S. Department of Health and Human Services 
+Food and Drug Administration 
+Center for Drug Evaluation and Research (CDER) 
+Center for Biologics Evaluation and Research (CBER) 
+January 2024 
+Drug Safety
+
+Best Practices for FDA Staff in 
+the Postmarketing Safety 
+Surveillance of Human Drug 
+and Biological Products 
+Additional copies are available from: 
+Office of Communications, Division of Drug Information 
+Center for Drug Evaluation and Research 
+Food and Drug Administration 
+10001 New Hampshire Ave., Hillandale Bldg., 4th Floor 
+Silver Spring, MD 20993 -0002 
+Phone: 855 -543-3784 or 301 -796-3400; Fax: 301 -431-6353 
+Email: druginfo@fda.hhs.gov 
+and/or 
+Office of Communication, Outreach and Development 
+Center for Biologics Evaluation and Research 
+Food and Drug Administration 
+10903 New Hampshire Ave., Bldg. 71, Room 3128 
+Silver Spring, MD 20993 -0002 
+Phone: 800 -835-4709 or 240 -402-8010 
+Email: ocod@fda.hhs.gov 
+U.S. Department of Health and Human Services 
+Food and Drug Administration 
+Center for Drug Evaluation and Research (CDER) 
+Center for Biologics Evaluation and Research (CBER) 
+January 2024 
+Drug Safety
+
+TABLE OF CONTENTS 
+1. Executive Summary ............................................................................................................................... 1 
+2. Introduction .......................................................................................................................................... 1 
+Regulatory History ........................................................................................................................ 1 
+Scope and Goals of This Document .............................................................................................. 2 
+Related Documents ....................................................................................................................... 3 
+Terms Referenced Throughout Document ................................................................................... 3 
+3. FDA’s Adverse Event Reporting Systems .............................................................................................. 4 
+4. Risk-based Approach to Drug Safety Surveillance ................................................................................ 5 
+5. Special Topics in Drug and Biological Product Safety Surveillance ....................................................... 7 
+Biological Products ........................................................................................................................ 7 
+Biosimilar Products ............................................................................................................... 8 
+Generic Drug s................................................................................................................................ 8 
+Nonprescription Drug Products .................................................................................................. 10 
+Orphan Drugs and Dr ugs for Rare Diseases or Conditions ......................................................... 10 
+Compounded Drugs .................................................................................................................... 11 
+Homeopathic Drug Products ....................................................................................................... 12 
+Combination Products ................................................................................................................ 12 
+Medication Errors ....................................................................................................................... 13 
+Specific Patient Populations ........................................................................................................ 15 
+Pregnant Population ........................................................................................................... 15 
+Pediatric Population ............................................................................................................ 17 
+Geriatric Population ............................................................................................................ 18 
+Misuse, Abuse, Addiction, and Overdose ................................................................................... 19 
+Product Quality Issues ................................................................................................................. 19 
+6. Safety Signal Identification ................................................................................................................. 20 
+Data Sources ............................................................................................................................... 20 
+FAERS and VAERS ................................................................................................................ 20 
+Data Mining ......................................................................................................................... 21 
+Medical Literature ............................................................................................................... 22
+
+Frequency and Extent of Screening ............................................................................................ 24 
+Signal P rioritization ..................................................................................................................... 25 
+7. Signal Evaluation and Documentation ................................................................................................ 26 
+FAERS, VAERS, and the Medical Literature ................................................................................. 26 
+ICSR Retrieval ...................................................................................................................... 26 
+Case Definition .................................................................................................................... 26 
+Assessment of ICSRs for Causal Association ....................................................................... 27 
+Case Series .......................................................................................................................... 27 
+Product Utilization ...................................................................................................................... 28 
+Reporting Ratios .......................................................................................................................... 28 
+Epidemiologic Assessments ........................................................................................................ 29 
+8. Causal Association Between Product and AE ..................................................................................... 29 
+9. Actions ................................................................................................................................................ 30 
+Product Labeling Changes ........................................................................................................... 30 
+Safety Communications .............................................................................................................. 31 
+Postmarketing Studies and Trials ................................................................................................ 32 
+Enhanced Pharmacovigilance Activities ...................................................................................... 32 
+Web Posting of Potential Safety Signals ..................................................................................... 32 
+Risk Evaluation and Mitigation Strategies .................................................................................. 33 
+10. Exploring New Approaches ................................................................................................................. 34 
+11. Acronyms Used ................................................................................................................................... 34
+
+Best Practices for FDA Staff in the Postmarket ing Safety 
+Surveillance of Human Drug and Biological Product s 
+This document ,1 Best Practices for FDA Staff in the Postmarket ing Safety Surveillance of Human Drug 
+and Biological Product s, sets forth risk -based principles for the Food and Drug Administration’s (FDA or 
+Agency) conduct of ongoing postmarketing safety surveillance for human drug products and human 
+biologic al products.2 The main topics this document addresses include: 
+• A multidisciplinary, life -cycle approach to the management of drug and biological product safety 
+• General considerations that inform the frequency and extent of systematic drug and biologic al 
+product safety monitoring (section 4) 
+• Additional considerations based on specific product types and patient populations ( section 5) 
+• Safety signal identification based on screening and data mining of the adverse event (AE) 
+reporting system and ot her data sources, including general practices for the frequency and extent 
+of screening these data sources, as well as prioritizing identified signals (section 6) 
+• A multidisciplinary, comprehensive evaluation of the identified safety signal that integrates the 
+cumulative data gathered from all available sources ( section 7) 
+• An assessment of the causal association between the product and the identified AE (s ection 8) 
+• An overview of r egulatory and othe r actions that can be taken in response to identified safety 
+signals (section 9) 
+Regulatory History 
+Title IX, section 915 of the Food and Drug Administration Amendments Act (FDAAA) of 2007 added 
+section 505(r) to the Federal Food, Drug, and Cosmetic Act (FD &C A ct) (21 U.S.C. 355(r )),3 requiring 
+FDA to prepare— 
+. . . by 18 months after approval of a drug or after use of the drug b y 10,000 individuals, 
+whichever is later, a summary analysis of the adverse drug reaction reports received for the drug, 
+including identification of any new risks not previously identified, potential new risks, or known risks reported in unusual number .
+
+FDAAA also added subsection (k)(5) to section 505 of the FD&C Act, which required FDA to — 
+1 This document was prepared by the Office of Surveillance and Epidemiology (OSE), in collaboration with other 
+offices in the Center for Drug Evaluation and Research (CDER) and with the Center for Biologics Evaluation and 
+Research (CBER), at the Food and Dr ug Administration. 
+2 For the purposes of this document, all further references to drugs, products, or drug products mean human drug and 
+biological products regulated by CDER and CBER, unless otherwise specified. 
+3 https://www.govinfo.gov/content/pkg/PLAW -110publ85/html/PLAW -110publ85.htm .
+
+conduct regular, bi -weekly screening of the Adverse Event Reporting System database and post a quarterly 
+report on the Adverse Event Reporting System Web site of any new safety information or potential signal 
+of a serious risk identified by Adverse Event Reporting System within the last quarter.5 
+Section 3075 of the 21st Century Cures Act (Cures Act) (Public Law 114 -255) amended section 
+505(r)(2)(D) of the FD&C A ct to eliminate the requirement for summary analyses for drugs as required 
+by FDAAA.  In place of the summary analyses, section 3075 amended section 505(r)(2)(D) of the FD&C 
+Act to include the requirement that FDA make publicly available on its internet website “. . . best 
+practices for drug safety surveillance activities for drugs approved under this section or section 351 of the 
+Public Health Service Act .” 
+Section 3075 of the Cures Act also amended s ection 505(k)(5) of the FD&C Act by striking “bi-weekly 
+screening ,” in subparagraph (A) , and insert ing “screenings; ” it also added the requirement that FDA make 
+publicly available on its internet website the following: 
+(i) guidelines, developed with input from experts qualified by scientific training and experience to 
+evaluate the safety and effectiveness of drugs, that detail best practices for drug safety surveillance 
+using the Adverse Event Reporting System; and 
+(ii) criteria for public posting of adverse event signals. 
+Scope and Goals of T his Document 
+As its primary focus, this document sets forth risk -based principles for FDA’s conduct of ongoing 
+postmarketing safety surveillance for drug and biological products to address the Cures Act requirements 
+to develop and make publicly available best practices and guidelines related to drug safety surveillance.  
+Although section 3075 of the Cures Act only references drugs approved under section 505 of the FD&C 
+Act or section 351 of the Public Health Service Act (PHS Act ), this document additionally discusses other 
+products, including nonprescription drug product s, compounded drug products , and homeopathic 
+products.6 It also includes a high-level overview of other drug safety surveillance data sources, tools, 
+methods, and activities that extend beyond use of FDA’s adverse event reporting system s (described in 
+section 3), as well as regulatory and other actions that can be taken in response to identified safety signals. 
+These additional topics are in cluded to provide context and a general overview of FDA’s safety 
+surveillance process. As described below, different data sources, tools, and methods for drug safety 
+surveillance may be applicable depending on the specific type of product. 
+The drug safety surveillance principles and best practices detailed in this document build upon lessons 
+learned in preparing and publicly posting the s ummary analyses previously required under section 505(r) 
+of the FD&C Act .  FDA conducted a study to assess the impact of these summary analyses on regulatory 
+actions.7 In interpreting the study findings, FDA determined these summary analyses were largely 
+redundant to the surveillance practices in place at the time FDAAA took effect and were not an efficient 
+5 Ibid. 
+6 Biological products discussed in this document are limited to those with appro ved biologics license applications 
+(BLAs) for which manufacturers are required to submit adverse experience reports under 21 CFR 600.80. 
+Pharmacovigilance considerations for other biological products (e.g., whole blood and blood components, which are exem pt from reporting requirements under 21 CFR 600.80) are not discussed in this document. 
+7 Sekine S, Pinnow EE, Wu E, Kurtzig R, Hall M, Dal Pan GJ . Assessment of the impact of scheduled
+
+use of FDA resources. Furthermore, many drug and biological products for rare diseases never met the 
+10,000-individual use threshold for the summary analysis requirement. 
+Related Documents 
+The Center for Drug Evaluation and Research (CDER ) and the Center for Biologics Evaluation and 
+Research (CBER) maintain procedural documentation for various internal practices for evaluation of 
+drugs (i.e., CDER’s Manual o f Policies and Procedures8 (MAPP s), CDER’s Standard Operating 
+Procedures (SOPs) ,9 and CBER’s Standard Operating Procedures and Policies10 (SOPPs)).   FDA also 
+issues guidance documents that r epresent the Agency's current thinking on a particular subjec t.  
+Guidances are posted on the FDA website, and FDA maintains a searchable web page of those that relate 
+specifically to drug s.11 
+Terms R eferenced Throughout Document 
+An adverse event (AE) means any untoward medical occurrence associated with the use of a drug product 
+in humans, whether or not it is considered related to the drug product. An AE can occur in the course of 
+the use of a drug product; from overdose of a drug product, whether accidental or intentional; from abuse 
+of a drug product; from discontinuation of the drug product (e.g., physiological withdrawal); and it 
+includes any failure of expected pharmacological action.12 
+The term AE of interest is used to describe an AE that FDA reviewers may closely monitor during 
+postmarket ing surveillance based upon biological plausibility or known class effect, as well as signals 
+identified from any source that upon evaluation warrant close monitoring. 
+For purposes of prescription drug labeling, an adverse reaction is an undesirable effect, reasonably 
+associated with use of a drug, that may occur as part of the pharmacological action of the drug or may be 
+unpredictable in its occurrence. This definition does not include all AEs observed during use of a drug, 
+only those AEs for which there is some basis to believe there is a causal relationship between the drug 
+and the occurrence of the AE .13 
+FDA uses the term signal to mean information that arises from one or multiple sources (including 
+observations and experiments) that suggests a new potentially causal association, or a new aspect of a 
+known association, between an intervention and an event or set of related events, either adverse or beneficial, that is judged to be of sufficient likelihood to justify further action to verify.
+14 Becau se this 
+8 A listing of CDER MAPPs is available at https://www.fda.gov/about- fda/center -drug-evaluation -and-research -
+cder/cder -manual -policies -procedures -mapp . 
+9 MAPP 4001.1, describing the policy for developing, issuing, and maintaining SOPs for CDER, is available at 
+https://www.fda.gov/about- fda/center -drug-evaluation -and-research -cder/cder -manual -policies -procedures -mapp . 
+10 A listing of CBER SOPPs is available at 
+https://www.fda.gov/vaccines -blood- biologics/guidance -compliance -regulatory -information -biologics/biologics -
+procedures -sopps . 
+11 FDA Guidances related to drugs are av ailable at https://www.fda.gov/drugs/guidance -compliance -regulatory -
+information/guidances -drugs . 
+12 See, e.g., 21 CFR 310.305(b), 314.80(a) and 600.80(a). 
+13 See 21 CFR 201.57(c)(7) and the guidance for industry Adverse Reactions Section of Labeling for Human 
+Prescription Drug and Biological Products — Content and Format (January 2006) is available at 
+https://www.fda.gov/RegulatoryInformation/Guidances/default.htm . 
+14 The guidance for industry E2C(R2) Periodic Benefit -Risk Evaluation Report (PBRER) (July 2016) is available at
+
+document focuses on safety surveillance, the term signal is used herein to describe adverse (and not 
+beneficial) effects. 
+Acronyms used in this document are defined at first use and are listed in section 11. 
+FDA’s adverse event reporting systems are designed to support postmarketing safety surveillance 
+program s for drug and biological products. 
+The FDA Adverse Event Reporting System15 (FAERS) is a database that contains individual case safety 
+reports (ICSRs) of AEs and medication errors . ICSRs in the FAERS database provide critical 
+information to FDA during ongoing drug safety surveillance in the postmarketing period. Since 2017, the 
+FAERS Public Dashboard16 has been available to the public to improve data access and transparency. 
+When FDA receives a query from an outside entity regarding data the outside entity pulled and analyzed 
+from the FAERS Public D ashboard , FDA r eviewers may search the FAERS Public Dashboard to better 
+understand what was retrieved . FDA reviewers should keep in mind that the FAERS Public D ashboard 
+displays only certain informatic fields and does not display the narrative portion of the ICSR. 
+Additionally, the FAERS Public Dash board is updated periodically, so its data are not as current as the 
+data in FAERS.  
+The Vaccine Adverse Event Reporting System17 (VAERS) is an anal ogous database that underpins the 
+national program jointly managed by the U.S. Centers for Disease Control and Prevention (CDC) and 
+FDA to monitor the safety of vaccines licensed in the United States.  FDA and CDC analyze information 
+from VAERS , which accepts reported information about AEs that occur after vaccination. The National 
+Childhood Vaccine Injury Act (NCVIA ) (42 U .S.C. 300aa -25) mandates that health care providers and 
+vaccine manufacturers report certain specified vaccine event s, as well as any event that is listed in the 
+manufacturer's package insert as a contraindication to the vaccine.18,19 
+FDA receives ICSRs from two main sources: the regulated industry and the public.  ICSRs from industry 
+are reported to FDA on a mandatory basis (e.g., by applicants, manufacturers, packers, distributors, and 
+15 More information about FAERS is available at https://www.fda.gov/drugs/surveillance/questions -and-answers -
+fdas-adverse -event -reporting -system- faers. 
+16 The FAERS Publi c Dashboard is available at https://www.fda.gov/drugs/questions -and-answers -fdas-adverse-
+event -reporting -system- faers/fda -adverse- event -reporting -system- faers -public -dashboard . 
+17 More information about VAERS is available at https://vaers.hhs.gov/index . 
+18 Although most AE reporting is voluntary for health care providers, health care providers are required to report 
+some AEs for vaccines. Vaccine Safety Questions and Answers are available at https://www.fda.gov/vaccines -
+blood -biologics/safety -availability -biologics/vaccine -safety -questions -and-answers . 
+19 The VAERS Reportable Events Table lists the e vents that are reportable by law under NCVIA and is available at
+
+responsible persons20) subject to FDA’s requirements for postmarketing safety reporting.21,22 Members of 
+the general public, including health care providers, patients, consumers, and family members , have two 
+main avenues to voluntarily report an AE.  They may report it to the applicant or unapproved drug 
+manufacturer, or they may report directly to FDA. Applicant s and unapproved product manufacturers 
+must report certain AE s reported to them by the public to FDA in accordance with regulatory 
+requirements. 
+Consistent with the mission to protect and advance the public health, it is essential for FDA to monitor the 
+safety of products over their life cycle and take regulatory action(s) when appropriate .  FDA's safety 
+surveillance begins early in the product’s life cycle as part of the review process that may lead up to FDA 
+approval. Once a marketing application for a produ ct is filed, a multidisciplinary team is formed to assess 
+the application, including considering appropriate measures to continue to assess the safety of the product 
+if and when it gains FDA approval.  Members of the multidisciplinary team have expertise i n medicine, 
+pharmacology, epidemiology, safety surveillance, medication error prevention, risk management , product 
+quality, and statistical analysis.  
+It is not possible to identify all risks of a product during the clinical trials and scientific review conducted 
+as part of that product’s development . Once a product is approved and marketed , new information about 
+the safety of the product may be learned. For example, after approval and marketing, many more patients 
+will be exposed to the product, including more patients with comorbid conditions and on concomitant 
+medical products, providing more information. Together, the FDA multidisciplinary team should 
+determine the postmarketing surveillance strategy and activities on a product -specific basis using a risk -
+based approach.  The team should also consider what additional activities, if any, an applicant must 
+perform in the postmarketing period. 
+Once FDA approves a product, risk -based postmarketing safety surveillance begins and continues for the 
+life of the product .  The principles of risk-based safety surveillance include considerations of the 
+product’s characteristics and use in a manner that informs the frequency and extent of systematic 
+monitor ing. Reviewers should generally conduct more extensive monitoring of the following:  
+• New drug applications ( NDAs) that are new molecular entities (NMEs) 
+• Original biologic s license applications (BLAs) 
+20 “Responsible persons” is the term used for the manufacturer, packer, or distributor whose name appears on the 
+label of a nonprescription drug marketed in the United States without an approved application and who has AE 
+reporting responsibilities under section 760 of the FD&C Act. 
+21 Reporting regulations for products addressed in this document are found in 21 CFR 310.305 (prescription drugs 
+marketed for human use without an approved application); 21 CFR 314.80 (human drugs with approved NDAs); 21 
+CFR 314.98 (human drugs with approved ANDAs) ; 21 CFR 600.80 (human biological products with approved 
+BLAs); 21 CFR 329.100 (nonprescription human drug products marketed without an approved application); and 21 
+CFR Part 4, Subpart B (combination products) . 
+22 For the purposes of this document, applica nts refers to all persons (including manufacturers, packers and 
+distributors ) with postmarketing safety reporting responsibilities except when referring to certain products marketed 
+without an approved application (e.g., homeopathic drug products and compounded drug products) , in which case
+
+• Newly approved dosage form s or route s of administration of an existing product with increased 
+safety concern s 
+• Newly approved indications or populations for an existing product or approval of a higher dosage 
+with increased safety concerns 
+Reviewers should also monitor the safety of products that are not the subject of approved applications , 
+including homeopathic products , over-the-counter ( OTC ) monograph drug product s, and compounded 
+products .  The prin ciples of safety surveillance described in this document generally apply to these 
+products as well, although specific approaches may or may not be applicable depending on the specific 
+type of product . 
+When conducting surveillance, reviewers should focus on information that suggests a safety signal or 
+broadly describes safety concerns (i.e., important identified risk (s), important potential risk (s), and 
+important missing information)23 for the product under evaluation.  Reviewers should focus on the 
+following types of safety information :24 
+• Important potential risks of the product recognized at the time of or after approval 
+• Apparent increase in the severity or frequency of reporting of a labeled event (i.e., adverse 
+reaction ) 
+• Deaths, particularly in populations or in patients using the product for indications for which there 
+would not be the expectation of death 
+• AEs for which causal attribution to the product is biologically plausible , based on the product’s 
+known pharmacological action or nonclinical toxicity stud ies 
+• Reports of unlabeled, serious AEs25 
+• Serious AEs thought to be rare in the general population and associated with a high product -
+attributable risk, such as Stevens-Johnson s yndrome, Torsades de Pointes, or agran ulocytosis 
+• Interactions with another drug or biologic al product , or interactions with a food or dietary 
+supplement 
+• Reports of reduced effectiveness 
+• Medication errors26 resulting from confusion about a product's name, labeling, packaging, or use 
+• Off-label use, misuse, abuse, and other intentional uses of a product in a manner that is 
+inconsistent with the FDA -approved labeling 
+• Serious risks that an approved risk evaluation and m itigation strategy (REMS) is intended to 
+mitigate 
+23 The guidance for industry E2E Pharmacovigilance Planning (April 2005) describes a method for summarizing 
+important risks. Available at https://www.fda.gov/RegulatoryInformation/Guidances/default.htm. 
+24 For additional information, see the guidance for industry Good Pharmacovigilance Practices and 
+Pharmacoepidemiologic Assessment (March 2005) at 
+https://www.fda.gov/RegulatoryInformation/ Guidances/default.htm . 
+25 A serious adverse drug experience results in any of the following outcomes: death, a life -threatening adverse drug 
+experience, hospitalization (inpatient or prolonged), persistent or significant disability/incapacity, or congenital 
+anomaly/birth defect. Other important medical events may be considered to be serious adverse experiences when 
+they may jeopardize a patient and required intervention to prevent one of the listed outcomes. See, e.g., 21 CFR 
+314.80(a) and 600.80(a).
+
+Biological P roducts 
+Biological products may be produced through biotechnology in a living system , such as a microorganism, 
+plant cell, or animal cell, and also may include products that are isolated from a variety of natural sources 
+including humans, animals, and microorganisms.  Examples of biologic al product s include vaccines, gene 
+therapies, allergenic products , cellular therapies, and blood -derived and recombinant therapeutic 
+biologic al product s, such as monoclonal antibodies, immune globulins, clotting factors, and enzyme 
+replacement therapies. Biologic al product s that are demonstrated to be biosimilar to or interchangeable 
+with FDA -approved biological product s are discussed in subsection 5.1.1, below. 
+AE reporting practices and regulations for biological products licensed under section 351 of the PHS Act , 
+including vaccines, are similar to those for drug s approved under section 505 of the FD&C Act, and the 
+pharmacovigilance practices discussed in this document generally apply to biological product s as well. 
+However, there are issues specific to biological product s that should be addressed when monitoring 
+postmarketing safety.  These issues include immunogenicity, product manufacturing variability, and risk 
+of product contamination with infectious agents.27 
+Immunogenicity as a safety concern in therapeutic biological products 
+Most biological product s elicit immunological responses to some extent following human 
+administration,28 which may result in the following clinical effects: 
+• Anaphylaxis and serious hypersensitivity reactions— allergic reactions may occur with a 
+biologic al product at a relatively low incidence so these events may not have been detected in the 
+product ’s premarket studies.  All routine and aggregate analyses of each product’s postmarketing 
+safety generally include monitoring of AE s that indicate anaphylaxis or other allergic reactions. 
+• Immune complex disease —the immunogenicity of a therapeutic biologic al product may result in 
+large complexes of the therapeutic biological product in combination with antibodies, resulting in 
+what is known as immune complex disease.  Such complexes may accumulate in organs, resulting 
+in organ dysfunction. 
+• Reduced effectiveness—therapeutic biologic al product s can stimulate an immune response 
+against the biologic al product itself through the production of anti -drug antibodies ; this immune 
+response can lead to a decrease in effectiveness of the therapy. 
+• Human protein analogs —administration of therapeutic biologic al product s that are similar to 
+human proteins can , in rare cases, lead to breakage in immune tolerance.  That is, some patients 
+who receive such products can develop an immune response to the natural human protein, which 
+may result in sustained loss of function of the protein, even after discontinuation of the 
+therapeutic biologic al product . 
+• Off-target binding—in addition to the intended site of action, therapeutic biologic al product s may 
+rarely bind to other tissues, which may cause an AE because of stimulation of an inappropriate 
+immune response. 
+27 Immunogenicity assessments are also applicable to certain drug products (e.g., heparin, oligonucleotides). 
+28 Wadhwa M, Thorpe R. Unwanted immunogenicity: lessons learned and future challenges. Bioanalysis .
+
+Product manufacturing variability 
+The structure of biological product s is typically larger and more complex than that of other drugs, and the 
+manufacturing process is generally more complex.  Additionally, because some source materials are 
+derived from biological materials, there can be naturally occurring variabilities in the characteristics of 
+these materials with each batch of product.  Hence, despite the best efforts of manufacturers to control 
+processes and minimize product variability, product quality issues (PQIs) may still occur. Therefore, 
+FDA reviewers should analyze AEs by lot number and identify potential manufacturing issues during 
+postmarketing surveillance when lot information is included in reports of potential PQIs submitted to 
+FDA. 
+Product contamination 
+Another complexity of biological products is that manufacturing may include biological systems . In 
+certain cases, there is a potential for source material to be contaminated with infectious agents. 
+Therefore, safety monitoring for these products should routinely include surveillance for infections. 
+Biosimilar Products 
+The Biologics Price Competition and Innovation Act of 2009 (BPCI Act) amended the PHS Act and other 
+statutes to create an abbreviated licensure pathway in section 351(k) of the PHS Act for biosimilar 
+biological products and interchangeable biosimilar biological products .29 A biosimilar is a biological 
+product that is highly similar to and has no clinically meaningful differences from an existing FDA -
+approved reference product. Minor differences between the reference product and the proposed 
+biosimila r product in clinically inactive components are acceptable. 
+Biosimilars should be screened in the postmarketing setting for AEs, including immunogeni city safety 
+issues. Additionally, reviewers should screen for any unique product -specific AEs that are shared with 
+the reference product and ma y not have been previously recognized.  
+AEs pertaining to biosimilar products may be reported to FDA by proprietary name or nonproprietary 
+(proper ) name. The reporter may inadvertently use the reference product’s proprietary name or 
+nonproprietary name to identify the biosimilar product ; the narrative portion of the ICSR may contain 
+more information about the identity of the reported product .  It is important for reviewers to keep these 
+potential reporting limitations in mind to avoid misattributing the reported AE(s).  
+Generic D rugs 
+To obtain approval for a generic drug under section 505(j) of the FD&C Act, an abbreviated new drug 
+application ( ANDA) applicant is not required to provide independent evidence of the safety and 
+effectiveness of the proposed generic drug. A drug for which an ANDA is submitted, with limited 
+exceptions, must have, among other things, the same active ingredient(s), strength, dosage form (e.g., 
+tablets, capsules, injectable), route of administration (e.g., oral, topical, intravenous), and labeling as the reference listed drug (RLD).
+30 An ANDA applicant also must demonstrate that its proposed generic drug 
+product is bioequivalent to the RLD,31 that the conditions of use have been previously approved for the 
+29Additional information on t he Implementation of the Biologics Price Competition and Innovation Act of 2009 is 
+available at https://ww w.fda.gov/drugs/guidance -compliance -regulatory- information/implementation -biologics -
+price -competition -and-innovation -act-2009 . 
+30 See generally section 505(j)(2) of the FD&C Act and 21 CFR 314.94.
+
+RLD, and that it meets the same high standards of quality and manufacturing as drug products approved 
+under subsection (c) of the FD&C Act. If the requ irements for approval are met, after a rigorous FDA 
+review process, an ANDA may rely on FDA’s finding that the RLD is safe and effective. Generally, an ANDA drug product is rated therapeutically equivalent to its RLD upon approval.
+
+FDA surveillance gen erally occurs for all approved generic drug products, though certain products, such 
+as solid oral dosage form products with modified-release mechanisms, drug-device combination products 
+(e.g., implants, inhalation solution, nasal spray , transdermal systems), and products with a narrow 
+therapeutic index may receive greater focus. Generic drug safety surveillance should follow a 
+multidisciplinary process built upon continuous collaboration in monitoring and analyzing all available 
+postmarketing AE and medica tion error safety data. Rare events relevant to the RLD and generic drugs 
+may become apparent only with increasing population exposure to the active ingredient, such as when both the RLD and generic drugs are marketed. 
+Additionally, because of allowable differences between a generic drug product and its RLD, certain rare 
+issues observed during FDA surveillance may relate only to the generic drug product, which may pose challenges for generic drug pharmacovigilance activities. A product approved in an ANDA may differ 
+from the RLD in various ways, including formulation and device constituent parts.
+33 Additionally, certain 
+products approved in ANDAs, known as petitioned ANDAs, differ from the RLD in dosage form, route 
+of administration, strength, or active ingredient (in a product with more than one active ingredient).34 As 
+such, safety surveillance for generic drugs should include processes for detecting AEs and medication errors possibly related to such allowable differences (e.g., product quality attribute differences) between 
+RLDs and generic drugs or among generic drugs to the same RLD. 
+Because of greater familiarity with proprietary names associated with RLDs, when members of the public 
+report an AE associated with use of a generic drug, they often submit a report to FDA that lists the drug 
+by the proprietary name associated with the RLD, or they report the event directly to the RLD 
+manufacturer.  In addition, when there are multiple generic drugs on the market, the reporter may not know which specific generic drug is involved and thus may list the RLD product or t he wrong generic 
+drug.  Based on the reported information, reviewers may have great difficulty determining whether the 
+drug used was the RLD or a generic drug (and if there are multiple approved generic drugs, which generic 
+drug).  This can lead to misattr ibution of specific generic -associated AEs.
+
+32 See 21 CFR 314.3(b) for a definition of therapeutic equivalence. For additional information on therapeutic 
+equivalence evaluations, see the draft guidance for industry, Evaluation of Therapeutic Equivalence (July 2022), 
+available at https://www.fda.gov/regulatory -information/search -fda-guidance -documents . When final, this guidance 
+will represent the FDA ’s current th inking on th is topic. 
+33 See 21 CFR 3.2(e). 
+34 For such ANDAs, FDA has determined, in response to a petition submitted under 505(j)(2)(C) of the FD&C Act 
+(suitability petition), that studies are not necessary to establish the safety and effectiveness of the proposed drug 
+product. See section 505(j)(2)(C) of the FD&C Act; 21 CFR 314.93 and 314.3(b). If approved, a petitioned ANDA 
+is not rated as therape utically equivalent to its RLD. See the draft guidance for industry, Evaluation of Therapeutic 
+Equivalence (July 2022), available at https://www.fda.gov/regulatory -information/search -fda-guidance -documents . 
+When final, this guidance will represent the FDA’s current thinking on this topic. 
+35 Bohn J, Kortepeter C, Muñoz M, Simms K, Montenegro S, Dal Pan G . Patterns in spontaneous adverse event
+
+One safety surveillance concern for all generic drugs is reports suggesting an increase or decrease in the 
+therapeutic effect in a patient when a generic drug is substituted for its RLD or another generic drug, rated 
+as therapeutically equivalent.  It may be appropriate for reviewers to monitor for numbers of reports out of proportion to the distribution of a particular marketed generic drug product.  All potential generic drug 
+safety signals, including those that are suggestive of a potential quality attribute or therapeutic 
+equivalence issue, should be evaluated in a collaborative process with other FDA offices in the context of 
+available data. 
+Nonprescription Drug Products 
+In general, nonprescription drug pr oducts are marketed under section 505G of the FD&C Act (referred to 
+here as OTC monograph drugs) or under an NDA, BLA , or ANDA. Like other products marketed under 
+an NDA, a BLA, or an ANDA, nonprescription drug product s marketed under one of these applications 
+have a regulatory requirement for applicants to submit AE reports, including periodic safety reports 
+(PSRs)36 to FDA.  PSRs can provide a useful source of information for estimating exposure data for an 
+approved nonprescription drug product and for identifying trends in AE reporting.  OTC monograph 
+drugs do not have a corresponding requirement for PSRs , although they are subject to certain reporting 
+requirements for serious AEs.37 
+Surveillance of nonprescription drug products containing active ingredients that are also included in 
+prescription drug products necessitates parallel surveillance of the prescription drug product . Once a 
+safety signal is identified for any nonprescription drug product , a multidisciplinary process should be 
+followed to consider whether the safety signal applies to the prescription drug product and whether 
+changes to product labeling and other regulatory actions would be appropriate . 
+Orphan D rugs and Drugs for R are D iseases or C onditions 
+The Orphan Drug Act provides for granting orphan-drug designation to a drug or biological product that 
+is intended for use in a rare disease or condition, which is defined as a disease or condition that affects less than 200,000 people in the U nited States or that affects more than 200,000 people in the United 
+States , but there is no reasonable expectation to recover the costs of developing and making available a 
+drug to treat that disease or condition from sales of the drug in the United States .
+38 While approval for all 
+drug and biological product s—for both rare and common conditions — is based on demonstration of 
+substantial evidence of effectiveness and a favorable benefit risk balance, FDA recognizes that certain aspects of product development that are feasible for common diseases may not be feasible for rare 
+diseases for which there is often limited medical and scientific knowledge, natural history data, and drug 
+development experienc e.  Many rare disorders are serious conditions with no approved treatments, 
+leaving substantial unmet medical needs for patients.
+39 FDA regulations provide flexibility in applying 
+36 Periodic safety reports include periodic adverse drug experience reports (21 CFR 314.80) and periodic adverse 
+experience reports (21 CFR 600.80) and, under an approved waiver, International Council for Harmonisation 
+repor ting formats (periodic safety update report and periodic benefit -risk evaluation report). 
+37 Section 760 of the FD&C Act (21 U.S.C. 379aa) provides for AE reporting requirements for OTC monograph 
+drug products. 
+38 Section 526 of the FD&C Act (21 U.S.C. 360bb) provides for the designation of drugs for rare diseases or 
+conditions. 
+39 The guidance for industry Rare Diseases: Considerations for the Development of Drugs and Biological Products 
+(December 2023) is available at
+
+regulatory standards for drug approval because of the many types and intended uses of drugs.40 This 
+flexibility extends from the early phases of development to the design of adequate and well -controlled 
+clinical studies that are required to demonstrate safety and effectiveness to support marketing approval. 
+The goal of safety evaluation during dru g development is to characterize the drug’s safety profile in a 
+reasonable number of patients over a reasonable duration of time, consistent with the intended use of the 
+drug.  “Reasonable” in the context of rare diseases requires consideration of feasibility challenges posed 
+by the limited number of patients with the disease. The amount of safety information at the time of 
+approval may be less for drugs developed for rare diseases when compared to those for common diseases, 
+given the limited study populat ion. The postmarketing period frequently provides additional safety 
+information, as the number of patients exposed slowly increases over time , or through a specific 
+postmarketing requirement (PMR) or postmarketing commitment (PMC). Once a safety signal is 
+identified, a multidisciplinary process should be followed to consider changes to the product labeling and 
+other regulatory actions as appropriate. 
+Compounded D rugs 
+Compounding is generally a practice in which a licensed pharmacist, a licensed physician, or, in the case 
+of an outsourcing facility, a person under the supervision of a licensed pharmacist , combines, mixes, or 
+alters ingredients of a drug to create a medication tailored to the needs of an individual patient.41 
+Compounded drugs are not approved by FDA. 
+Under section 503A of the FD&C Act , drugs that are compounded for an identified individual patient 
+based on a valid prescription and that meet certain conditions are exempt from FD&C Act sections on 
+premarket ap proval , current good manufacturing practice (CGMP) requirements, and labeling with 
+adequate directions for use. S tate boards of pharmacy have primary responsibility for the day-to -day 
+oversight of state-licensed pharmacies that are not registered with FDA as outsourcing facilities and that 
+compound drugs in accordance with the conditions of section 503A . However, FDA does conduct 
+surveillance and for -cause inspections of state-licensed pharmacies that are not registered as outsourcing 
+facilities. In 2013, the Drug Quality and Security Act (DQSA) added a new section 503B to the FD&C Act, which 
+established a category of compounders known as outsourcing facilities. Under section 503B of the 
+FD&C Act, drugs that are compounded by registered outsourcing facilities and that meet certain 
+conditions are exempt from FD&C Act sections on premarket approval, labeling with adequate directions 
+for use , and drug supply chain security requirements . Outsourcing facilities can compound and distribute 
+drugs without receiving prescriptions for individually identified patients, but they are subject to, among 
+other things, CGMP requirements, inspect ion by FDA according to a risk-based schedule, and report ing 
+requirements for AEs associated with their products.
+
+40 See 21 CFR 314.105. 
+41 Information about human drug compounding is available at 
+https://www.fda.gov/drugs/guidancecomplianceregulatoryinformation/pharmacycompounding/ default.htm . 
+42 The guidance for industry Adverse Event Reporting for Outsourcing Facilities Under Section 503B of the Federal 
+Food, Drug, and Cosmetic Act (October 2015) is available at https://www.fda.gov/drugs/guidance -compliance -
+
+FDA receives AE reports associated with compounded products that are required to be submitted by 
+outsourcing facilities , in addition to reports submitted voluntarily. 
+Homeopathic Drug Products 
+Homeopathy is an alternative medical practice generally based on two main principles: (1) that a 
+substance that causes symptoms in a healthy person can be used in diluted form to treat symptoms and 
+illnesses (known as “like-cures-like”); and (2) the more diluted the substance, the more potent it is 
+(known as the “law of infinitesimals”).43 There is a broad misconception that all homeopathic products 
+are highly diluted and generally composed of “natural” ingredients, and that they are therefore incapable of causing harm. However, as with all drugs, the safety of homeopathic drugs depends upon many 
+factors, such as the product’s intended use, dosage form, frequency of use, manufacturing quality, intended patient population, and the quantity and combination of ingredients. 
+The definition of drug contained in the FD&C Act includes articles recognized in the official United 
+States Pharmacopeia, the official Homeopathic Pharmacopeia of the United States (HPUS) ,
+44 the official 
+National Formulary , or any supplement to them.45 FDA generally define s a “homeopathic drug product” 
+as a drug product that is labeled as “homeopathic,” and is labeled as containing only active ingredients 
+and dilutions (e.g., 10X, 20X) listed for those active ingredients in the HPUS.46 There are currently no 
+homeopathic drug products approved by FDA. Unlike FDA -approved drugs, which have a known active 
+ingredient that is readily identifiable, the active ingredients in a homeopathic product often exist as 
+extracts from botanical sources, including those that pose potentially toxic effects such as belladonna and 
+nux vomica . 
+Spontaneous reporting is the primary tool for the surveillance of homeopathic drug product s. It is 
+sometimes difficult for reporters to know that the subject of their report is a homeopathic drug product .  
+In addition, even when the ingredients of homeopathic drug products are labeled, detail s regarding 
+product ingredients are often lacking in spontaneous reports, which limits the reviewer’s ability to 
+properly identify the product. For these reasons, it may be difficult for FDA to identify cases attributable 
+to a homeopathic drug product. Any safety finding is important and could warrant significant and prompt 
+regulatory action against the manufacturer. In final guidance,47 FDA describes how the Agency intends 
+to prioritize enforcement and regulatory actions for homeopathic drug products, using a risk -based 
+approach. 
+Combination Products 
+As set forth in 21 CFR part 3, a combination product is a product composed of two or more different 
+types of medical products (i.e., a combination of a drug, device, and/or biological product with one 
+another).48 The drugs, devices, and biological products included in combination products are referred to 
+43 The g uidance for FDA staff and industry Homeopathic Drug Products (December 2022) is available at 
+https://www.fda.gov/drugs/guidance -compliance- regulatory -information/guidances -drugs . 
+44 http://www.hpus.com/ . 
+45 See section 201(g) of the FD&C Act (21 U.S.C. 321(g)). 
+46 The g uidance for FDA staff and industry Homeopathic Drug Products (December 2022) is available at 
+https://www.fda.gov/drugs/guidance -compliance- regulatory -information/guidances -drugs . 
+47 Ibid. 
+48 The guidance for industry and FDA staff Postmarketing Safety Reporting for Combination Products (July 2019) is
+
+as constituent parts of the combination product.  There are three potential modes of action for a 
+combination product: drug, device, and biologic al product.  Combination products typically have more 
+than one identifiable mode of action based on its constituent parts.49 Appli cants must follow the AE 
+reporting requirements associated with the application type, and additional specified reporting 
+requirements based on the constituent part(s).50 Reviewers should consider each constituent part and the 
+product as a whole when evalu ating AE reports for combination products.  A multidisciplinary process 
+should be followed to address identified safety issues. 
+Medication Errors 
+The surveillance of medication errors is challenging because of the lack of : (1) a universally accepted 
+definition for medication error,51 (2) re quirements to report medication errors to FAERS, and (3) detailed 
+information in ICSR s to determine the type and cause of the medication error (or that an error occurred). 
+Despite these challenges, reviewers should assess trends in medication errors and potential for a 
+medication error to lead to an AE as part of the medication error surveillance process. 
+The National Coordinating Council for Medication Error Reporting and Prevention defines a medication 
+error as any preventable event that may cause or lead to inappropriate medication use or patient harm 
+while the medication is in the control of a health care provider, patient, or consumer .52 A medication 
+error may or may not be associated with an AE.  The off-label use, misuse, abuse, and other deliberate or 
+intentional uses of a drug product in a manner that is inconsistent with the FDA -approved labeling is not 
+considered a medication error . 
+FDA regulations do not require applicants to report medication errors;53 however, many applicants do so 
+voluntarily.  In addition, some other regulatory authorities require these reports.  When a pplicants 
+voluntarily submit to FDA reports of medication errors prepared for another regulatory authority, they 
+may use that authority’s definition of a medication error. 
+There are multiple types of medication errors, including those involving the wrong drug, an improper 
+dose, a wrong technique, and a wrong strength; the causes and contributing factors for medication errors 
+can be multi -factorial, and may include miscommunication, knowledge deficit, device malfunction, and 
+systems related factors.54 Drug and biological products may have predictable medication error profiles 
+based on their dosage form, strength, packaging, name, or other product characteristics.  For example, an 
+injectable product that requires multiple steps for reconstitution or dilution may result in wrong -
+concentration preparation errors.  An oral solution packaged in a vial, which typically implies an 
+injectable product, may result in wrong-route -of-administration errors.  Wrong- drug errors are of interest 
+49 See 21 CFR 3.2(k) . 
+50 See 21 CFR Part 4, subpart B. 
+51 Lisby M, Nielsen LP, Brock B, Mainz J . How are medication errors defined? A systematic literature review of 
+definitions and characteristics. Int J Qual Health Care . 2010;22(6):507 -518. 
+52 The definition is available at https://www.nccmerp.org/about -medication -errors . 
+53 Medication errors may be reported in association with an AE that meets a reporting requirement. 
+54 See the National Coordinating Council for Medication Error Reporting and Prevention for a taxonomy of 
+medication error types, causes and contributing factors. Available at: https://www.nccmerp.org/taxonomy -
+
+for surveillance becaus e of patient exposure to the effects of an unintended drug and the absence of the 
+intended drug therapy. 
+FDA has a multidisciplinary staff dedicated to minimizing medication errors related to the naming, 
+labeling, packaging, and design for drug and biologi cal product s prior to FDA approval and marketing.  
+The Agency follow s a rigorous preapproval review process for approved drug and biological product s that 
+includes specific review activities to prevent medication errors. FDA review s proposed proprietary 
+names to attempt to minimize medication errors associated with product name confusion.55,56,57 The 
+Agency also reviews and provide s feedback on proposed labeling ( e.g., container label, carton labeling, 
+packaging, Prescribing Information, Instructions For Use ), product design, and human factor studies to 
+attempt to minimize or eliminate hazards contributing to medication errors. Review activities conducted 
+in the preapproval period inform the approach for medication error monitoring once the product is 
+approved for marketing.  Similarly, the information learned from monitoring and analyzing medication 
+errors reported postapproval may be used to improve the preapproval review processes. 
+Throughout the postapproval period, FDA reviewers should conduct systematic monitoring of reported 
+medication errors.  There are several reasons for this approach.  First, the possible types of medication 
+errors that may occur with a product may be uncertain at the time of approval, but may become more 
+apparent after approval and marketing as more patients are exposed to the product .  Clinical studies in the 
+preapproval phases generally are performed by a limited number of prescribers and involve a limited 
+number of patients.  The investigational studies may not use the same product labeling that will ultimately 
+be approved by FDA .  Also, the studies may not involve the entire medication -use system, such as 
+electronic prescribing, storage conditions , or barcode -assisted administration systems typically used in a 
+real-world setting.  Second, medication errors are associated with a significant public health burden.58 
+Early detection through monitoring allows FDA to address a medication error before the product is more 
+widely distributed, reducing the associated public health burden.  Third, prescribing practices and the 
+marketplace are continually changing, because of advancements in technology, new therapeutic uses, 
+approval of novel drug and biologic al products, and the market entry of generic drugs and biosimilar 
+products.  Fourth, some products, such as OTC monograph drug products , may not undergo the product -
+specific preapproval review process that prescription and other nonprescription drug and biologic al 
+product s are subject to before marketing. 
+It is important for FDA reviewers to use multiple sources of information for monitoring medication 
+errors, including FAERS and VAERS , partners and patient safety organizations, and PSR submissions.59 
+Reviewers should carefully consider ICSRs that describe the potential for a medication error. Reviewers 
+should examine all reports of medication error, regardless of whether they result in an AE or whether the 
+55 The guidance for industry Contents of a Complete Submission for the Evaluation of Proprietary Names (April 
+2016 ) is available at https://www.fda.gov/RegulatoryInformation/Guidances/default.htm . 
+56 The draft guidance for industry Best Practices in Developing Proprietary Names for Human Nonprescription 
+Drug Products (December 2020) is available at https://www.fda.gov/RegulatoryInformation/Guidances/default.htm . 
+57 The guidance for industry Best Practices in Developing Proprietary Names for Human Prescription Drug 
+Products (December 2020) is available at https://www.fda.gov/RegulatoryInformation/Guidances/default.htm . 
+58 National Quality Forum, National Priorities Partnership . Preventing Medication Errors: A $21 Billion 
+Opportunity (December 2010 ) is a vailable at 
+https://www.qualityforum.org/WorkArea/linkit.aspx?LinkIdentifier=id&ItemID=70388 .
+
+outcome is serious or nonserious. This approach may detect emerging safety issues in naming, labeling, 
+packaging, and design. 
+FDA has established collaborative agreements with Federal and non -Federal partners and patient safety 
+organizations to share medication error information. Under these collaborative agreements, FDA is 
+alerted to possible emerging medication error issues. Medication errors are notably underreported, and 
+collaborative agreements have proved to be an effective way to help monitor and address medication 
+errors.  
+PSRs submitted by applicants, particularly those in the periodic benefit -risk evaluation report (PBRER)60 
+format, are valuable in the overall monitoring of medication errors.  The PBRER includes a cumulative 
+tabulation of medication errors and a specific section that summarizes information on patterns of 
+medication errors and potential medication errors, even when not associated with AEs.  The availability 
+of the PBRER for review can be quite informative to medication error monitoring. 
+Specific P atient P opulations 
+Pregnant Population 
+Pregnant individuals have historically been excluded from clinical developme nt trials of most products .  
+Although sponsors are encouraged to collect information o n pregnant individuals during drug 
+development through appropriate inclusion of pregnant individuals in clinical trials ,61 safety data in 
+pregnant individuals at the time of drug approval are often lacking.  Thus , there is limited information 
+before the product is marketed about a product’s safety profile when used during pregnancy. FDA 
+reviewers should conduct drug safety surveillance on the use of products in the pregnant population with 
+a specific focus on detecting product -associated adverse fetal effects.  The identification of a product’s 
+potential for adverse developmental outcomes, including teratogenicity,62 is important because product -
+associated adverse developmental outcomes are potentially preventable. Other outcomes of interest 
+include but are not limited to preterm delivery, small for gestational age, pregnancy complications, 
+miscarriage, s tillbirth, abnormalities of immune system development in neonates, and long-term 
+neurologic outcomes in infants. 
+To optimize the detection and characterization of any adverse effects related to prenatal product exposure, 
+FDA staff should work collaboratively across the A gency and use all available postmarketing surveillance 
+data sources. Reviewer s should t herefore consider additional information from pregnancy registries, 
+complementary data sources (e.g., electronic data sources, population -based surveillance and national 
+registries, population-based case control studies), and ICSRs , as described more fully below. Reviewers 
+should consider the strengths and limitations of each data source throughout the review to inform the 
+assessment of adverse drug effects in the pregnant individual and the fetus. 
+60 The guidance for industry E2C(R2) Periodic Benefit -Risk Evaluation Report (PBRER) (July 2016) is available at 
+https://www.fda.gov/Regulator yInformation/Guidances/default.htm . 
+61 The draft guidance for industry Pregnant Women: Scientific and Ethical Considerations for Inclusion in Clinical 
+Trials (April 2018) is available at https://www.fda.gov/RegulatoryInformation/Guidances/default.ht m. When final, 
+this guidance will represent the FDA’s current thinking on this topic. 
+62 In the FDA reviewer guidance Evaluating the Risks of Drug Exposure in Human Pregnancies (April 2005), the 
+term teratogen is used to designate products with teratogenic potential at clinical doses used in humans; it is
+
+A pregnancy registry63 prospectively collects information on medical product exposure during pregnancy 
+and associated pregnancy outcomes , and the data can then be analyzed in an observational study.  One 
+advantage of registries is that the prospective collection of data from exposed pregnant individual s who 
+enroll in the registry before the occurrence of an adverse outcome allows investigators to estimate the 
+risks of a variety of adverse outcome s (e.g., maternal, obstetrical, fetal, and infant outcomes, including 
+pregnancy outcomes t hat do not result in a live birth). When well -conducted and sufficiently powered, 
+findings from a registry-based study may inform whether a drug is a teratogen.  However, because 
+registries may enroll limited numbers of pregnant individual s, it may not be possible to detect a small 
+increased risk of a birth defect that is frequently seen in the background populations .  Moreover, while 
+pregnancy registries can avoid bias that is inherent in studies relying on retrospective reporting, registries 
+are subject to selection bias, confounding, and low enrollment, any of which can complicate the 
+interpretation of the registry results. 
+To address limitations in pregnancy registries, additional complementary data sources and studies for 
+evaluating drug safety in pregnancy or a specific drug safety signal associated with the use of a drug 
+during pregnancy include electronic health care data (administrative claims and electronic health record s), 
+case- control studies, population-based surveillance, and national r egist ries.  Such sources are often 
+retrospective and studies using these data are usually designed to examine a specific hypothesis.  These 
+studies are typically larger than registry studies, especially those that use electronic health care databases 
+or national registr y data. Such studies often take advantage of linkages between multiple type s of 
+information sources including demographic, clinical, pharmacy, and vital statistics data.  However, 
+retrospective studies have limitations.  They may rely on unvalidated diagnostic or procedure codes to 
+identify study outcomes, or they may rely on electronic pharmacy data that cannot confirm whether the 
+pregnant individuals who were dispensed the product actually took the product .  Other potential 
+limitations include errors in estimating gestational age , the timing of exposure, and confounding caused 
+by the condition for which the pregnant individual received the treatment, as well as confounding because 
+of the presence of other risk factors such as obesity, smoking, and alcohol consumption.  Finally, many 
+sources for retrospect ive studies limit study populations to only live birth populations.  If the safety issue 
+relates to an outcome incompatible with live birth (e.g., miscarriage, stillbirth, severe malformation not 
+commonly resulting in live birth or leading to pregnancy ter mination ), results from these studies may lack 
+generalizability at the very least, or potentially suffer from selection bias. 
+ICSRs provide yet another source of information that may be used to evaluate specific drug safety 
+concerns in pregnancy .  Althoug h a single ICSR can rarely provide sufficient information necessary for 
+making a reasonable inference about causality in the assessment of teratogenicity, a series of similar 
+reports of a distinct abnormality or group of similar abnormalities can suggest a strong association or 
+signal the need for follow -up evaluations to assess the potential risk.  Several well-established teratogens 
+63 The draft guidance for industry Postapproval Pregnancy Safety Studies (May 2019) is available at 
+https://www.fda.gov/RegulatoryInformation/Guidances/default.htm. When final, this guidance will represent the
+
+were first identified by case report s or a case series (set of similar cases) .64,65,66 There are several factors 
+that reviewers should consider when evaluating ICSRs reporting potential congenital anomalies.  These 
+include : (1) the physical and chemical nature of the product; (2) the dose, duration, frequency, and route 
+of exposure; (3) gestational timing; (4) concurrent products and comorbidities; (5) background prevalence 
+of adverse pregnancy outcomes; (6) rates of individual birth defects versus combined rates; and (7) major 
+versus minor birth defects. Because data collected retrospectively may be subject to bias, reviewers 
+analyzing data on adverse outcomes following in utero exposure are encouraged to evaluate ICSRs that 
+contain information on the patient that was collected after exposure but before occurrence of the 
+pregnancy outcome separately from those ICSRs for which the pregnancy outcome had occurred at the 
+time of reporting.  
+Pediatric Population 
+Safety information from adult human studies and animal models may provide preliminary information 
+regarding the expected safety profile of a drug in the pediatric population, but safety information from 
+administration of the drug to pediatric patients is generally needed to evaluate fully the safety profile of a 
+drug in these patients.  Transitions through developmental stages correspond with physiologic changes 
+that affect drug absorption, distribution, metabolism , and excretion , and therefore can affect both the 
+dosing and safety of a dr ug in pediatric patients .  In addition, long-term follow-up studies, especially for 
+drugs used in infants or young children, may be needed to assess fully the long-term safety of a drug.67 
+Congress passed legislation that has improved the availability of drug and biological products approved for use in children. The Best Pharmaceuticals for Children Act (BPCA) and the Pediatric Research 
+Equity Act (PREA)
+68 provide both incentives and requirements , respectively , for the collection of 
+pediat ric-specific safety and efficacy information.  Under BPCA , FDA may issue a written request for 
+pediatric studies either before or after a drug is approved if the Agency determines that “information 
+relating to the use of [that drug] in the pediatric population may produce health benefits in that 
+population.”69 Notably, a written request may be issued for both approved and unapproved indications, 
+but under BPCA, s ponsors may decline to conduct the requested studies; however, under PR EA, sponsors 
+of certain applications are required to conduct pediatric studies, unless the qualifications for waiver are 
+met.70 
+64 Mitchell AA. Adverse drug reactions in utero: perspectives on teratogens and strategies for the future. Clin 
+Pharmacol Ther. 2011;89(6):781 -783. 
+65 Shepard TH. Agents that cause birth defects. Yonsei Med J. 1995;36(5):393 -396. 
+66 Goldberg JD, Golbus MS. The value of case reports in human teratology. Am J Obstet Gynecol . 1986;154(3):479-
+482. 
+67 McMahon AW, Dal Pan G. Assessing drug safety in children - the role of real-world data. N Engl J Med. 
+2018 ;378(23):2155 -2157. 
+68 BPCA, which amended the FD&C Act to add section 505A (21 U.S.C. 355a), was originally enacted in 2002. 
+PREA, which amended the FD&C Act to add section 505B (21 U.S.C. 355c), was originally enacted in 2003. Both 
+were permanently reauthorized in 2012 as part of the Food and Drug Administration Safety and Innovation Act 
+(FDASIA). Although sections 505A and 505B of the FD&C Act have been amended since the original enactment of 
+BPCA and PREA, by convention, sections 505A and 505B are generally referred to by t he acronyms of the Acts that 
+created them: BPCA and PREA, respectively. We adhere to that convention in this document. 
+69 See section 505A(b)(1) and 505A(c)(1) of the FD&C Act (21 U.S.C. 355a(b)(1) and 21 U.S.C. 355a(c)(1)).
+
+Upon completion of pediatric studies conducted pursuant to BPCA (section 505A(i) and (j ) of the FD&C 
+Act) or PREA (section 505B(g) of the FD&C Act ), product labeling must be updated to reflect those 
+studies, whether findings are positive, negative, or inconclusive .  Eighteen months after the date of a 
+pediatric labeling change for the product, a cumulative safety summary analysis71 of pediatric AE reports 
+is conducted by a multidisciplinary team and referred to the Pediatric Advisory Committee (PAC) for 
+external expert input.72 Members of the PAC review the analysis and can recommend additional actions 
+for FDA consideration. 
+Importantly, BPCA and PREA do not apply to all products (or applications for products ) used in the 
+pediatric population, and “off -label” pediatric use of drugs that have not been studied in pediatric 
+populations continues to occur. Reviewers conducting pharmacovigilance for products not studied in the 
+pediatric population should include an evaluation of pediatric use and considerations for unintentional 
+overdose in children that may manifest in exaggerated physiological effects. 
+When analyzing ICSRs for the pediatric population, i t is often necessary to analyze reports in specific age 
+groups.   Chronic conditions may require long-term treatment , and latent adverse drug effects may be 
+different based on the age and stage of growth and development of the patient when the drug was 
+initiated, as well as duration of use.  Therefore, it is recommended that reviewers monitor reports for all 
+latent adverse drug effects, including those describing endocrine dysfunction and reproduction effects, 
+neurodevelopmental outcomes, delayed growth, and delayed or accelerated puberty. 
+Particu lar vigilance is needed for AE and medication error reports that describe accidental exposures of 
+various etiologies (e.g., defeated or defective child -resistant packaging, or improperly discarded 
+products). It is also important to screen for reports of overdose related to unique aspects of drug delivery 
+and potential errors in preparing specific formulations (e.g., dilution error s) for this population. 
+Geriatric Population 
+ICSRs that describe AEs in the geriatric patient population warrant special consideration by reviewers, 
+because at the time of a product’s approval, there is typically limited data on its effects in the geriatric 
+population, and thus postmarketing experience is important .  
+Aging is associated with well -described changes in organ function (e.g. , renal function) that affect the 
+pharmacokinetics (PK) and, therefore, the safety profile of pharmaceuticals.  In addition, the geriatric 
+population experiences not only an increased frequency of chronic disease, but also an increased 
+concurrent utilization of multiple medications ( polypharmacy ). Polypharmacy and the potential for drug-
+drug interactions represent an important concern for the geriatric population. 
+Impaired renal function can contribute to drug toxicity because of a potential increase in the concentration 
+of parent drugs and of certain metabolites that preserve variable levels of activity despite 
+biotransformation.  With aging, the prevalence of chronic kidney disease increases because of both age-
+related natural loss of renal function and incident disease. However, assessment of renal function can be 
+challenging in geriatric populations because commonly used calculations or measurements have unique 
+limitations that variably over estimate or underestimate the actual renal function of older persons. In this 
+71 The analyses are prepared for the Pediatric Advisory Committee (PAC) according to internal standard procedures 
+for pharmacovigilance review.
+
+context, calculations using serum creatini ne levels tend to over estimate renal function primarily because 
+of age -related loss of muscle mass, which is the site of origin of creatinine.  
+ Misuse, Abuse, Addiction, and O verdose 
+Many products are subject to misuse, abuse, addiction, and overdose. For purposes of this document, t he 
+term abuse is the intentional, non -therapeutic use of a drug, even once, for its desirable psychological or 
+physiological effects.73 Misuse is the intentional use, for therapeutic purposes, of a drug by an individual 
+in a way other than prescribed by a health care provider or for whom it was not prescribed.74 
+In evaluating reports of misuse and abuse, it is important for reviewers to examine specific product 
+information to better understand the role of specific product characteristics as risk factors for misuse and 
+abuse, as appropriate.  Products found to be associated with misuse or abuse may be evaluated for the 
+need for changes to the labeling ( e.g., Prescribing Information , packaging). 
+Information used to evaluate drug product abuse can come from a variety of sources, including FAERS reports, national surveys, calls to poison control centers, surveys of individuals entering treatment or 
+under assessment for substance use disorders, and n ational mortality data.  Reviewers should use all of 
+these data sources, because each has its own unique strengths and limitations.  In evaluating AE reports, reviewers may not have information describing how the person experiencing an event obtained the 
+product. Reviewers should be aware that AEs from abuse of prescription drug products commonly occur 
+in individuals who may not have been prescribed the product. 
+The evaluation of AEs that result from product misuse and abuse is challenging because: (1 ) AEs related 
+to misuse and abuse may occur outside the health care system and may not be reported to the applicant or 
+unapproved drug manufacturer , or directly to FDA; (2 ) there is substantial geographic variation in levels, 
+trends, and routes of abuse for any given product; ( 3) key information (e.g., product, frequency, and route 
+of abuse) can only be gathered from the individual abusing the drug and generally cannot be verified; and (4)many health professionals do not accurately record or are unaware of misuse and/or abuse-related 
+behavior. Despite these challenges, reviewers should assess trends and potential harm from misuse and 
+abuse during the AE screening process. 
+It is well known that prescription opioid analgesic drugs are associated wit h the risk s of misuse, abuse, 
+addiction, overdose, and death; however , it is important to note that products other than opioids, including 
+some drugs that do not requir e a prescription, are also subject to risks of misuse, abuse, addiction, 
+overdose, and death . Although problems related to non-opioid products do not receive the same attention 
+from academia or the media, reviewers should consider these potential risks when conducting drug safety 
+surveillance. 
+Product Quality Issues 
+For purposes of this document, FDA considers product quality issues ( PQIs) to be deviations from the 
+established NDA, ANDA, or BLA specifications for the product such as identity, strength , purity, and 
+other characteristics designed to ensure the required levels of product quality, safety, and effectiveness. 
+73 The draft guidance for industry Drug Abuse and Dependence Section of Labeling for Human Prescription Drug 
+and Biological Products -Content and Format (July 2019) is available at 
+https:// www.fda.gov/RegulatoryInformation/Guidances/default.htm .
+
+Reviewers monitor for PQIs, which may be reported to FDA when there is a concern about the product’s 
+quality, authenticity, perfor mance, or safety.  PQIs may be reported as physical product issues (e.g., 
+friable tablet, discoloration) or manifestations of PQIs (e.g., unexpected therapeutic failure). Reports 
+describing PQIs should be reviewed as needed by FDA product quality experts. Assessment of AE 
+reports of PQIs may include trends over time by manufacturer, lot number, and national d rug code 
+(NDC). 
+AE and medication error signals suggestive of a PQI should be evaluated by multidisciplinary teams and 
+in the context of other available data streams (e.g., Field Alert Reports; Biological Product Deviation 
+Reports ; manufacturing facility inspection data ; product distribution; bioequivalence data; and recent 
+chemistry, manufacturing, or control changes).  These signals may lead to further investigation including inspections and product evaluations (e.g., chemical and microbial sample analysis). In some instances, a 
+single report of a PQI (e.g., non -sterility, pyrogenic contamination, chemical contamina tion) resulting in a 
+serious AE may lead to such investigations. 
+FDA also monitors for AEs associated with quality of homeopathic products, prescription drugs without 
+an approved application, OTC monograph drug products, and compounded products. 
+For the purposes of this document, the term safety signal identification is broad in scope.  It includes the 
+activities of screening FAERS , VAERS, and the medical literature , as well as accessing other information 
+sources, to identify potential safety signals. Identified signa ls are prioritized for more extensive 
+evaluation . 
+Data S ources 
+Because each data source has limitations for safety signal identification, reviewers should use multiple 
+data sources with complementary properties.  For example, while there may be many reports in FAERS or 
+VAERS of a particular product -AE combination, the level of detail in each report may be variable and 
+incomplete.  The medical literature, on the other hand, may have fewer reports of a drug -AE combination, 
+but each of those reports typically has all, or at least most, relevant details. 
+Multiple strategies should be used to identify safety signals in both the FAERS and VAERS databases. 
+Reviewers should screen ICSRs at the report level and also screen ICSRs in a cumulative manner.  
+Systematic, automated techniques should be used routinely, which lend efficiency to screening the 
+database.  The se approaches complement each other and are described in the sections that follow. The 
+use of multiple strategies in concert allows FDA to manage the increasing number of ICSRs in both the 
+FAERS and VAERS databases, to efficiently identify potential safety signals, and to facilitate the 
+prioritization of potential safety issues.  
+FAERS and VAERS 
+ICSR screening 
+Screening of ICSRs at the report level in the AE database should begin with selecting the product based 
+upon considerations for ris k that are discussed in section 4, Risk-based Approach to D rug Safety 
+Surveillance. Reviewers may use screening tools first to identify potential signals; a more rigorous
+
+The quality of information provided in the ICSRs is highly variable.75 It is critical that an ICSR be of 
+high quality for optimal evaluation of the relationship between the product and event. The most useful 
+ICSRs contain detailed descriptive information in the narrative section to describe the course of the AE as 
+it occurred in the patient (e.g., onset relative to start of the suspect drug, presentation, evaluation 
+conducted, diagnosis, treatment, and outcome ). For further details on assessment of ICSRs for causal 
+association , see section 7.1.3, Assessment of ICSRs for Causal Association . For medication error s, the 
+most useful ICSRs include a detailed description of the factors that contribute d (or may have contribute d) 
+to an error and actions taken or recommended to prevent the error from recurring. 
+If an ICSR does not include sufficient information to assess the suspected causal relationship between the 
+product and event, reviewers may follow up with the applicant or the reporter to obtain additional 
+information necessary for case assessment.  Reviewers may also seek to learn more information about the 
+event and it s outcome . They may attempt to get more information about the circumstances surrounding 
+the event and other possible contributory or confounding factors (e.g., other concurrent products and 
+pertinent medical history, look alike container or sound alike proprietary drug names ).  They may also 
+attempt to obtain autopsy reports , if applicable, and results of any laboratory or diagnostic tests, which are 
+added to the database. 
+Cumulative screening 
+Reviewers should perform cumulative screening of the AE database to provide an aggregate, high-level 
+summary of the reported postmarketing safety experience (e.g., by clinically relevant AE terms, serious 
+outcomes, year of occurrence, or any demographic variable of interest) for the product under evaluation.  
+Screening of cumulat ive AE and medication error reports from multiple sources (e.g., health care 
+providers, consumers, medical literature) and of both serious and nonserious outcomes is one approach to 
+better understanding the postmarketing safety profile of products .  
+The g oal of this risk-based surveillance process is to identify serious unlabeled AEs, known AEs reported 
+in an unusual number, or other new potential safety concerns with the product. The strategy for 
+cumulative ICSR screening of a product under evaluation may include analyses of the AE and medication 
+error terms most frequently reported in: (1) all reports, (2) reports with a serious outcome, (3) reports with 
+AEs of interest, and (4) reports for a specific population (e.g., pregnancy or pediatric exposure and 
+outcome). In the course of cumulative screening , the reviewer may identify one or more AE(s) or 
+medication error(s) that may cause the reviewer to read in detail all ICSRs for the AE(s) or medication 
+error(s). This screening strategy may also include a review of PSRs for new safety signals or concerns. 
+Periodic, cumulative screening of ICSRs complements ongoing screening at the individual case report 
+level. 
+Data M ining 
+Data mining in the context of drug safety surveillance refers to the use of statistical or mathematical tools 
+to discover patterns of associations or unexpected occurrences in large databases, such as FAERS and 
+VAERS .  It involves the automated analysis of reported AEs and medication errors to provide information 
+75 More information about FAERS is available at 
+https://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillance/AdverseDrugEffects/default.h
+
+about the existence of an excess of AEs or medication errors reported for a product relative to other 
+products in the database (disproportionality). Limitations relating to the data in the selected large 
+database apply to the data mining -derived data. Results from data mining are considered hypothesis 
+generating and do not, by themselves, demonstrate causal associations .  
+By applying data mining techniques, FDA reviewers may identify unusual or unexpected product -event 
+combinations that warrant further investigation .  Reviewers may use data mining to assess patterns, as 
+well as identify AEs associated with drug -drug interactions.76 Reviewers should consider both sensitivity 
+and precision in the chosen approach.  Unexpectedly high reporting associations (e.g., the doubling of a 
+data mining statistic for a product -event combination over a specified time interval) may generate a 
+hypothesis that there may be an association between the AE or medication error and the product. 
+However , the absence of disproportionality does not confirm the absence of a safety signal or negate a 
+signal detected by other methods . 
+It is necessary to adjust signal thresholds to account for the severity of the AE, severity of the condition for which the product is being used, and a product’s established safety profile.  For example, a lower signaling threshold may be considered for serious AEs or for products for which less may be known about 
+the safety profile.  The products and AEs that may be appropriate for a lower signaling threshold include 
+those discussed in section 4, Risk-based Approach to Drug Safety Surveillance. Additionally, the 
+database can be filtered by various characteristics (e.g., pediatric reports or serious outcomes) to identify 
+potential signals.  
+Medical Literature 
+It is important for FDA reviewers to screen the medical literature to identify emergi ng safety signals that 
+are not submitted as ICSRs to FDA.  Screening can be accomplished by searching the medical literature 
+by product , or by AE or medication error type . The principles underlying how reviewers select products 
+and events for screening are discussed in section 4, Risk-based Approach to D rug Safety Surveillance. 
+Reviewers may supplement their screening of published case reports or case series with additional data 
+sources, such as studies completed by academic institutions or other researchers outside of FDA, studies performed by other Government agencies and referred to FDA for comment, and other studies that FDA 
+becomes aware of.  These may be presented in peer -reviewed or online journals or as abstracts at 
+conferences. The information is made available in a variety of forms, including case reports or case series 
+of clinical AEs.  Reviewer s also have access to findings from patient registry studies, observational and 
+pharmacoepide miologic studies, meta -analyses, and randomized controlled clinical trials. 
+Other Information Sources 
+In addition to systematic ally screening and data mining the FAERS and VAERS databases and 
+monitoring the medical literature, reviewers who conduct postmarket ing safety surveillance should 
+consider other sources of information. Safety signals can arise during studies conducted as part of 
+product development, such as animal studies, in vitro studies, or an imbalance in safety findings in 
+clinical trials that was not considered an adverse reaction at the time of approval. During the preapproval 
+76 For additional information on use of data mining , see the guidance for industry Good Pharmacovigilance 
+Practices and Pharmacoepidemiologic Assessment (March 2005) available at
+
+review process, potential signals that are identified by the clinical reviewer, especially those arising in 
+Phase II and Phase III clinical trials, lead to multidisciplinary discussions to determine what, if any, 
+postmarketing activities are needed. 
+Application holders submit required PSR s to FDA on a recurring basis.77 PSRs provide summary 
+information directly from the applicant, which may include clinical and nonclinical study reports and the 
+applicant’s assessment of the marketed product’s benefit -risk profile.  In addition to the PSRs specified in 
+FDA regulation s, FDA accepts PSRs prepared in accordance with International Council for 
+Harmonisation (ICH) guidelines on periodic safety reporting .78 The PSRs submitted using an ICH format 
+provide additional data and information, which can materially inform the safety review process. REMS assessments contain information regarding important identified risk(s) that the REMS is intended 
+to mitigate.  FDA can require a REMS when FDA determines that a risk evaluation and mitigation 
+strateg y beyond FDA-approved labeling is necessary to ensure that the benefits of the drug outweigh its 
+risks.  REMS generally must include a timetable for submission of assessments of the REMS.
+79 The 
+timetable must include an assessment by the dates that are 18 months and 3 years after the REMS is 
+initially approved and an assessment in the 7th year after the REMS is approved or at another frequency 
+specified in the REMS.  REMS are discussed in greater detail in a subsection of section 9 , Actions . 
+A risk management plan (RMP) is a document prepared by the a pplicant that describes the product’s 
+safety profile (e.g., important identified risks, important potential risks, and important missing 
+information), planned pharmacovigilance and studies for these safety concerns, and how known risks 
+associated with the product will be managed. Although FDA regulations do not require submission of 
+RMPs as a condition of approval , some regulatory authorities outside the United States do. Applicants 
+may submit an RMP prepared for another authority to FDA .  In such cases, the RMP may serve as an 
+additional source of information. 
+A variety of additional information sources for signals are generally received on an ad hoc basis.  They 
+include applicant submissions of supplements to make a postapproval safety -related labeling change (s).  
+Signals may also be identified following receipt of a c itizen petition80 requesting that FDA take action on 
+a safety -related matter.  FDA has ongoing communications with international regulators, which may lead 
+to identification of signal s.  In addition, FDA may become aware of drug safety issues through media 
+inquiries or reports. 
+77 FDA’s postmarketing safety reporting regulations require applicants to submit PSRs in the form of a periodic 
+adverse drug experience report (PADER) (for drugs) or a periodic adverse experience report (PA ER) (for biological 
+products) (21 CFR 314.80(c)(2) and 600.80(c)(2)). 
+78 With an approved waiver (under 21 CFR 314.90(b) and 600.90(b)), the periodic safety u pdate report (PSUR) and 
+the PBRER are accepted PSR formats. 
+79 NDAs and BLAs must include a timeta ble for submission of assessments. ANDAs are not subject to the 
+requirement for a timetable for submission of assessments (section 505 -1(i) of the FD&C Act), but FDA can require 
+any application holder, including ANDA applicants, to submit REMS assessments under section 505 -1(g)(2)(C) of 
+the FD&C Act. The guidance for industry Format and Content of a REMS Document (January 2023) is available at 
+https://www.fda.gov/RegulatoryInformation/Guidances/default.htm .
+
+Frequency and E xtent of S creening 
+The extent and frequency for screen ing the FDA AE database s and the medical literature varies with the 
+product type . For AE screening, p roducts are grouped into three categories81 for ease of reference. A 
+summary for screening the FDA AE databases by product category appears below in the Table and is 
+described in some detail in the paragraphs that follow. 
+Category A 
+Generally, on a weekly basis, reviewers should screen newly received ICSRs82 for p roducts in the first 3 
+years following approval . These products include : (1) NMEs; (2) originator biological products ; and (3) 
+products without NME designation but having a newly approved dosage form , route of administration, 
+indication, or patient population with increased safety concerns.  
+Additionally, reviewers should perform screen ing on a periodic basis of cumulative data in the FDA AE 
+databases for these products , including data mining. In many cases, these screenings are scheduled to 
+coincide with PSR receipt to leverage resources and optimize efficiencies. Products in this category that 
+are beyond 3 years postapproval are screened as described for category C. 
+Category B 
+Reviewer s should generally screen on a weekly basis newly received ICSRs and the medical literature for 
+homeopathic and compounded products . 
+Category C Reviewers should generally screen on a weekly basis newly received ICSRs that report AEs of interest 
+for: (1) any product in category A that is beyond 3 years postapproval , (2) nonprescription drug products , 
+and (3) any product not in category A or B.  In addition, reviewers should generally perform data m ining 
+at least yearly for category C products .  
+81 The description here describes CDER’s grouping of products into categories. CBER follows similar principles 
+but does not group products into the categories presented .
+
+Table : General AE Screening Frequency 
+Screening 
+Category FDA Adverse Event Databases 
+A Weekly for newly received ICSRs 
+At intervals coinciding with PSR receipt 
+for all ICSRs since approval , including data mining 
+B Weekly for newly received ICSRs 
+C Weekly for newly received ICSRs 
+reporting AEs of interest 
+Yearly (at minimum) data mining of all ICSRs since approval 
+A -Up to 3 years postapproval : NME s; originator biological products; and products without NME designation but 
+having a newly approved dosage form , route of administration, indication, or patient population with increased 
+safety concerns . 
+B -Homeopathic and compounded products. 
+C -Products in category A beyond 3 years postapproval ; nonprescription drug products; and a ny product not in 
+category A or B. 
+Acronyms used: AE = adverse event; FDA = Food and Drug Administration; ICSR = individual case safety 
+report; NME = new molecular entity; PSR = periodic safety report 
+Signal Prioritization 
+Identified signals are prioritized both within and across products.  Prioritization is made based upon the 
+nature of the AE, the seriousness of the outcome, the impact on the individual, and the impact on public 
+health .  When new information becomes available that may change the benefit-risk profile of a product, 
+the signals should be reevaluated and rep rioritized. 
+In examining the signal , reviewers should determine whether the signal is a serious AE (i.e., one that 
+involves patient outcomes of death, life -threatening AEs, inpatient or prolonged hospitalization, persistent 
+or significant disability/incapacity, congenital anomaly, or other serio us important m edical events). 
+Reviewers should also consider the severity of the AE relative to the disease being treated in the 
+individual patient, as well as the effects of the AE on the individual patient.  In addition, reviewers should consider the impact of the AE on the health of the overall treatment patient population and the broader 
+impact on public health. Signal prioritization allows for effective signal management, including
+
+In general, a multidisciplinary team should conduct an integrated , comprehensive evaluation of the 
+prioritized signal to determine whether and what regulatory action(s) are indicated.83 The 
+multidisciplinary team should integrate data from FAERS and VAERS ICSRs, medical literature case 
+reports, epidemiologic assessments, product utilization and reporting ratio analyses, and any other data 
+sources. 
+FAERS, VAERS , and the Medical Literature 
+ICSR  Retrieval 
+In preparing to retrieve ICSRs , the reviewer should consider the signal to be evaluated and determine 
+whether to cast a broad search (to increase sensitivity) or a narrow search (to increase specificity).  For 
+example, a broad search can retrieve all ICSRs for a specific product or product class, while a narrow 
+search can be constructed to retrieve ICSRs for a specific product by a specific manufacturer and for a 
+certain time period.  A broad search is most useful for exploratory searches of the database or for 
+evaluating a signal with novel features.  A narrower search is more appropriate for examining a particular 
+aspect of a known risk. 
+Case Definition  
+A case definition is a set of uniformly applied criteria for determining whether a person should be 
+identified as having a particular disease, injury, or other health condition. It should be developed by a 
+multidisciplinary team based on information from the medical literature and current expert clinical 
+pract ice guidelines. A case definition comprises a specific combination of signs, symptoms, and test 
+results.  
+The use of a case definition in the comprehensive evaluation of a postmarketing safety signal is often 
+necessary when the signal is generated from spontaneous ICSRs. To maximize the retrieval of potentially 
+useful reports for further analysis, reviewers may consider it sufficient to deem a diagnosis or 
+confirmatory statement of the AE from a qualified health care professional as meeting the case definition, 
+even if no diagnostic criteria are stated in the report. 
+Reviewers should evaluate ICSRs for potential inclusion in a set of similar cases ( section 7.1.4, Case 
+Series) by using, as a point of reference, a case definition for the event.  A case definition consists of pre-
+specified criteria for determining whether an individual report belongs in the case series. When available, 
+it is preferable that reviewers use an existing case definition.  However, the combined characteristics of 
+the event and product may require modif ication of the existing case definition or development of a new 
+case definition .  It is important to note that the use of a case definition does not involve a causality 
+assessment or establish criteria for the management of patients , nor does it require evidence of exposure 
+to the product . 
+83 CDER MAPP 4121.3 , Collaborative Identification, Evaluation, and Resolution of a Newly Identified Safety Signal 
+(NISS) , describes how multidisciplinary teams apply the postmarketing safety surveillance principles outlined in this 
+best practices document. The Drug Risk Management Board (DR MB) ensures seamless alignment for marketed 
+product safety activities among CDER offices. Among other functions, the DRMB ensures the consistent adoption 
+of and adherence to the NISS process across CDER. CDER MAPP 4121.3 is available at
+
+Assessment of ICSRs for Causal Association 
+The process of assessing potential causal associations between an AE and a product presents many 
+challenges to reviewer s and other staff involved in safety surveillance.  Al though a variety of methods 
+have been developed to standardize the causal association assessment process, none have been 
+validated.84,85,86 Causal association assessments should be conducted at the ICSR (report) level as well as 
+the overall product -AE level.  Considerations for causal association assessment at the ICSR level are 
+described below, while section 8 describes considerations at the product-AE level. 
+When assessing an ICSR for causal association , reviewers should focus on evaluating the relatedness of 
+the AE to the product taken by the individual patient described in the ICSR.  They may evaluate a number 
+of features, which can be divided into five broad categories: (1) chronologic data (e.g., plausible temporal 
+sequence, dechallenge, rechallenge) ;87 (2) precedents (e.g., a causal relationship has been determined for 
+other products with common structural features ); (3) biological or pharmacological plausibility (e.g., toxic 
+drug concentration in body fluid, occurrence of a recognized pharmacodynamic (PD) phenomenon); (4) 
+information quality; and (5) alternative etiologies (e.g., concurrent diseases or conditions, concomitant 
+medications). Some of those features are also considered during the causal association assessment at the 
+product -AE level (e.g., precedents, biologic al or pharmacological plausibility) , as outlined in section 8. 
+Once the aforementioned ICSR features have been evaluated and the ICSR is assessed as causally 
+associated , reviewers are encouraged to categorize the causal association .  FDA does not recommend any 
+specific categorization of causal association, but the categories probable , possible, or unlikely have been 
+used previously.  If a causal association categorization is undertaken, reviewers should specify and describe the causal categories, including the underlying logic and criteria underlying each category.  
+Information from spontaneous reporting systems generally cannot provide definitive answers regarding 
+causal associations between a product and an AE.  However, a well -docum ented case of a rare AE,
+88 one 
+that is usually drug -related, or a well -documented report of positive rechallenge can be sufficient to 
+strongly suggest or even establish a causal association. 
+Case Series 
+Reviewers should assess the ICSRs to assemble a case series built upon those meeting the criteria in the 
+case definition and assessed as causally associated.  The review document should include a summary of 
+the considerations or rationale for inclusion of the ICSRs in the case series, as well as descriptive clinical 
+information that characterizes the case series, such as p atterns and trends of the event across the cases.  In 
+84 Meybo om R H, Hekster Y A, Egberts A C, Gribnau FW, Edwards IR . Causal or casual? The role of causality 
+assessment in pharmacovigilance. Drug Saf . 1997;17(6):374 -389. 
+85 Agbabiaka T B, Savović J, Ernst E. Methods for causality assessment of adverse drug reactions: a systematic 
+review. Drug Saf. 2008;31(1):21 -37. 
+86 For additional information, see the guidance for industry Good Pharmacovigilance Practices and 
+Pharmacoepidemiologic Assessment (Mar ch 2005) at 
+https://www.fda.gov/RegulatoryInformation/Guidances/default.htm . 
+87 Dechallenge is the withdrawal of a suspect product from a patient's therapeutic regimen; rechallenge is the 
+reintroduction of a product suspected of having caused an AE following partial or complete disappearance of the AE 
+after withdrawal of the suspect product. 
+88 For example, cases of progressive multifocal leukoencephalopathy in psoriasis patients treated with efalizumab. 
+Kothary N, Diak IL, Brinker A, Bezabeh S, Avigan M, Dal Pan G . Progressive multifocal leukoencephalopathy
+
+addition, summaries for select ICSRs that are the most informative or that otherwise best represent the 
+cases in the series should be discussed in some detail . 
+Product Utilization 
+Product utilization analyses may be conducted to quantify and evaluate the use of medical products in the 
+U.S. population .  These analyses inform FDA’s regulatory decision making about how to address a drug 
+safety signal. Depending on the data sources used, these analyses can provide important information 
+about patient demographics, prescriber specialty, diagnoses and procedures associated wit h the patient 
+visit, prescriber’s intention for use (e.g., prescribed dosing, dosage form or route of administration, 
+duration of product use ), products taken concurrently, and use during pregnancy. 
+Principles of pharmacy practice, health care delivery, and pharmacoepidemiology should be used to 
+evaluate and interpret these data, and when possible, in conju nction with other sources such as electronic 
+health care data and medical chart reviews, to further describe and characterize product ut ilization and 
+treatment patterns in the United States .  Several types of proprietary data on product utilization are 
+available to FDA, including sales distribution data , outpatient prescription and patient -level data, hospital 
+discharge billing data , office-based physician survey data , and longitudinal health care claims-level data. 
+Data submitted by applicants such as annual utilization reports, drug utilization data submitted under 
+PMR and PMC, as well as REMS submissions may also be used in the assessment. 
+The data source(s) and methods to be used for each product utilization analysis should be selected based 
+upon the characteristics of the signal (e.g., AE, specific patient populations, setting of care) as well as 
+utilization patterns.  Because U.S. national utilization data across all settings of care is not available,89 
+multiple data streams are often necessary to project national estimates of product usage.  Patient -and 
+prescription -level product utilization analyses may be conducted for the primary setting(s) of care in 
+which the product is dispensed or administered to characterize the patient population of interest or the 
+primary setting of care associated with the AE or other safety issue.  These analyses provide information 
+on the extent of patient exposure, as well as a description of patient characteristics and patterns of use. 
+Overall, product utilization analyses can provide context for pharmacovigilance activities and define the landscape of real-world use. 
+Reporting Ratios 
+When a signal is identified from FAERS or VAERS, examining the reporting rat io (sometimes called a 
+reporting rat e) informs signal evaluation.  Reporting ratios , although not incidence rates, can be used to 
+provide context and generate hypotheses .  Reporting ratios are based on drug utilization, which may be 
+measured in units of patients exposed, prescriptions dispensed, or amount of drug sold at wholesale.  The 
+numerator is derived from counts of ICSRs associated with the drug of interest that were reported to 
+FAERS or VAERS during a specified time period.  In calculating the reporting ratio, FDA can use the 
+number of dispensed prescriptions as the denominator, which serves as a surrogate measure of drug 
+exposure in the population over a specific time period.  The number of dispensed prescriptions is 
+estimated from proprietary drug utilization databases, which are described above in section 7.2, Product 
+Utilization . 
+89 Although national utilization data across all settings of care is available in countries with a single -payer system,
+
+Although reporting ratios are useful in informing signal evaluation, they have li mitations.  The numerator 
+(representing the number of ICSRs ) and the denominator (derived from product utilization data) are 
+obtained from different data sources. There are additional factors that introduce uncertainty.  For 
+example, underreporting of AEs is common, and product utilization data are based on national estimates, 
+not actual counts .  If indicated and feasible, these calculations are followed by formal inferential analyses 
+using rigorous postmarketing studies in population- or disease-based data sources. Reporting ratios are 
+not considered in isolation; reviewers should take into account all available data and the strength of such 
+data. 
+Reporting ratios can be calculated before building a case series (i.e. , before applying the case definition 
+and assessing causality) ; in this situation the reporting ratio is based on total report counts for the drug-
+AE pair of interest .  The reporting ratio can also be calculated after building the case series, in which 
+duplicate reports and other factors are accounted for ( section 7.1.4, Case Series). Whether calculated 
+before or after building the case series, reporting ratios are useful for providing context and generating 
+hypothes es to the extent that inherent limitations from each data source are addressed appropriately (e.g., 
+both numerator and denominator are aligned by date, time period, indication for use, setting of care, and 
+reporting rule considerations). 
+Epidemiologic  Assessments 
+Epidemiologic assessments are often an integral part of the signal evaluation process.  Preliminarily, a 
+thorough review of t he medical literature should be performed to determine whether the signal has been 
+previously identified or evaluated by other researchers and what unanswered questions might remain.  In 
+addition, the applicant, a multidisciplinary FDA team, or both may re assess the available clinical trial data 
+for the drug (or drug class) during the postmarketing period.  
+Through the Sentinel Initiative,90,91,92 FDA can access information from large electronic health care 
+databases, such as electronic health records, insurance claims data, and registries.  These health care 
+databases are made available by a diverse group of data partners through a distributed data system that 
+enables FDA to actively gather information (active surveillance) about the safety of marketed products. 
+Exploratory analyses should be conducted to characterize health outcomes, examine medical product use, 
+and explore the feasibility of conducting more detailed evaluations.  Using automated design tools , as 
+well as statistical methods th at control for confounding, FDA may conduct additional analyses to build on 
+prior work and formally evaluate medical product -outcome associations. 
+The determination of whether there is a causal association between a product and an AE should be based 
+on the strength of evidence from the totality of data for the product under postmarket ing review. Data 
+from all sources, including pre -clinical data, literature, other safety databases, clinical trials and studies 
+from preapproval development programs, epidemiological studies, product utilization data, and reporting 
+90 In-depth information a bout the Sentinel Initiative is available at https://www.fda.gov/safety/fdas -sentinel -
+initiative/fdas -sentinel- initiative -background. 
+91 Platt R, Brown JS, Robb M, et al. The FDA Sentinel Initiative - a n evolving national resource. N Engl J Med. 
+2018;379(22):2091 -2093. 
+92 Dal Pan GJ. Real -world data, advanced analytics, and the evolution of postmarket drug safety surveillance. Clin
+
+ratios (or rates) should be considered to formulate conclusions regarding the causal association between a 
+suspect product and an AE. This process can help fill the gaps often present in ICSRs (e.g., missing data 
+regarding AE latency after suspect product initiation). Reviewers should consider the number of well -
+documented cases in the case series, the consistency of the safety findings among the data sources, 
+precedents, and biological and pharmacological plausibility (section 7.1.3 , Assessment of ICSRs for 
+Causal Association). 
+The evaluation of biological and pharmacologic plausibility is an important element of causal association 
+assessment, and it is necessary to perform further evaluation when the plausibility is unclear or lacking. 
+FDA may perform such assessments to gain a better understanding of the mechanisms underlying drug or 
+biological product toxicity, as well as insights into the links between a drug’s chemical structure and its potential to induce AEs.  Computational tools and predictive modeling related to a drug’ s mechanism of 
+action or chemical structure-activity relationships can be used to bolster the causal association evidence 
+between a drug and an AE. PK or PD modeling and other pharmacologic or toxicologic evaluations may 
+provide additional insight into pl ausibility, including class effect. 
+Following the comprehensive review, the multidisciplinary team may determine that subsequent actions 
+are necessary.  Potential actions include recommending or requiring the applicant to change the product 
+labeling, issuing safety communications , gathering additional data through requiring a postmarketing 
+study or trial with the aim of better characterizing the risk, or requiring a new REMS or modifying a n 
+approved REMS to better mitigate the risk.  
+If insufficient evidence exists to support a causal association between the drug and AE, the AE can be considered an AE of interest for continued close monitoring. Regardless of regulatory action taken , FDA 
+reviewers should continue to monitor for new safety -related information that may change the 
+determination.  
+Product Labeling Changes 
+FDA-approved product labeling for health care professionals (the Prescribing Information) is a key source 
+of information about a product’s safety and effectiveness; the labeling must contain a summary of the 
+essential scientific information needed for the safe and effective use of the product .93 The labeling must 
+be updated by the applicant when new information becomes available that causes the labeling to become inaccurate, false, or misleading ,
+94 by submitting a prior approval supplement95 or a changes being 
+effected (CBE) labeling supplement96 for FDA review. 
+FDA is authorized to require drug and biological product application holders to make safety labeling 
+changes based on , among other things, new safety information that becomes available after approval of 
+the drug or biological product.97 FDA regulations98 and guidance documents describe requirements and 
+93 See 21 CFR 201.56(a)(1). 
+94 See 21 CFR 201.56(a)(2). 
+95 See 21 CFR 314.70(b) and 21 CFR 601.12(f)(1). 
+96 See 21 CFR 314.70(c) and 21 CFR 601.12(f)(2). 
+97 See s ection 505(o)(4) of the FD&C Act.
+
+the Agency recommendations , respectively, regarding such labeling changes, including where in the 
+labeling the changes are to appear.99,100,101 
+Safety C ommunications 
+FDA may develop and disseminate information to the public about important drug safety issues, including 
+emerging drug safety information.  Timely communication of important drug safety information provides 
+health care professionals, patients, consumers, and other interested persons with access to the most 
+current information concerning the potential risks and benefits of a marketed drug, helping them to make more informed treatment choices. A Drug S afety Communication (DSC) is the primary tool used by 
+FDA to communicate important new and emerging safety information about marketed products to health care professionals, patients , and caregivers.
+
+A DSC may inform the public about an ongoing investigation of a new or existing safety issue, raise 
+awareness or educate health care professionals and patients about key aspects of a safety issue, or inform 
+the public about new or updated information about known or established drug risks. Safety issues that 
+may be communicated using a DSC include, but are not limited to , issues affecting a large number of 
+patients because of widespread use, potentially serious or life -threatening AEs discovered during  
+marketing , clinically relevant information about a known AE that may affect prescribing or use of the 
+drug, new contraind ication for a subpopulation of patients , previously uncharacterized drug-drug or drug-
+disease interactions, and medication errors that may result in a serious or life-threatening adverse reaction. 
+DSCs generally convey information regarding: 
+• The safety issue and the nature of the risk being communicated 
+• The approved indication or use of the product 
+• The benefits of the product being discussed 
+• The regulatory action FDA is taking, if appropriate 
+• Recommended actions for health care professionals, patients, and caregivers 
+• A summary of the data reviewed or being reviewed by FDA 
+In addition to being posted on the FDA website, DSC messages and information may also be 
+disseminated through numerous other outlets, including notification to Federal and in ternational partner 
+agencies and organizations; large email listserv s, including MedWatch Safety Alerts; Drug Safety 
+Podcasts; s ocial media; traditional media, trade media, and specialty health outlets or publications ; 
+99 See 21 CFR 201.57(c)(7) and the guidance for industry Adverse Reactions Section of Labeling for Human 
+Prescription Drug and Biological Products — Content and Format (January 2006) is available at 
+https://www.fda.gov/RegulatoryInformation/Guidances/default.htm . 
+100 The guidance for industry Safety Labeling Changes — Implementation of Section 505(o)(4) of the FD&C Act 
+(July 2013) is available at https://www.fda.gov/RegulatoryInformation/Guidances/default.htm. 
+101 The guidance for industry Warnings and Precautions, Contraindications, and Boxed Warning Sections of 
+Labeling for Human Prescription Drug and Biological Products — Content and Format (October 2011) is available 
+at https://www.fda.gov/RegulatoryInformation/Guidances/default.htm . 
+102 DSCs, drug alerts and statements, and other information for consumers and hea lth care professionals are available 
+at https://www.fda.gov/drugs/drug- safety -and-availability . FDA also issues Compounding Risk Alerts to inform 
+healt h care professionals, compounders, and consumers about risks associated with compounded drugs, including 
+information on AEs, outbreaks, or product quality. Compounding Risk Alerts are available at
+
+healthcare professional and patient advocacy organizations ; and third -party information provider 
+companies. FDA may also request or require applicants to issue a “ Dear Health Care Provider ” letter , for 
+example, to disseminate information regarding a significant hazard to health, to announce important 
+changes in Prescribing Information, or to emphasize corrections to prescription drug advertising or 
+Prescribing Information.103 
+Postmarketing  Studies and Trials 
+FDA is authorized to require that applicants holding approved NDAs and BLAs conduct studies or 
+clinical trials under certain circumstances.104 Under section 505(o)(3)(D)(i) of the FD&C Act , before 
+requiring a postmarketing study, FDA must find that AE reporting under section 505(k)(1) of the FD&C 
+Act and the active postmarket risk identification and analysis sy stem105 established under section 
+505(k)(3) of the FD&C Act will not be sufficient to meet the purposes described in section 505(o)(3)(B). 
+Under section 505(o)(3)(D)(ii) of the FD&C Act , before requiring a postmarketing clinical trial, FDA 
+must find that a postmarketing study will not be sufficient to meet the purposes described in section 
+505(o)(3)(B). 
+Enhanced Pharmacovigilance Activities 
+In an effort to enhance FDA’s ability to perform safety surveillance of AEs of interest, FDA may request that the applicant: 
+• Use a targeted data collection tool to gather detailed case information specific to the product and AE of interest . 
+• Expeditiously submit reports of AEs of interest beyond minimum reporting requirements . 
+• Summarize and assess AEs of interest at a frequency defined by FDA (e.g., in PSRs or in some 
+other form). 
+Web Posting of P otential Safety Signals 
+In accordance with statutory requirements and established policies and procedures, FDA posts potential 
+signals of serious risks or new safety information that were identified from FAERS, or for which FAERS 
+data were contributory , to the FDA i nternet website on a quarterly basis.106,107 
+103 The guidance for industry and FDA staff Dear Health Care Provider Letters: Improving Communication of 
+Important Safety Information (January 2014) is available at 
+https://www.fda.gov/RegulatoryInformation/Guidances/default.htm . 
+104 See section 505(o)(3) of the FD&C Act . The draft guidance for industry Postmarketing Studies and Clinical 
+Trials — Implementation of Section 505(o)(3) of the Federal Food, Drug, and Cosmetic Act (October 2019) is 
+available at https://www.fda.gov/RegulatoryInformation/Guidances/default.htm . 
+105 Information about the active risk identification and analysis system, known as ARIA, is available at 
+https://www.sentinelinitiative.org/active -risk-identificatio n-and-analysis -aria. 
+106 CDER MAPP 6700.9 , FDA Posting of Potential Signals of Serious Risks Identified by the FDA Adverse Event 
+Reporting System is available at https://www.fda.gov/about- fda/center -drug-evaluation -and-research -cder/cder -
+manual -policies -procedures -mapp . 
+107 See Potential Signals of Serious Risks/New Safety Information Identified from the FDA Adverse Event Reporting 
+System (FAERS) at 
+http://www.fda.gov/Drugs/GuidanceComplianceRegulatoryInformation/Surveillance/AdverseDrugEffects/ucm0821
+
+A new report should be made available each quarter .  Information from previous quarters should be 
+updated on the website and should remain available until an FDA regulatory action has been taken or 
+FDA determines that no regulatory action may be required. FDA may determine, f or products that may 
+be associated with the risk, that certain actions are necessary including, but not limited to: modifying the 
+product labeling , gathering additional data to characterize the risk, establishing or modifying a REMS to 
+ensure the benefits of the drug outweigh the risks , suspending or withdrawing marketing approval , or 
+other actions (including recalls or compounding risk alerts).  After FDA has taken a regulatory action for 
+each issue on a quarterly report or determined that no regulatory action is required, no further updates are 
+needed , and the quarterly report should be archived. 
+In addition to the quarterly posting, a separate websi te posting should include signals evaluated under the 
+Sentinel program.108 The information posted to the Sentinel website is provided as part of FDA's 
+commitment to make knowledge acquired from the Sentinel system available in the public domain as 
+soon as possible. 
+For each of these postings, the appearance of a product on the listing does not mean that FDA has 
+concluded that the product is causally associated with the AE.  It means that FDA has identified a 
+potential safety signal for further evaluation, unless FDA has specifically stated that it has concluded that 
+there is a causal association between the product and the AE, by noting, for example, in the posting that a labeling update has been made reflecting causality . 
+Risk Evaluation and Mitigation Strategies 
+FDAAA amended the FD&C Act to authorize109 FDA to require a REMS when FDA determines that a 
+REMS is necessary to ensure that the benefits of a drug110 outweigh its risks . A REMS therefore provides 
+additional risk mitigation beyond product labeling and can provide safe access for patients to products with known serious risks that would otherwise be unavailable.  A guidance for industry clarifies how 
+FDA applies the factors for determining when a REMS is necessary to ensure the benefits of the drug outweigh the risks.
+
+Once the need for a REMS is determined, FDA consider s the goal(s) of the REMS and specific strategies 
+to meet the goals.  A REMS can include a Medication Guide,112,113 a communication plan, elements to 
+assure safe use (ETASU), an implementation system , certain packaging and disposal technologies , and 
+include s a timetable for assessment of the REMS.  A communication plan to health care providers may be 
+required if FDA determines that the plan may support implementation of the REMS, to disseminate 
+108 In-depth information about the Sentinel program is available at https://www.sentinelinitiative.org/. 
+109 The requirements for REMS are found in section 505 -1 of the FD&C Act. 
+110 A REMS can be required for prescription drugs . 
+111 The guidance for industry REMS: FDA’s Application of Statutory Factors in Determining When a REMS Is 
+Necessary (April 2019) is available at https://www.fda.gov/RegulatoryInformation/Guidances/default.htm . 
+112 Federal regulations authorize FDA to require a Medication Guide as a part of drug product labeling under certain 
+circums tances (21 CFR part 208). Additionally, section 505 -1 of the FD&C Act authorizes FDA to require a 
+Medication Guide as an element of a REMS. FDA may decide that the Medication Guide should be required as 
+labeling (but not as part of a REMS). 
+113 The guidance for industry Medication Guides — Distribution Requirements and Inclusion in Risk Evaluation and 
+Mitigation Strategies (REMS) (November 2011) is available at
+
+information to health care providers regarding REMS requirements, or to explain certain safety protocols, 
+such as medical monitoring through periodic laboratory tests .  
+FDA can require ETASU as part of a REMS to mitigate a specific serious risk listed in the labeling of a 
+drug if, in the absence of a REMS with ETASU, the drug would otherwise not be approved or would be 
+withdrawn.  A REMS that includes ETASU may comprise, for example, requirements that healthcare 
+providers who prescribe the drug have particular training or experience, that patients using the drug be 
+monitored for a risk, or that the drug be dispensed to patients with evidence or other documentation of 
+safe use conditions. 
+A REMS may be required as a condition of the approval of a new product or for an approved product 
+when new safety information becomes available that indicates that such a strategy is necessary to ensure 
+the drug’s benefits continue to outweigh the risks.  New safety information i s defined as new information 
+about a serious risk associated with the use of the product that FDA has become aware of since the 
+product was approved, since a REMS was required, or since the last assessment of the REMS.114 
+Applicants are required to periodi cally assess their REMS and submit such assessment s to FDA as to 
+whether the programs are meeting their goals or should be modified. Applicants work with FDA to 
+modify their REMS throughout the life cycle of the product as new information becomes available. FDA 
+reviews all REMS assessments.  Assessments of approved REMS provide a valuable source of 
+information for reviewers as well as a safety surveillance tool to ensure that a product is used safely. 
+To enhance its capabilities in promoting product safety to protect and improve public health, it is 
+necessary for FDA to continue to explore new approaches to drug safety surveillance . Likewise, through 
+the establishment of partnerships and contractual arrangements, FDA supports and further develops new 
+data systems, new surveillance infrastructure, and new methodological tools to complement its existing 
+resources. 
+AE adverse event 
+ANDA abbreviated new drug application  
+ARIA active risk identification and analysis system 
+BLA biologics license application 
+BPCA Best Pharmaceuticals for Children Act 
+CBER Center for Biologics Evaluation and Research 
+CDC Centers for Disease Control and Prevention
+
+CDER Center for Drug Evaluation and Research 
+CGMP current good manufacturing practi ce 
+DQSA Drug Quality and Security Act 
+DRMB Drug Risk Management Board 
+DSC Drug Safety Communication 
+ETASU element to assure safe use 
+FAERS FDA Adverse Event Reporting System 
+FDA Food and Drug Administration 
+FDAAA Food and Drug Administration Amendments Act 
+FD&C Act Federal Food, Drug, and Cosmetic Act 
+GFR glomerular filtration rate 
+ICH International Council for Harmonisation 
+ICSR individual case safety report 
+MAPP manual of policies and p rocedures 
+NCVIA National Childhood Vaccine Injury Act 
+NDA new drug application 
+NDC national drug code 
+NISS newly identified safety signal 
+NME new molecular entity 
+OSE Office of Surveillance and Epidemiology 
+OTC over-the-counter 
+PAC Pediatric Advisory Committee 
+PBRER p eriodic benefit -risk evaluation report 
+PADER periodic adverse drug experience report 
+PAER periodic adverse experience report
+
+PHS Act Public Health Service Act 
+PK pharmacokinetic 
+PMC postmarketing commitment 
+PMR postmarketing requirement 
+PQI product quality issue 
+PREA Pediatric Research Equity Act 
+PSR periodic safety report 
+PSUR periodic safety update report 
+REMS risk evaluation and m itigation strategy 
+RLD reference listed drug 
+RMP risk management plan 
+SOP standard operating procedures 
+SOPP manual of standard o perating p rocedures and p olicies

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+env
+
+# Data (large files – keep structure, ignore large PDFs if needed)
+data/raw_policies/*.pdf
+data/processed/chunked/*.json
+!data/raw_policies/.gitkeep
+!data/processed/clean_text/.gitkeep
+!data/processed/chunked/.gitkeep
+
+# Vector index (regenerate from notebooks)
+outputs/vector_index/
+*.faiss
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE / OS
+.DS_Store
+.idea/
+*.swp
+*.swo
+
+# Reports (optional – keep if you want to version)
+# outputs/reports/

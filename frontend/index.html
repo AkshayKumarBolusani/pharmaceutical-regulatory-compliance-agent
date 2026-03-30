@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI-Powered Pharmaceutical Compliance Check</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <div class="container">
+    <header class="header">
+      <h1>AI-Powered Pharmaceutical Compliance Check</h1>
+      <p>Submit a report to detect violations and view regulatory-grounded explanations.</p>
+    </header>
+
+    <section class="card">
+      <div class="card-title">Report input</div>
+      <textarea
+        id="reportText"
+        class="input-report"
+        placeholder="Paste pharmaceutical report here (e.g. promotional text, safety narrative)..."
+        aria-label="Pharmaceutical report text"
+      ></textarea>
+      <button type="button" class="btn-check" id="btnCheck">Check Compliance</button>
+      <div id="loading" class="loading" style="display: none;">Checking compliance…</div>
+      <div id="errorMsg" class="error-msg" style="display: none;"></div>
+    </section>
+
+    <section id="results" class="card">
+      <div class="card-title">Results</div>
+      <div id="statusBadge" class="status-line"></div>
+      <div class="violation-heading" id="violationHeading">Violation:</div>
+      <div id="violationsContainer"></div>
+      <div id="regulationsContainer" class="regulations-section"></div>
+    </section>
+  </div>
+
+  <script>
+    (function () {
+      const reportText = document.getElementById('reportText');
+      const btnCheck = document.getElementById('btnCheck');
+      const loading = document.getElementById('loading');
+      const errorMsg = document.getElementById('errorMsg');
+      const results = document.getElementById('results');
+      const statusBadge = document.getElementById('statusBadge');
+      const violationsContainer = document.getElementById('violationsContainer');
+      const regulationsContainer = document.getElementById('regulationsContainer');
+
+      function showError(msg) {
+        errorMsg.textContent = msg;
+        errorMsg.style.display = 'block';
+        loading.style.display = 'none';
+        btnCheck.disabled = false;
+      }
+
+      function hideError() {
+        errorMsg.style.display = 'none';
+      }
+
+      function setStatusBadge(status) {
+        const statusLower = (status || '').toLowerCase();
+        let cls = 'status-badge ';
+        let emoji = '';
+        if (statusLower === 'pass') {
+          cls += 'pass';
+          emoji = '✅ ';
+        } else if (statusLower === 'fail') {
+          cls += 'fail';
+          emoji = '🔴 ';
+        } else {
+          cls += 'review';
+          emoji = '⚠️ ';
+        }
+        const label = 'Status: ';
+        statusBadge.innerHTML = '<span class="status-label">' + escapeHtml(label) + '</span><span class="' + cls + '">' + emoji + (status || '—') + '</span>';
+      }
+
+      function escapeHtml(s) {
+        if (s == null) return '';
+        const div = document.createElement('div');
+        div.textContent = s;
+        return div.innerHTML;
+      }
+
+      function renderViolations(violations) {
+        if (!violations || violations.length === 0) {
+          violationsContainer.innerHTML = '<p style="color: var(--text-muted); margin: 0;">No violations detected.</p>';
+          return;
+        }
+        const ul = document.createElement('ul');
+        ul.className = 'violations-list';
+        violations.forEach(function (v) {
+          const li = document.createElement('li');
+          li.className = 'violation-item ' + (v.severity || '').toLowerCase();
+          let html = '<div class="violation-block">';
+          html += '<div class="violation-row"><span class="violation-label">Type:</span> ' + escapeHtml(v.type || '—') + '</div>';
+          html += '<div class="violation-row"><span class="violation-label">Severity:</span> ' + escapeHtml(v.severity || '—') + '</div>';
+          html += '<div class="violation-row"><span class="violation-label">Explanation:</span> ' + escapeHtml(v.explanation || '—') + '</div>';
+          if (v.evidence) {
+            html += '<div class="violation-row violation-evidence"><span class="violation-label">Evidence:</span> ' + escapeHtml(v.evidence) + '</div>';
+          }
+          if (v.suggested_fix) {
+            html += '<div class="violation-row"><span class="violation-label">Suggested fix:</span> ' + escapeHtml(v.suggested_fix) + '</div>';
+          }
+          html += '</div>';
+          li.innerHTML = html;
+          ul.appendChild(li);
+        });
+        violationsContainer.innerHTML = '';
+        violationsContainer.appendChild(ul);
+      }
+
+      function renderRegulations(regs) {
+        if (!regs || regs.length === 0) {
+          regulationsContainer.innerHTML = '';
+          return;
+        }
+        const listId = 'regs-list';
+        let html = '<button type="button" class="regulations-toggle" id="regsToggle" aria-expanded="true">';
+        html += '▼ Retrieved regulations (' + regs.length + ')</button>';
+        html += '<ul id="' + listId + '" class="regulations-list">';
+        regs.forEach(function (r) {
+          const text = (r.text || '').substring(0, 400);
+          const more = (r.text || '').length > 400 ? '…' : '';
+          html += '<li class="regulation-item">';
+          html += '<div class="regulation-source">' + escapeHtml(r.source) + '</div>';
+          html += '<div class="regulation-text">' + escapeHtml(text) + more + '</div>';
+          html += '</li>';
+        });
+        html += '</ul>';
+        regulationsContainer.innerHTML = html;
+        document.getElementById('regsToggle').onclick = function () {
+          const list = document.getElementById(listId);
+          const expanded = list.classList.toggle('collapsed');
+          this.setAttribute('aria-expanded', !expanded);
+          this.textContent = (expanded ? '▶' : '▼') + ' Retrieved regulations (' + regs.length + ')';
+        };
+      }
+
+      btnCheck.addEventListener('click', function () {
+        const text = reportText.value.trim();
+        if (!text) {
+          showError('Please paste a report to check.');
+          return;
+        }
+        hideError();
+        btnCheck.disabled = true;
+        loading.style.display = 'block';
+        results.classList.remove('visible');
+
+        fetch('/check_compliance', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ report_text: text })
+        })
+          .then(function (res) {
+            if (!res.ok) return res.json().then(function (d) { throw new Error(d.detail || res.statusText); });
+            return res.json();
+          })
+          .then(function (data) {
+            setStatusBadge(data.compliance_status);
+            const violations = data.violations || [];
+            const vHead = document.getElementById('violationHeading');
+            vHead.textContent = violations.length === 1 ? 'Violation:' : 'Violations:';
+            vHead.style.display = violations.length ? 'block' : 'none';
+            renderViolations(violations);
+            renderRegulations(data.retrieved_regulations || []);
+            results.classList.add('visible');
+          })
+          .catch(function (err) {
+            showError('Request failed: ' + (err.message || 'Unknown error'));
+          })
+          .finally(function () {
+            loading.style.display = 'none';
+            btnCheck.disabled = false;
+          });
+      });
+    })();
+  </script>
+</body>
+</html>

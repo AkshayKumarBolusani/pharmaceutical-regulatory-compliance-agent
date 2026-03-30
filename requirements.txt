@@ -1,0 +1,32 @@
+# Phase 1 — Foundation & Policy Intelligence
+# Python 3.10+ recommended
+
+# PDF & text
+pypdf>=4.0.0
+pdfplumber>=0.11.0
+
+# Text processing
+regex>=2024.0.0
+
+# Vector store & embeddings
+chromadb>=0.4.22
+sentence-transformers>=2.2.0
+# Avoid tensorboard/protobuf conflict (MessageFactory.GetPrototype error in notebook 03)
+protobuf>=3.20,<4
+
+# Notebooks & data
+jupyter>=1.0.0
+ipykernel>=6.0.0
+pandas>=2.0.0
+
+# Config
+pyyaml>=6.0.0
+
+# Phase 2 — Compliance reasoning (no Phase 1 changes)
+openai>=1.0.0
+pytest>=7.0.0
+python-dotenv>=1.0.0
+
+# Phase 3 — Demo UI backend
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0

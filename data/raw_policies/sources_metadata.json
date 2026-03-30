@@ -1,0 +1,83 @@
+{
+  "description": "Phase 1 regulatory sources. Place PDFs in this folder with the exact 'file' name. All sources are public and traceable.",
+  "version": "1.0",
+  "gdpr_scope_note": "Only pharma-relevant GDPR articles (e.g. 4, 5, 6, 9, 17) are used for compliance reasoning; full regulation is stored for traceability.",
+  "sources": [
+    {
+      "id": "FDA_PROMO",
+      "authority": "FDA",
+      "country": "USA",
+      "category": "Promotion",
+      "name": "Brief Summary and Adequate Directions for Use: Disclosing Risk Information in Consumer-Directed Print Advertisements and Promotional Labeling for Prescription Drugs (Aug 2015, Rev 2)",
+      "file": "FDA_risk_disclosure_promo.pdf"
+    },
+    {
+      "id": "FDA_AE_1",
+      "authority": "FDA",
+      "country": "USA",
+      "category": "Adverse events",
+      "name": "Postmarketing Safety Reporting for Human Drug and Biological Products (Guidance for Industry)",
+      "file": "FDA_postmarketing_safety_reporting.pdf"
+    },
+    {
+      "id": "FDA_AE_2",
+      "authority": "FDA",
+      "country": "USA",
+      "category": "Adverse events",
+      "name": "Best Practices for FDA Staff in the Postmarketing Safety Surveillance of Human Drug and Biological Products (Jan 2024)",
+      "file": "FDA_postmarketing_surveillance_best_practices.pdf"
+    },
+    {
+      "id": "EMA_GVP_VI",
+      "authority": "EMA",
+      "country": "EU",
+      "category": "Pharmacovigilance",
+      "name": "GVP Module VI: Management and reporting of adverse reactions to medicinal products (Rev 1)",
+      "file": "EMA_GVP_Module_VI.pdf"
+    },
+    {
+      "id": "EMA_GVP_ANNEX_I",
+      "authority": "EMA",
+      "country": "EU",
+      "category": "Pharmacovigilance",
+      "name": "GVP Annex I — Definitions (Rev 4)",
+      "file": "EMA_GVP_Annex_I_Definitions.pdf"
+    },
+    {
+      "id": "CDSCO_PV",
+      "authority": "CDSCO",
+      "country": "India",
+      "category": "Adverse events",
+      "name": "Pharmacovigilance Guidance Document for Marketing Authorization Holders of Pharmaceutical Products (Version 2.0)",
+      "file": "CDSCO_PV_guidance_pharma.pdf"
+    },
+    {
+      "id": "INDIA_DMRA_1954",
+      "authority": "Government of India",
+      "country": "India",
+      "category": "Promotion",
+      "name": "Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954",
+      "file": "India_Drugs_and_Magic_Remedies_Act_1954.pdf"
+    },
+    
+    {
+      "id": "ICH_E2D",
+      "authority": "ICH",
+      "country": "International",
+      "category": "Safety",
+      "name": "ICH E2D: Post-Approval Safety Data Management: Definitions and Standards for Expedited Reporting",
+      "file": "ICH_E2D.pdf"
+    },
+    
+    {
+      "id": "HIPAA",
+      "authority": "HHS",
+      "country": "USA",
+      "category": "Privacy",
+      "name": "HIPAA Privacy Rule (45 CFR Part 160 and Subparts A and E of Part 164)",
+      "file": "HIPAA_Privacy_Rule.pdf"
+    }
+  ],
+  "category_enum": ["Promotion", "Adverse events", "Pharmacovigilance", "Safety", "Privacy"],
+  "country_enum": ["USA", "EU", "India", "International"]
+}

@@ -1,0 +1,83 @@
+# Phase 1 — Deterministic Rule Taxonomy (auditable, no ML)
+# Used for compliance checks; Phase 2 may add escalation logic.
+# All rules are explainable and traceable.
+
+privacy:
+  description: "PII/PHI that must not appear in inappropriate contexts (e.g. promotional text, unredacted reports)"
+  forbidden_entities:
+    - patient_name
+    - phone_number
+    - email
+    - address
+    - national_id
+    - health_plan_beneficiary_number
+    - device_identifier
+    - biometric_identifier
+  # Contexts where presence of above triggers a flag (Phase 2 may use)
+  forbidden_contexts:
+    - promotional_material
+    - unredacted_safety_report_public
+
+adverse_event:
+  description: "Keywords that may indicate an adverse event mention (trigger for AE detection)"
+  trigger_keywords:
+    - nausea
+    - dizziness
+    - headache
+    - vomiting
+    - diarrhea
+    - rash
+    - fatigue
+    - stopped medication
+    - discontinued
+    - adverse reaction
+    - side effect
+    - hypersensitivity
+    - anaphylaxis
+    - bleeding
+    - liver injury
+    - renal impairment
+  # Normalisation: lowercased before matching; exact phrase not required unless added to phrase_list
+  case_sensitive: false
+
+off_label_promotion:
+  description: "Phrase patterns that may indicate off-label promotion (indication beyond approved)"
+  phrase_patterns:
+    - "use for"
+    - "used for"
+    - "indicated for"
+    - "approved for"
+    - "used to treat"
+    - "effective for"
+    - "recommended for"
+    - "not approved"
+    - "unapproved indication"
+  # When matched in promotional context without approved-indication anchor, flag for review
+  context: promotion
+
+comparative_claims:
+  description: "Indicators of comparative or superiority claims (require substantiation)"
+  indicators:
+    - "better than"
+    - "more effective"
+    - "superior to"
+    - "best in class"
+    - "head-to-head"
+    - "compared to"
+    - "outperforms"
+    - "number one"
+  # Presence in promotion without citation → flag
+
+# Phase 2: used to decide when an AE must escalate (e.g. expedited reporting).
+# Phase 1 only defines the rule class; no escalation logic.
+mandatory_reporting_context:
+  description: "Flags that indicate an AE may require mandatory/expedited reporting (Phase 2 escalation)"
+  escalation_flags:
+    - serious
+    - hospitalization
+    - death
+    - discontinuation
+    - life_threatening
+    - disability
+    - congenital_anomaly
+  # Mapping to regulatory seriousness criteria (ICH, FDA, EMA) done in Phase 2

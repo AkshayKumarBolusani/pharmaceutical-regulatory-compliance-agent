@@ -1,0 +1,301 @@
+/* Phase 3 — Medical-grade compliance check UI. Premium, clean, exam-safe. */
+
+:root {
+  --bg-page: #f5f7fa;
+  --bg-card: #ffffff;
+  --primary: #1e3a5f;
+  --primary-light: #2c5282;
+  --accent: #0d9488;
+  --text: #1a202c;
+  --text-muted: #4a5568;
+  --border: #e2e8f0;
+  --pass: #059669;
+  --fail: #dc2626;
+  --review: #d97706;
+  --shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.08), 0 2px 4px -2px rgba(0, 0, 0, 0.06);
+  --radius: 10px;
+  --font: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--font);
+  font-size: 15px;
+  line-height: 1.6;
+  color: var(--text);
+  background: var(--bg-page);
+  min-height: 100vh;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem;
+}
+
+/* Header */
+.header {
+  text-align: center;
+  margin-bottom: 2rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 2px solid var(--border);
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--primary);
+  letter-spacing: -0.02em;
+}
+
+.header p {
+  margin: 0.5rem 0 0;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+/* Cards */
+.card {
+  background: var(--bg-card);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-md);
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid var(--border);
+}
+
+.card-title {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--primary);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 0.75rem;
+}
+
+/* Input */
+textarea.input-report {
+  width: 100%;
+  min-height: 180px;
+  padding: 1rem;
+  font-family: var(--font);
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--text);
+  background: #fafafa;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  resize: vertical;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+textarea.input-report:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px rgba(13, 148, 136, 0.15);
+}
+
+textarea.input-report::placeholder {
+  color: #a0aec0;
+}
+
+/* Button */
+.btn-check {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.75rem 1.75rem;
+  font-family: var(--font);
+  font-size: 1rem;
+  font-weight: 600;
+  color: #fff;
+  background: var(--primary);
+  border: none;
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: background 0.2s, transform 0.05s;
+  box-shadow: var(--shadow);
+}
+
+.btn-check:hover {
+  background: var(--primary-light);
+}
+
+.btn-check:active {
+  transform: scale(0.98);
+}
+
+.btn-check:disabled {
+  opacity: 0.7;
+  cursor: not-allowed;
+}
+
+/* Status line: "Status: 🔴 FAIL" / "Status: pass" */
+.status-line {
+  margin-bottom: 1rem;
+}
+
+.status-label {
+  font-weight: 600;
+  color: var(--text);
+  margin-right: 0.35rem;
+}
+
+.status-badge {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  font-weight: 600;
+  border-radius: var(--radius);
+}
+
+.status-badge.pass {
+  background: #d1fae5;
+  color: var(--pass);
+}
+
+.status-badge.fail {
+  background: #fee2e2;
+  color: var(--fail);
+}
+
+.status-badge.review {
+  background: #fef3c7;
+  color: var(--review);
+}
+
+/* Violations list */
+.violations-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.violation-item {
+  padding: 1rem;
+  margin-bottom: 0.75rem;
+  background: #f8fafc;
+  border-radius: var(--radius);
+  border-left: 4px solid var(--text-muted);
+}
+
+.violation-item.critical { border-left-color: var(--fail); }
+.violation-item.high { border-left-color: var(--fail); }
+.violation-item.medium { border-left-color: var(--review); }
+
+.violation-heading {
+  font-weight: 600;
+  color: var(--primary);
+  margin-bottom: 0.5rem;
+  font-size: 0.95rem;
+}
+
+.violation-block {
+  font-size: 0.95rem;
+}
+
+.violation-row {
+  margin-bottom: 0.4rem;
+  line-height: 1.5;
+}
+
+.violation-row:last-child {
+  margin-bottom: 0;
+}
+
+.violation-label {
+  font-weight: 600;
+  color: var(--text);
+  margin-right: 0.25rem;
+}
+
+.violation-row.violation-evidence {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+/* Retrieved regulations */
+.regulations-section {
+  margin-top: 1rem;
+}
+
+.regulations-toggle {
+  background: none;
+  border: none;
+  font-family: var(--font);
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--accent);
+  cursor: pointer;
+  padding: 0.5rem 0;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.regulations-toggle:hover {
+  text-decoration: underline;
+}
+
+.regulations-list {
+  list-style: none;
+  padding: 0;
+  margin: 0.5rem 0 0;
+}
+
+.regulations-list.collapsed {
+  display: none;
+}
+
+.regulation-item {
+  padding: 0.75rem;
+  margin-bottom: 0.5rem;
+  background: #f0fdfa;
+  border-radius: 8px;
+  border: 1px solid #ccfbf1;
+  font-size: 0.9rem;
+}
+
+.regulation-source {
+  font-weight: 600;
+  color: var(--primary);
+  margin-bottom: 0.25rem;
+}
+
+.regulation-text {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  line-height: 1.5;
+}
+
+/* Results container */
+#results {
+  display: none;
+}
+
+#results.visible {
+  display: block;
+}
+
+/* Loading state */
+.loading {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}
+
+/* Error message */
+.error-msg {
+  padding: 1rem;
+  background: #fee2e2;
+  color: var(--fail);
+  border-radius: var(--radius);
+  margin-top: 1rem;
+  font-size: 0.9rem;
+}

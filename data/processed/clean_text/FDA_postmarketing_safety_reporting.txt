@@ -1,0 +1,1854 @@
+G:\4177dft.docGuidance for Industry
+Postmarketing Safety Reporting
+for Human Drug and Biological
+Products Including Vaccines
+DRAFT GUIDANCE
+This guidance document is being distributed for comment purposes only.
+Comments and suggestions regarding this draft document should be submitted within 60
+days of publication in the Federal Register  of the notice announcing the availability of the
+draft guidance.  Submit comments to Dockets Management Branch (HFA-305), Food and
+Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD  20857.  All comments
+should be identified with the docket number listed in the notice of availability that publishes
+in the  Federal Register .
+For questions on the content of the draft document contact (CDER) Min Chen, 301-827-
+3169 (phone); 301-827-5190 (fax), or (CBER) Miles Braun, 301-827-3974 (phone); 301-
+827-3529 (fax).   
+U.S. Department of Health and Human Services
+Food and Drug Administration
+Center for Drug Evaluation and Research (CDER)
+Center for Biologics Evaluation and Research (CBER)
+March 2001
+
+G:\4177dft.docGuidance for Industry
+Postmarketing Safety Reporting
+for Human Drug and Biological
+Products Including Vaccines
+Additional copies are available from:
+Drug Information Branch (HFD-210)
+Center for Drug Evaluation and Research (CDER)
+5600 Fishers Lane, Rockville, MD 20857
+(Tel) 301-827-4570
+Internet at http://www.fda.gov/cder/guidance/index.htm
+or
+Office of Communication, Training and Manufacturers Assistance (HFM-40)
+Center for Biologics Evaluation and Research (CBER)
+1401 Rockville Pike, Rockville, MD 20852-1448
+(Fax) 1-888-CBERFAX or 301-827-3844
+(Voice Information) 1-800-835-4709 or 301-827-1800
+Internet at http://www.fda.gov/cber/guidelines.htm
+U.S. Department of Health and Human Services
+Food and Drug Administration
+Center for Drug Evaluation and Research (CDER)
+Center for Biologics Evaluation and Research (CBER)
+March 2001
+
+G:\4177DFT.DOCTABLE OF CONTENTS
+I. INTRODUCTION ................................ ................................ ................................ ................................ ................................ ..1
+A. WHAT DOES THIS GUIDANCE DISCUSS ?................................ ................................ ................................ .......................... 1
+B. WHAT DOES THIS GUIDANCE NOT  DISCUSS ?................................ ................................ ................................ ................. 2
+C. GOOD GUIDANCE PRACTICES ................................ ................................ ................................ ................................ ............. 2
+II. BACKGROUND ................................ ................................ ................................ ................................ ................................ ....3
+A. FINAL RULES ................................ ................................ ................................ ................................ ................................ .......3
+B. GUIDANCES ................................ ................................ ................................ ................................ ................................ ......... 3
+C. PROPOSED RULES ................................ ................................ ................................ ................................ ............................... 4
+III. WHO MUST REPORT ................................ ................................ ................................ ................................ ......................... 4
+IV. WHAT DO I REPORT ?................................ ................................ ................................ ................................ ....................... 5
+A. TYPE OF ADVERSE EXPERIENCES ................................ ................................ ................................ ................................ .....6
+B. DATA ELEMENTS TO INCLUDE IN A POSTMARKETING INDIVIDUAL CASE SAFETY REPORT ................................ ......... 8
+V. TYPE OF REPORTS ................................ ................................ ................................ ................................ ............................ 9
+A. 15-D AY REPORTS OF SERIOUS , UNEXPECTED  ADVERSE EXPERIENCES ................................ ................................ ........ 9
+B. PERIODIC REPORTS ................................ ................................ ................................ ................................ .......................... 11
+C. FOLLOWUP REPORTS ................................ ................................ ................................ ................................ ....................... 15
+D. DISTRIBUTION REPORTS FOR BIOLOGICAL PRODUCTS INCLUDING VACCINES ................................ ............................ 18
+VI. SPECIAL REPORTI NG SITUATIONS ................................ ................................ ................................ ..................... 18
+A. SCIENTIFIC LITERATURE REPORTS ................................ ................................ ................................ ................................ .18
+B. POSTMARKETING , CLINICAL TRIAL , OR SURVEILLANCE STUDIES ................................ ................................ ................ 19
+C. FOREIGN REPORTS ................................ ................................ ................................ ................................ ........................... 20
+D. DEATH REPORTS ................................ ................................ ................................ ................................ .............................. 20
+E. OVERDOSE REPORTS ................................ ................................ ................................ ................................ ........................ 20
+F. LACK OF EFFECT REPORTS ................................ ................................ ................................ ................................ ............. 21
+G. INFORMATION ON THE INTERNET ................................ ................................ ................................ ................................ ....21
+H. PEDIATRIC PATIENTS ................................ ................................ ................................ ................................ ....................... 21
+I. PRESCRIPTION DRUGS MARKETED FOR HUMAN USE WITHOUT AN APPROVED APPLICATION ................................ 22
+J. ANOTHER APPLICANT =S PRODUCT ................................ ................................ ................................ ................................ .22
+K. MULTIPLE SUSPECT PRODUCTS ................................ ................................ ................................ ................................ .....22
+L. SUSPECT DRUGS WITH MULTIPLE NDA S OR ANDA S BY THE SAME APPLICANT ................................ ................... 23
+M. TWO OR MORE MARKETERS OF A PRODUCT ................................ ................................ ................................ ................ 23
+N. UNAPPROVED INDICATIONS ................................ ................................ ................................ ................................ ............. 23
+O. PRODUCT INTERACTIONS ................................ ................................ ................................ ................................ ................ 23
+P. REPORTS FROM THE FDA ................................ ................................ ................................ ................................ ............... 23
+Q. PRODUCT DEFECTS ................................ ................................ ................................ ................................ .......................... 24
+R. REPORTING AMBIGUITIES ................................ ................................ ................................ ................................ ................ 24
+VII. CODING OF ADVER SE EXPERIENCES IN INDIVIDUAL CASE SAFETY REPORTS ................................ ..24
+VIII. REPORTING FORM ATS ................................ ................................ ................................ ................................ ............. 25
+A. FDA F ORM 3500A ................................ ................................ ................................ ................................ ........................... 25
+B. VAERS F ORM FOR VACCINES ................................ ................................ ................................ ................................ ......... 28
+C. CIOMS I F ORM FOR FOREIGN ADVERSE EXPERIENCES ................................ ................................ ................................ 29
+D. DISTRIBUTION REPORTS FOR BIOLOGICAL PRODUCTS INCLUDING VACCINES ................................ ............................ 29
+
+G:\4177DFT.DOCE. ELECTRONIC SUBMISSIONS .............................................................................................................................................. 30
+IX. HOW AND WHERE TO  SUBMIT POSTMARKETING SAFETY REPORTS ......................................................... 30
+A. HUMAN DRUG PRODUCTS ............................................................................................................................................... 30
+B. HUMAN BIOLOGICAL PRODUCTS AND VACCINES ........................................................................................................... 31
+X. WRITTEN PROCEDURE S FOR POSTMARKETING SAFETY REPORTING ....................................................... 31
+XI. REQUESTS FOR WAIVERS TO POSTMARKETING SAFETY REPORTING REQUIREMENTS .................... 32
+A. SUBMISSION OF FDA F ORM 3500A FOR NONSERIOUS , EXPECTED ADVERSE EXPERIENCES ..................................... 32
+B. SUBMISSION OF PSUR FORMAT FOR THE PERIODIC REPORT ....................................................................................... 32
+C. SUBMISSION DATE AND FREQUENCY FOR PSUR R EPORTS .......................................................................................... 33
+D. HOW AND WHERE TO SUBMIT WAIVER REQUESTS ...................................................................................................... 34
+XII. VALIDATION OF A DVERSE EXPERIENCE COMPUTER SYSTEMS .............................................................. 34
+APPENDIX A:  GLOSSARY ....................................................................................................................................................... 35
+APPENDIX B:  REPORT CHECKLIST ..................................................................................................................................... 38
+APPENDIX C:  FDA FORM 500A…………………...………………………………………..………………........…...41APPENDIX D:  FORM VAERS-1……………………………………………..…………………………...….......……43APPENDIX E:  CIOMS 1 FORM…………..……………………………….……………………..…….…...........……45APPENDIX F:  ONE-PAGE FDA FORM 3500A………….…..…………………………..…….………….........…….46
+
+Draft — Not for Implementation
+G:\4177dft.doc1Guidance for Industry11
+
+Postmarketing Safety Reporting for Human Drug and 3
+Biological Products  Including Vaccines 4
+
+I. INTRODUCTION 17
+
+This guidance is intended to assist applicants and other responsible parties in fulfilling the 19
+FDA=s existing  postmarketing safety reporting requirements for human marketed drug and 20
+biological products at 21 CFR 310.305, 314.80, 314.98, 600.80, and 600.81.2  Under 21
+these regulations, postmarketing safety reports must be submitted to the Agency for the 22
+following: 23
+
+1. Serious and unexpected adverse experiences from all sources (domestic and 25
+foreign) 26
+
+2. Spontaneously reported adverse experiences that occur domestically and that are: 28
+
+• Serious and expected 30
+• Nonserious and unexpected 31
+• Nonserious and expected 32
+
+A. What Does This Guidance Discuss? 34
+
+This guidance discusses the following postmarketing reports: 36
+                                                1 This guidance has been prepared by FDA =s Safety Reporting Regulations Working Group, which includes
+representatives from the Center for Drug Evaluation and Research (CDER) and the Center for Biologics Evaluation
+and Research (CBER).
+2 The FDA is planning to propose revisions to these regulations (see section II.C in this guidance). As these
+proposals are finalized the Agency will revise this guidance to provide industry with assistance in fulfilling the
+new regulatory requirements.This draft guidance, when finalized, represents the Food and Drug Administration's (FDA’s)
+current thinking on this topic.  It does not create or confer any rights for or on any person and
+does not operate to bind FDA or the public.  An alternative approach may be used if such
+approach satisfies the requirements of the applicable statutes and regulations.
+
+Draft — Not for Implementation
+G:\4177dft.doc237
+• 15-Day Reports of Serious, Unexpected Adverse Experiences 38
+• Periodic Reports 39
+• Followup Reports 40
+• Distribution Reports for Biological Products Including Vaccines 41
+
+This guidance addresses the following regulations for the following products.343
+
+Regulation Product
+21 CFR 310.305 Prescription drugs marketed for human use without an
+an approved application
+21 CFR 314.80 Human drugs with approved NDAs
+21 CFR 314.98 Human drugs with approved ANDAs
+21 CFR 600.80 Human biological products with approved BLAs
+21 CFR 600.81 Human biological products with approved BLAs
+
+If you believe the procedures described in this guidance are inapplicable to a particular 46
+product or that other procedures are appropriate, you should discuss the matter with the 47
+Agency to ensure that your procedures comply with applicable statutes and regulations. 48
+
+B. What Does This Guidance Not  Discuss? 50
+
+This guidance does not discuss the following: 52
+
+• IND Safety Reports (21 CFR 312.32)454
+• Safety Update Reports for Drugs (21 CFR 314.50(d)(5)(vi)(b)) 55
+• Approved NDA Annual Reports (21 CFR 314.81(b)(2)) 56
+• Approved BLA Annual Reports (21 CFR 601.28) 57
+
+This guidance does not apply to the following products: 59
+
+• In vitro diagnostic products 61
+• Whole blood or its components 62
+• Product manufacturing defects (unless the defect is associated with an 63
+adverse experience in humans) 64
+
+C. Good Guidance Practices 66
+
+The Agency's good guidance practices (GGPs) regulation5 does not allow the use of 68
+mandatory language in guidances unless it is used to describe regulatory requirements. In 69
+                                                3  NDA means new drug application, ANDA means abbreviated new drug application, and BLA means
+biologics license application
+4  IND means investigational new drug application
+
+Draft — Not for Implementation
+G:\4177dft.doc3most guidances, we provide the related cite whenever mandatory language is used to 70
+indicate the basis for the use of such language.  This guidance discusses regulatory 71
+requirements in great detail.  To avoid including the same regulatory cites repeatedly and 72
+to make the guidance user friendly, we will indicate at the beginning of those sections that 73
+include extensive discussions of regulatory requirements which cites are particularly 74
+relevant.  The use of mandatory language (e.g., must , have to , required ) will signify a 75
+regulatory requirement while the use of words such as should  and recommend will indicate 76
+Agency policy. 77
+
+II. BACKGROUND 80
+
+The FDA has undertaken a major effort to clarify and revise its regulations regarding pre- 82
+and postmarketing safety reporting requirements for human drug and biological products. 83
+To date, the Agency has issued a number of final rules and guidances for industry on this 84
+topic; several proposed rules are under development. 85
+
+A. Final Rules 87
+
+• Expedited Safety Reports for Human Drug and Biological Products 89
+
+In the Federal Register  of October 7, 1997 (62 FR 52237), the FDA published a 91
+final rule amending its regulations for expedited safety reporting to implement 92
+certain definitions, reporting periods, and formats recommended by the International 93
+Conference on Harmonisation of Technical Requirements for Registration of 94
+Pharmaceuticals for Human Use (ICH).  These recommendations are discussed in 95
+the ICH guidance E2A Clinical Safety Data Management: Definitions and 96
+Standards for Expedited Reporting ; March 1, 1995. 97
+
+• Postmarketing Expedited Increased Frequency Reports for Human Drug and 99
+Biological Products 100
+
+In the Federal Register  of June 25, 1997 (62 FR 34166), the FDA published a final 102
+rule revoking requirements to submit postmarketing increased frequency reports to 103
+the Agency in an expedited manner for human drug and biological products. 104
+
+B. Guidances 106
+
+With regard to postmarketing safety reporting for human drug and biological products, the 108
+FDA has made three final guidances available: 109
+
+• Postmarketing Reporting of Adverse Drug Experiences  (March 1992) 111
+                                                                                                                                                            5 The Agency's regulation on good guidance practices published on September 19, 2000 (21 CFR 10.115; 65
+FR 56468).
+
+Draft — Not for Implementation
+G:\4177dft.doc4112
+• Guideline for Adverse Experience Reporting for Licensed Biological 113
+Products  (October 1993) 114
+
+• Postmarketing Adverse Experience Reporting for Human Drug and 116
+Licensed Biological Products: Clarification of What to Report  (August 27, 117
+1997). 118
+
+When finalized, this guidance will replace the three guidances listed above and will reflect 120
+the new regulatory requirements in the final rules of June 25, 1997, and October 7, 1997. 121
+
+C. Proposed Rules 123
+
+The Agency currently is in the process of developing proposed rules to further amend its 125
+safety reporting requirements for human drug and biological products.  Many of the 126
+provisions in these proposed rules will be based on recommendations developed by ICH. 127
+For instance, the Agency is planning to propose additional amendments to its expedited 128
+safety reporting regulations based on the ICH E2A guidance. 129
+
+In addition, the FDA is planning, as indicated in the final rule of October 7, 1997, to 131
+repropose amendments to its postmarketing periodic safety reporting requirements that 132
+were initially proposed in the Federal Register  of October 27, 1994 (59  FR 54046).  The 133
+new postmarketing periodic safety reporting proposals will be based on recommendations 134
+in the ICH guidance E2C Clinical Safety Data Management: Periodic Safety Update 135
+Reports for Marketed Drugs  (May 19, 1997). 136
+
+The Agency also is planning to issue a proposal requiring the electronic submission of 138
+postmarketing safety reports consistent with recommendations developed by ICH.6139
+
+As these proposed rules are finalized, this postmarketing safety reporting guidance for 141
+human drug and biological products will be revised to provide industry with assistance in 142
+fulfilling the new regulatory requirements. 143
+
+III. WHO MUST REPORT 146
+
+According to the regulations, the following persons have postmarketing safety reporting 148
+responsibilities: 149
+
+• Manufacturers  are required to submit postmarketing expedited safety reports to the 151
+FDA for prescription drug products marketed for human use without an approved 152
+application (§ 310.305). 153
+                                                6 See advance notice of proposed rulemaking on electronic reporting of postmarketing adverse drug
+reactions; request for comments , 63 FR 59746, November 5, 1998.
+
+Draft — Not for Implementation
+G:\4177dft.doc5154
+• Applicants (individual or corporate entity that holds an NDA or ANDA) are required 155
+to submit postmarketing safety reports to the FDA for human drug products with 156
+approved NDAs (§ 314.80) and ANDAs (§ 314.98). 157
+
+• Licensed manufacturers  (individual or corporate entity that holds a BLA) are 159
+required to submit postmarketing safety reports to the FDA for human licensed 160
+biological products with approved BLAs (§§ 600.80 and 600.81). 161
+
+• Any person whose name appears on the label of a marketed drug as its packer or 163
+distributor (§ 310.305(c)(1)(i)) or manufacturer, packer, or distributor 164
+(§ 314.80(c)(1)(iii)) has postmarketing safety reporting responsibilities. 165
+
+• Any person whose name appears on the label of a licensed biological product as its 167
+manufacturer, packer, distributor, shared manufacturer, joint manufacturer, or any 168
+other participant involved in divided manufacturing has postmarketing safety 169
+reporting responsibilities (§ 600.80(c)(1)(iii)). 170
+
+For the purposes of this guidance, the term applicant  includes all persons with 172
+postmarketing safety reporting responsibilities under §§ 310.305, 314.80, 314.98, 600.80, 173
+and 600.81. 174
+
+According to the regulations at  §§ 310.305(d), 314.80(f), and 600.80(f), if an applicant 176
+becomes aware of a reportable adverse experience, the applicant is responsible for 177
+preparing a postmarketing safety report and submitting it to the FDA.  Applicants should 178
+not assume that their responsibilities are fulfilled if they ask the person who pointed out a 179
+reportable adverse experience to submit a safety report to the FDA. 180
+
+IV. WHAT DO I REPORT ? 183
+
+The following paragraphs discuss the types of adverse experiences that must be reported 185
+to the FDA under §§ 310.305, 314.80, 314.98, and 600.80. This section also describes 186
+the minimum data elements that should be included in an individual case safety report. 187
+
+An adverse experience  is any undesirable event that is associated with the use of a drug 189
+or biological product in humans whether or not considered product-related by the 190
+applicant.7  An individual case safety report  describes an adverse experience(s) for a 191
+patient or subject.  Individual case safety reports of domestic adverse experiences for 192
+marketed human drug and biological products, except vaccines, must be submitted to the 193
+FDA on FDA Form 3500A; a Vaccine Adverse Event Reporting System (VAERS) form 194
+must be used for adverse experiences associated with the use of vaccines.  Individual 195
+case safety reports of foreign adverse experiences can be submitted on FDA Form 3500A 196
+                                                7 See Appendix A for definition of adverse experience . (See also '' 310.305(b), 314.80(a) and 600.80(a).)
+
+Draft — Not for Implementation
+G:\4177dft.doc6(VAERS form for vaccines) or, if preferred, on a Council for International Organizations for 197
+Medical Sciences (CIOMS) I form. See section VIII in this guidance for discussion of 198
+reporting formats for individual case safety reports. 199
+
+A. Type of Adverse Experiences 201
+
+1. Adverse Experiences that are Seriou s and Unexpected from All Sources 203
+(Domestic and Foreign)8204
+
+Serious and unexpected adverse experiences from all sources, whether domestic 206
+or foreign, must be submitted to the FDA.  Possible sources include, for example, 207
+scientific literature, postmarketing studies, or commercial marketing experience. 208
+
+Scientific literature reports include published and unpublished scientific papers that 210
+are known to the applicant  (see section VI.A in this guidance for reporting of 211
+adverse experiences from the scientific literature). 212
+
+Postmarketing studies include in vitro, animal, clinical, and epidemiological or 214
+surveillance investigations (see section VI.B in this guidance for reporting of 215
+adverse experiences from studies).  Adverse experiences from studies must only 216
+be submitted to the FDA if the applicant believes that there is a reasonable 217
+possibility that the drug or biological product caused the adverse experience (see 218
+§§ 310.305(c)(1)(ii), 314.80(e)(1) and 600.80(e)(1)). 219
+
+2. Other Spontaneously Reported Adverse Exp eriences (Domestic Only)9221
+
+Adverse experiences occurring in the United States from commercial marketing 223
+experience must be submitted to the FDA if they are spontaneously reported to 224
+applicants and are: 225
+
+• serious and expected 227
+• nonserious and unexpected, or 228
+• nonserious and expected 229
+
+Applicants can request a waiver of the requirement to submit individual case safety 231
+reports of nonserious, expected adverse experiences for drugs and certain 232
+biological products (see section XI.A in this guidance on waiver requests). 233
+
+3. Serious Adverse Experiences10235
+                                                8 The requirements for reports of serious, unexpected adverse experiences can be found in §§ 310.305(c),
+314.80(c)(1) and 600.80(c)(1).
+9 The requirements for reports describing these adverse experiences can be found in §§ 314.80(c)(2) and
+600.80(c)(2).
+
+Draft — Not for Implementation
+G:\4177dft.doc7236
+The outcome of an adverse experience must be determined before a report can be 237
+identified as serious . A serious report must have one or more of the following 238
+outcomes: 239
+
+• Death 241
+• Life-threatening adverse experience 242
+• Initial inpatient hospitalization or prolongation of hospitalization 243
+• Significant or persistent disability/incapacity 244
+• Congenital anomaly/birth defect (including that occurring in a fetus) 245
+• Important medical event based upon appropriate medical judgment that may 246
+jeopardize the patient or subject and may require medical or surgical 247
+intervention to prevent one of the other outcomes listed in the definition of 248
+serious. 249
+
+A patient admitted to a hospital for 1 or more days as a result of an adverse 251
+experience, even if released on the same day, would qualify for the initial  inpatient 252
+hospitalization  outcome.  An emergency room visit that results in admission to the 253
+hospital would also qualify for the initial inpatient hospitalization  outcome. 254
+However, emergency room visits that do not result in admission to the hospital 255
+would not qualify for this outcome and, instead, should be evaluated for one of the 256
+other outcomes in the definition of serious  (e.g., life-threatening adverse 257
+experience, important medical event). 258
+
+Persons incarcerated because of actions allegedly caused by a drug (e.g., 260
+psychotropic drugs and rage reactions) have sustained a substantial disruption in 261
+their ability to conduct normal life functions.  Thus, these adverse experiences would 262
+qualify for the significant or persistent disability/incapacity  outcome. 263
+
+Important medical events  would include allergic bronchospasm requiring intensive 265
+treatment in an emergency room or at home, blood dyscrasias or convulsions that 266
+do not result in inpatient hospitalization, or the development of drug dependency or 267
+drug abuse.  Applicants should mark the "other" box in item B2 of FDA Form 3500A 268
+for adverse experiences identified as important medical events . 269
+
+Applicants should actively seek the outcome for a suspected serious adverse 271
+experience reported to them.  If unable to initially determine the outcome for an 272
+adverse experience, an applicant should continue to actively seek information in an 273
+attempt to determine an outcome.  For a serious adverse experience that was not 274
+initially reported to the applicant by a health care professional (e.g., report from a 275
+consumer), the applicant should actively pursue contacting the health care 276
+                                                                                                                                                            10  See Appendix A for definition of serious adverse experience . (See also §§ 310.305(b), 314.80(a) and
+600.80(a).)
+
+Draft — Not for Implementation
+G:\4177dft.doc8professional associated with the care of the patient to gather further medical 277
+perspective on the case. 278
+
+4. Unexpected and Expected Adverse Experiences11280
+
+The current FDA-approved labeling for the human drug or biological product should 282
+be used as the reference document to determine whether an adverse experience is 283
+unexpected  or expected .  An adverse experience would be considered unexpected 284
+if it is not included in the product’s current FDA-approved labeling and expected  if it 285
+is included in this document. 286
+
+5. Spontaneous Report12288
+
+Spontaneous reports are unsolicited communications from individuals (e.g., health 290
+care professional, consumer) to applicants that concern adverse experiences. 291
+Spontaneous reports should not include adverse experiences identified from 292
+information solicited by applicants such as individual cases or findings derived from 293
+a study (e.g., any organized data collection scheme). 294
+
+B. Data Elements to Include in a Postmarketing Individual Case Safety Report 296
+
+Before considering any clinical incident for submission to the FDA in an individual case 298
+safety report, applicants should, at a minimum, have knowledge of the following four data 299
+elements: 300
+
+1. An identifiable patient 302
+2. An identifiable reporter 303
+3. A suspect drug or biological product 304
+4. An adverse expe rience or fatal outcome suspected to be due to the suspect 305
+drug or biological product 306
+
+If any one of these basic elements remains unknown after being actively sought by the 308
+applicant, a report on the incident should not be submitted to the FDA because reports 309
+without such information make interpretation of their significance difficult, at best, and 310
+impossible, in most instances.  Instead, the applicant should maintain records of its efforts 311
+to obtain the basic elements for an individual case in its corporate drug or biological 312
+product safety files.  If an applicant submits a report to the FDA that lacks any of the four 313
+basic elements, it will be returned to the applicant marked insufficient data for a report . 314
+
+                                                11  See Appendix A for definitions of unexpected and expected adverse experiences . (See also §§
+310.305(b), 314.80(a) and 600.80(a).)
+12 See Appendix A for definition of spontaneous report .
+
+G:\4177dft.doc9An applicant that is actively seeking information on an adverse experience should use 316
+direct verbal contact with the initial reporter of the adverse experience (e.g., in person, by 317
+telephone or other interactive means such as a videoconference).  The applicant should not 318
+merely send the initial reporter a letter requesting information concerning the adverse 319
+experience.  Applicants should use a health care professional (e.g., physician, physician 320
+assistant, dentist, pharmacist, nurse) for contacts with initial reporters because such 321
+persons should be able to understand the medical consequences of the case and ask 322
+appropriate questions to acquire relevant information rapidly to determine the significance 323
+of the case. 324
+
+With regard to an identifiable patient , reports of the type Asome patients got anaphylaxis @ 326
+should be excluded until further information about the patients is obtained. A report stating 327
+that Aan elderly woman had anaphylaxis @ or a Ayoung man experienced anaphylaxis @ should 328
+be included because there is enough information to suspect that specific patients were 329
+involved.  Patients should not be identified by name or address.  Instead, the applicant 330
+should assign a unique code (e.g., patient initials) to each report. 331
+For spontaneous reports, the applicant should assume that an adverse experience or fatal 332
+outcome  was suspected to be due to the suspect drug or biological product (implied 333
+causality).  For clinical studies, an adverse experience or fatal outcome  need not be 334
+submitted to the FDA unless the applicant concludes that there is a reasonable possibility 335
+that the product caused the adverse experience or fatal outcome (see §§ 310.305(c)(1)(ii), 336
+314.80(e)(1) and 600.80(e)(1)).  An adverse experience  should, at a minimum, consist of 337
+signs (including abnormal laboratory findings, if appropriate), symptoms, or disease 338
+diagnosis (including any colloquial descriptions obtained) for purposes of reporting.  Thus, 339
+a report stating that a patient Aexperienced unspecified injury, @ or a patient Asuffered 340
+irreparable damages @ should not be included until more specific information about the 341
+adverse experience can be determined. 342
+
+V. TYPE OF REPORTS 345
+
+The following paragraphs discuss the types of postmarketing safety reports that must be 347
+submitted to the FDA based on the regulations as listed. 348
+
+A. 15-Day Reports of Serious, Unexpected  Adverse Experiences13350
+
+Individual case safety reports of serious, unexpected adverse experiences from all sources 352
+(domestic and foreign) must be reported to the FDA as soon as possible, but in no case 353
+later than 15 calendar days of initial receipt of the information by the applicant. See section 354
+VIII in this guidance for discussion of reporting formats for individual case safety reports. 355
+
+                                                13 The requirements for 15-Day Reports can be found in §§ 310.305(a), (c)(1)(i) and (d)(1),  314.80(c)(1)(i) and
+(f)(1), and 600.80(c)(1)(i) and (f)(1).
+
+Draft — Not for Implementation
+G:\4177dft.doc10An applicant should not wait for the initial reporter of a serious, unexpected adverse 357
+experience to send them written information about the experience before submitting a 15- 358
+day report to the FDA.  An applicant can and should submit a 15-day report to the FDA 359
+based only on verbal information. 360
+
+1. Determination of 15 -Day Reporting Period 362
+
+Serious, unexpected adverse experiences must be submitted to the FDA no  later 364
+than 15 calendar days of initial receipt of the information by the applicant.  For 365
+reporting purposes, this information should include, at a minimum, the four basic 366
+elements  (i.e., an identifiable patient, an identifiable reporter, a suspect drug or 367
+biological product, and a serious, unexpected adverse experience).  The date the 368
+company has knowledge of these four basic elements should be entered into item 369
+G4 of FDA Form 3500A or Box 25 of the VAERS form (i.e., this date represents 370
+Day 0 of the 15-day time clock). 371
+
+If the 15th calendar day occurs on a weekend or U.S. Federal holiday, the 15-day 373
+report should be submitted the first working day after the weekend or U.S. Federal 374
+holiday. 375
+
+The applicant should exercise due diligence to acquire all the information for an 377
+individual case safety report immediately upon receipt of a suspected serious, 378
+unexpected adverse experience (e.g., completion of all the applicable elements on 379
+FDA Form 3500A).  The applicant should maintain records of its efforts to obtain 380
+this information and should include in the narrative section of FDA Form 3500A (i.e., 381
+item B5), a chronological description of these efforts if there is a delay in obtaining 382
+such information. 383
+
+When an applicant receives a report of a serious, unexpected adverse experience 385
+but it is not possible to complete all the applicable elements for an individual case 386
+safety report within 15 calendar days, a preliminary report that contains at least the 387
+four basic elements should be submitted.  Additional followup information should be 388
+actively sought and submitted within 15 calendar days after obtaining the new 389
+information (see section V.C in this guidance for discussion of followup reports). 390
+
+For foreign reports, the 15 -day time clock begins when the applicant or its foreig n 392
+affiliate has received the four basic elements for a 15-day report.  Applicants should 393
+therefore establish effective mechanisms to ensure rapid information transfer from 394
+their foreign affiliates. 395
+
+2. Supporting Documentation 397
+
+For individual case safety reports of serious, unexpected adverse experiences, the 399
+FDA encourages applicants to include relevant hospital discharge summaries and 400
+autopsy reports/death certificates.  Applicants should also include in their report a 401
+
+Draft — Not for Implementation
+G:\4177dft.doc11list of other relevant documents (e.g., medical records, relevant laboratory data, 402
+electrocardiograms, and other concise critical clinical data) maintained in their 403
+corporate drug or biological product safety files.  The FDA can request that copies 404
+of one or more of these documents be provided to the Agency.  Applicants should 405
+submit copies of these documents to the Agency within 5 calendar days after 406
+receipt of the request. 407
+
+3. Report Identification 409
+
+Fifteen-day reports must be submitted in duplicate under separate cover 411
+prominently identified as "15 -Day Alert Report."  For this purpose, the “15-Day Alert 412
+Report” identification should be included on the outside envelope. 413
+
+For prescription drugs marketed for human use without an approved application, a 415
+single copy of the 15 -day report and a copy of the U.S. labeling must be submitted. 416
+These reports should be marked on the outside envelope with "15 -Day Alert Report 417
+- 310.305." 418
+
+Multiple 15-day reports and 15-day followup reports can be submitted in the same 420
+envelope, but they should not be stapled together (see section V.C for discussion of 421
+followup reports). 422
+
+B. Periodic Reports14424
+
+The following paragraphs discuss the reporting frequency for submission of periodic 426
+reports and the content of these reports.  See section XI in this guidance for requests for 427
+waivers of the requirement to submit postmarketing periodic safety reports (e.g., waiver to 428
+use periodic safety update report (PSUR) format recommended by ICH for periodic report 429
+instead of format described in the regulations, waiver to submit individual cases of 430
+nonserious, expected adverse experiences in periodic report). 431
+
+1. Timing of Postmarketing Periodic Reports 433
+
+Postmarketing periodic reports are required to be submitted to the FDA for each 435
+approved NDA, ANDA, and BLA and are due quarterly for the first 3 years after U.S. 436
+approval of the application and annually thereafter.  If marketing is delayed, these 437
+reports should still be submitted quarterly for the first 3 years of marketing. Upon 438
+written notice, the FDA may extend or reestablish the requirement that an applicant 439
+submit quarterly reports or require that the applicant submit periodic reports at 440
+different time intervals. 441
+
+Periodic reports due quarterly must be submitted within 30 calendar days of the last 443
+day of the reporting quarter.  Reports due annually must be submitted each year 444
+                                                14  The requirements for periodic reports can be found in '' 314.80(c)(2) and 600.80(c)(2).
+
+Draft — Not for Implementation
+G:\4177dft.doc12within 60 calendar days of the anniversary date of U.S. approval of the application 445
+for the drug or biological product (i.e., NDA, ANDA, BLA). 446
+
+Periodic submissions should be clearly marked "Periodic Adverse Experience 448
+Submission" on the front cover of each volume.  Each page of the periodic report 449
+should be numbered and include the name and NDA or ANDA number if the 450
+periodic report is for a drug product; the name and submission tracking number 451
+(STN) should be used if the periodic report is for a biological product (a STN for a 452
+biological product can be found on the Internet at www.fda.gov/cber/stn/stn.htm). 453
+
+2. Content of a Postmarketing Periodic Report 455
+
+The regulations require a postmarketing periodic report to contain: 457
+
+• a narrative summary and analysis of the information in the report and an analysis 459
+of the 15-day Alert reports submitted during the reporting interval 460
+• an FDA Form 3500A for each spontaneously reported adverse experience 461
+occurring in the United States that was not reported in a 15-day Alert report 462
+• a history of actions taken since the last report because of adverse experiences. 463
+
+The information contained within a postmarketing periodic report should be divided 465
+into four sections in the order described below and should be clearly separated by 466
+an identifying tab.  If information for one of these sections is not included, the 467
+applicant should simply explain why the information is not provided. 468
+
+a. Section 1: Narrative summary and analysis 470
+
+A narrative summary and analysis of the information in the postmarketing 472
+periodic report and an analysis of the 15 -day reports (i.e., serious, 473
+unexpected adverse experiences) submitted during the reporting period 474
+must be provided and should include: 475
+
+• The number of non-15-day15 initial adverse experience reports and 477
+the number of non-15-day followup reports contained in this periodic 478
+report and the time period covered by the periodic report. 479
+
+• A line listing of the 15 -day reports submitted during the reporting 481
+period.  This line listing should include the manufacturer report 482
+number, adverse experience term(s), and the date the 15-day report 483
+was sent to the FDA. 484
+
+                                                15  These include serious and expected adverse experiences, nonserious and unexpected adverse
+experiences, and nonserious and expected adverse experiences.
+
+G:\4177dft.doc13• A summary tabulation by body system (e.g., cardiovascular, central 486
+nervous system, endocrine, renal) of all adverse experience terms 487
+and counts of occurrences submitted during the reporting period.  The 488
+information should be taken from : 489
+
+- 15-day reports submitted to the FDA; 491
+- non-15-day reports submitted in the periodic report; 492
+- reports forwarded to the applicant by the FDA; and 493
+- any nonserious, expected adverse experiences not submitted to 494
+the FDA but maintained on file by the applicant. 495
+
+For the adverse experience term product interaction , the interacting 497
+products should be identified in the tabulation. 498
+
+• A summary listing of the adverse experience reports in which the drug 500
+or biological product was listed as one of the suspect products, but 501
+the report was filed to another NDA, ANDA, or BLA held by the 502
+applicant. 503
+
+• A narrative discussion of the clinical significance of the 15 -day reports 505
+submitted during the reporting period and of any increased reporting 506
+frequency of serious, expected adverse experiences when, in the 507
+judgment of the applicant, it is believed the data reflect a clinically 508
+meaningful change in adverse experience occurrence.  This narrative 509
+should assess clinical significance by type of adverse experience, 510
+body system, and overall product safety relating the new information 511
+received during this reporting period to what was already known 512
+about the product.  The narrative should also state what further 513
+actions, if any, the applicant plans to undertake based on the 514
+information gained during the reporting period and include the time 515
+period for completing the actions (i.e., when the applicant plans to 516
+start and finish the action and submit the information to the Agency). 517
+
+• The narrative discussion should indicate, based on the information 519
+learned during the reporting period, whether the applicant believes 520
+either that (1) no change in the product’s current approved labeling is 521
+warranted or (2) there are safety-related issues that need to be 522
+addressed in the approved product labeling.  If changes in the 523
+approved product labeling are under consideration by the FDA, the 524
+applicant should state in the narrative the date and number of the 525
+supplemental application submitted to address the labeling changes. 526
+
+Draft — Not for Implementation
+G:\4177dft.doc14b. Section 2: Narrative discussion of actions taken 528
+
+A narrative discussion of actions taken must be provided, including any 530
+labeling changes and studies initiated since the last periodic report.  This 531
+section should include: 532
+
+• A copy of current U.S. product labeling 534
+
+• A list of any labeling changes made during the reporting period 536
+
+• A list of studies initiated 538
+
+• A summary of important foreign regulatory actions (e.g., new 540
+warnings, limitations in the indications and use of the product) 541
+
+• Any communication of new safety information (e.g., a Dear Doctor 543
+letter) 544
+
+c. Section 3: Index line listing 546
+
+An index line listing of FDA Form 3500As or VAERS forms included in 548
+section 4 of the periodic report must be provided.  The line listing for each 549
+FDA Form 3500A or VAERS form submitted should include: 550
+
+• Manufacturer report number 552
+
+• Adverse experience term(s) 554
+
+• Page number of  FDA Form 3500A or VAERS form as located in the 556
+periodic report 557
+
+• Identification of interacting products for any product interaction  listed 559
+as an adverse experience. 560
+
+d. Section 4: FDA Form 3500As or VAERS forms 562
+
+FDA Form 3500As or VAERS forms must be provided for the following 564
+spontaneously reported adverse experiences that occurred in the United 565
+States during the reporting period: 566
+
+• Serious and expected 568
+
+• Nonserious and unexpected 570
+
+Draft — Not for Implementation
+G:\4177dft.doc15• Nonserious and expected 572
+
+Applicants are encouraged to request a waiver of the requirement to submit 574
+individual case safety reports of nonserious, expected adverse experiences 575
+for drugs and certain biological products as described below (see section 576
+XI.A in this guidance). 577
+
+Adverse experiences due to a failure to produce the expected 579
+pharmacologic action (i.e., lack of effect ) should be included in this section 580
+(see section VI.F in this guidance). 581
+
+For individual case safety reports of serious, expected adverse experiences, 583
+the FDA encourages applicants to include relevant hospital discharge 584
+summaries and autopsy reports/death certificates, as well as lists of other 585
+relevant documents as described for 15-day reports of serious, unexpected 586
+adverse experiences (see section V.A.2 in this guidance). 587
+
+Initial non-15 day reports should be included in the periodic report in a 589
+separate section from non-15 day followup reports (see the following section 590
+V.C for discussion of non-15 day followup reports).  All initial and followup 591
+information obtained for an adverse experience with a given periodic 592
+reporting period should be combined and submitted in the periodic report as 593
+one initial non-15 day report (i.e., an initial non-15 day report and a non-15 594
+day followup report describing the same adverse experience should not be 595
+submitted in the same periodic report). 596
+
+An FDA Form 3500A or VAERS form for a serious, unexpected adverse 598
+experience should not be included in a periodic report because this adverse 599
+experience should have been previously submitted to the FDA as a 15 -day 600
+report. 601
+
+If no adverse experiences were identified for the human drug or biological product 603
+for the time period involved and no regulatory actions concerning safety were taken 604
+anywhere in the world where the product is marketed, the periodic report should 605
+simply state this and be submitted to the FDA along with a copy of the current U.S. 606
+labeling. 607
+
+C. Followup Reports16609
+
+The following paragraphs discuss the content of and reporting considerations for 15-day 611
+followup reports that are submitted in an expedited manner and non-15 day followup 612
+reports that are submitted as part of a postmarketing periodic report.  A followup report 613
+provides information about an adverse experience that has been previously reported as an 614
+                                                16  The requirements for followup reports can be found in '' 310.305(c)(2), 314.80(c) and 600.80(c).
+
+Draft — Not for Implementation
+G:\4177dft.doc16initial report with a unique manufacturer report number. The followup report should be 615
+identified with the same unique manufacturer report number as the initial report. 616
+
+A 15-day followup report must be submitted within 15 calendar days of receipt of new 618
+information on a 15-day report. Followup information to adverse experiences submitted 619
+initially in a periodic report can be submitted in the next periodic report. 620
+
+1. Content of Followup Reports 622
+
+A followup report should provide a complete picture of the current understanding of 624
+the adverse experience.  Relevant information from the initial report should be 625
+combined with the followup information to present an accurate and comprehensive 626
+description of the adverse experience as it is understood at the time of the followup. 627
+Information from the initial report later found to be inaccurate should not be repeated 628
+in the followup report.  All new information including correction of previously 629
+submitted inaccurate information that is included in a followup report should be 630
+highlighted (e.g., with an asterisk, underlined). 631
+
+The narrative section of the followup report should be concise (i.e., item B5 of FDA 633
+Form 3500A) because the FDA’s adverse event reporting database (AERS) is 634
+limited for this section of the form. 635
+
+For serious adverse experiences, applicants should exercise due diligence in 637
+obtaining followup information for the purposes of completing all the applicable 638
+elements for an individual case safety report (e.g., FDA Form 3500A).  For adverse 639
+experiences that are determined to be nonserious and for which the four basic 640
+elements are known (see section IV.B), additional followup is not necessary. 641
+
+Any attachments submitted with an initial report (e.g. scientific journal articles, 643
+hospital discharge summaries) should not be resubmitted with a followup report. 644
+
+2. Reporting Considerations 646
+
+A copy of the initial report or a previous followup report should not be sent with the 648
+latest followup report. Fifteen -day followup reports should not be submitted in the 649
+same envelope with periodic reports. 650
+
+If the initial report was submitted as a 15 -day report, the followup report should be 652
+submitted as a 15 -day followup report even if the followup information shows that the 653
+adverse experience was expected or not serious.  All subsequent followup reports 654
+for adverse experiences that are expected or not serious should be submitted in 655
+periodic reports.  A 15 -day followup report should be submitted if the adverse 656
+experience is found to be serious and unexpected, even if the original report was 657
+not submitted as a 15 -day report. 658
+
+Draft — Not for Implementation
+G:\4177dft.doc17If a new adverse experience occurs that is associated with the initial adverse 660
+experience, a followup report should be submitted.  However, if the new adverse 661
+experience is not associated with the initial adverse experience (e.g., occurs after a 662
+subsequent administration of the product), an initial report with a new manufacturer 663
+report number should be submitted for the new adverse experience.  In these cases, 664
+the applicant should consider the clinical relevance of the adverse experiences to 665
+each other when determining whether an initial report or followup report should be 666
+submitted. 667
+
+Followup reports should not be submitted if additional relevant information is not 669
+obtained for the adverse experience.  However, as described in the regulations, 670
+applicants should maintain records of their efforts to obtain additional information, 671
+particularly for serious adverse experiences.  FDA may request this documentation. 672
+
+3. Reporting Forms 674
+
+For followup reports, particular attention should be paid to completing the following 676
+items on FDA Form 3500A: 677
+
+• Item G3 - Mark health professional  if at any time a health professional 679
+provided information for the report. 680
+• Item G4 - Use the date the followup information was received by the 681
+applicant. 682
+• Item G7 - Mark followup , and indicate whether this is the 1st, 2nd, 3rd, 683
+... followup report. 684
+• Item G9 - Use the same unique manufacturer report number assigned 685
+to the initial report.  This is essential to prevent duplicate counting of 686
+reports and to ensure that the followup information is coupled with the 687
+correct initial report. 688
+
+For followup reports, particular attention should be paid to completing the following 690
+items on the VAERS form for vaccines: 691
+
+• Top right - Indicate the name of the person who provided information 693
+for the report. 694
+• Box 24 - Use the same manufacturer report number assigned to the 695
+initial report. This is essential to prevent duplicate counting of reports 696
+and to ensure that the followup information is coupled with the correct 697
+initial report. 698
+• Box 25 - Use the date the followup information was received by the 699
+applicant. 700
+• Box 27 - Mark followup , and indicate whether this is the 1st, 2nd, 3rd, 701
+... followup report. 702
+
+Draft — Not for Implementation
+G:\4177dft.doc184. Report Identification 704
+
+Fifteen -day followup reports must be submitted in duplicate under separate cover 706
+prominently identified as "15 -Day Alert Report-Followup."  For this purpose, the “15- 707
+Day Alert Report-Followup” identification should be included on the outside 708
+envelope. 709
+
+D. Distribution Reports for Biological Products Including Vaccines 711
+
+This section is based primarily on regulations in § 600.81.  These regulations only apply to 713
+human biological products with approved BLAs.  Unless otherwise notified by the Director, 714
+Center for Biologics Evaluation and Research, an applicant must submit at periodic 715
+intervals two copies of a report containing information about the quantity of the product 716
+distributed domestically (including distributors) under the BLA. 717
+
+Distribution reports are due within the first 6 months after approval of a BLA, and, 719
+subsequently, at 6-month intervals. Upon written notice, the FDA can require that the 720
+applicant submit reports under this section at alternate times. 721
+
+The report must include the bulk lot, fill lot, and label lot numbers for the total number of 723
+dosage units of each strength or potency distributed (e.g., 50,000 per 10-milliliter vials), 724
+labeled date of expiration, and date of distribution of fill lot or label lot.  The report must also 725
+include information about any significant amount of a fill lot or label lot that may have been 726
+returned. Disclosure of financial or pricing data is not required.  According to the 727
+regulations, the FDA can require submission of more detailed product distribution 728
+information, if needed. 729
+
+See section VIII.E in this guidance for a suggested reporting format for distribution reports. 731
+
+VI. SPECIAL REPORTI NG SITUATIONS 734
+
+A. Scientific Lite rature Reports17736
+
+Serious, unexpected adverse experiences reported in the scientific literature (or in an 738
+unpublished scientific paper) that are known to the applicant must be submitted as 15 -day 739
+reports on an FDA Form 3500A or comparable format.  Applicants can use literature 740
+search services (e.g., Weekly Reactions) to identify adverse experiences in the scientific 741
+literature.  A copy of the article or manuscript must be attached to the completed FDA 742
+Form 3500A; it is not sufficient to submit only abstracts of articles. All reports from the 743
+scientific literature and unpublished scientific papers should be marked Literature  in item 744
+G3 of FDA Form 3500A. 745
+                                                17  The requirements for scientific literature reports can be found in '' 314.80(c)(1)(i), 314.80(d),
+600.80(c)(1)(i), and 600.80(d).
+
+Draft — Not for Implementation
+G:\4177dft.doc19746
+A separate FDA Form 3500A should be completed for each identifiable patient that 747
+experiences a serious, unexpected adverse experience. Thus, if an article describes six 748
+patients that experience a given serious, unexpected adverse experience, six FDA Form 749
+3500As should be completed.  In such cases, a copy of the article should be attached only 750
+to one of the FDA Form 3500As.  All other FDA Form 3500As submitted for the article 751
+should reference the manufacturer report number of the FDA Form 3500A that has the 752
+copy of the article attached. 753
+
+If multiple products are mentioned in the article, an FDA Form 3500A should be submitted 755
+only by the applicant whose product is the suspect drug. The suspect product is that 756
+identified by the article =s author and is usually mentioned in the article =s title.  If the 757
+applicant believes that the suspect product is different from the one identified by the author 758
+of the article, the applicant should indicate such information in the narrative section of the 759
+FDA Form 3500A. 760
+
+Reports of serious, unexpected adverse experiences described in the scientific literature 762
+should be submitted for products that have the same active moiety as a product marketed 763
+in the United States. This is true even if the excipient, dosage forms, strengths, routes of 764
+administration, and indications vary. 765
+
+When a serious, unexpected adverse experience is based on a foreign language article or 767
+manuscript, the applicant should translate the publication into English promptly. The original 768
+article or unpublished scientific paper and translation should be attached to the submitted 769
+FDA Form 3500A. 770
+
+B. Postmarketing, Clini cal Trial, or Surveillance Studies18772
+
+For the purposes of this section, a study  refers to the systematic collection of data involving 774
+solicitation of adverse experience information  (e.g., derived from a clinical trial, patient 775
+registry).  Adverse experiences incidental to other types of studies not involving monitoring 776
+adverse experiences of products should be treated as spontaneous reports (see Appendix 777
+A in this guidance for definition of spontaneous report ).  For purposes of safety reporting, 778
+reports of suspected adverse experiences obtained from company sponsored patient 779
+support programs and disease management programs should be handled as if they were 780
+study reports and not as spontaneous reports. 781
+
+Serious, unexpected adverse experiences that occur during a study must be submitted as 783
+15-day reports. These adverse experiences are only required to be reported if there is a 784
+reasonable possibility that the drug or biological product caused the adverse experience. 785
+
+                                                18  The requirements for reporting adverse experiences from studies can be found in '' 310.305(c)(1),
+314.80(c)(2)(iii), 314.80(e)(1), 600.80(c)(2)(iii), and 600.80(e)(1).
+
+Draft — Not for Implementation
+G:\4177dft.doc20Adverse experiences occurring with marketed drug or biological products during IND trials 787
+must also be submitted, as prescribed under ' 312.32, to the FDA new drug review 788
+division in the Center for Drug Evaluation and Research or the product review office in the 789
+Center for Biologics Evaluation and Research that has responsibility for oversight of the 790
+IND. 791
+
+For each adverse experience, a suspect product should be identified.  Reports from 793
+blinded studies should be submitted only after the code is broken.  The blind should always 794
+be broken for each patient or subject that experiences a serious, unexpected adverse 795
+experience unless arrangements have been made otherwise with the responsible FDA 796
+review division.  Exceptions to breaking the blind usually involve situations in which 797
+mortality or certain serious morbidities are indeed the clinical endpoint.  This is consistent 798
+with the ICH E2A guidance. 799
+
+C. Foreign Reports19801
+
+Foreign reports of serious, unexpected adverse experiences must be submitted as 15-day 803
+reports. Other foreign reports, including serious and expected, nonserious and unexpected, 804
+and nonserious and expected adverse experiences are not required to be submitted. 805
+
+Reports of foreign serious, unexpected adverse experiences should be submitted for 807
+products that have the same active moiety as a product marketed in the United States. 808
+This is true even if the excipient, dosage forms, strengths, routes of administration, and 809
+indications vary.  When a foreign report is submitted on a product that is not identical to a 810
+product marketed in the United States, item C1 of FDA Form 3500A should contain the 811
+foreign trade name, the generic name, and the NDA number for the product with the same 812
+active moiety that is marketed in the United States. 813
+
+D. Death Reports 815
+
+Death is always a serious outcome (see definition of serious  in Appendix A of this 817
+guidance and at '' 310.305(b), 314.80(a) and 600.80(a)).  Thus, if death is associated 818
+with an unexpected adverse experience, or if death is associated with an expected 819
+adverse experience but the labeling does not specifically state that the adverse experience 820
+may be associated with a fatal outcome, a 15 -day report should be submitted. 821
+
+E. Overdose Reports 823
+
+Reports of overdose should be submitted only when the overdose is associated with an 825
+adverse experience.  If the adverse experience associated with the overdose is serious 826
+and unexpected, a l5-day report should be completed.  If the adverse experience is serious 827
+and expected, nonserious and unexpected, or nonserious and expected, a non-15 day 828
+                                                19  The requirements for reporting of foreign adverse experiences can be found in '' 310.305(c)(1)(i),
+314.80(c)(2)(iii) and 600.80(c)(2)(iii).
+
+Draft — Not for Implementation
+G:\4177dft.doc21report should be submitted in the periodic report for spontaneously reported domestic 829
+cases. 830
+
+F. Lack of Effect Reports 832
+
+The definition of  adverse experience includes  any failure of expected pharmacological 834
+action  that is synonymous with lack of effect  (see definition of adverse experience  in 835
+Appendix A of this guidance and at '' 310.305(b), 314.80(a) and 600.80(a)).  All 836
+spontaneously reported cases of a lack of effect  that occur in the United States should be 837
+reported on FDA Form 3500A and submitted in the periodic report with other adverse 838
+experiences. The lot number of the suspect product should be included in item C6 of FDA 839
+Form 3500A. 840
+
+If the report of lack of effect  is for an unapproved indication, the event should not be 842
+reported to the FDA as an individual case safety report.  Instead, this information should be 843
+included in the narrative summary section of the periodic report. 844
+
+G. Information on the Internet 846
+
+Adverse experience information that is submitted to an applicant via the Internet (e.g., e- 848
+mail) should be reported to the FDA if the applicant has knowledge of the four basic 849
+elements for an individual case safety report (see section IV.B in this guidance). 850
+Applicants should review any Internet sites sponsored by them for adverse experience 851
+information, but are not responsible for reviewing any Internet sites that are not sponsored 852
+by them.  However, if an applicant becomes aware of an adverse experience on an Internet 853
+site that it does not sponsor, the applicant should review the adverse experience and 854
+determine if it should be reported to the FDA. 855
+
+H. Pediatric Patients 857
+
+For children under 3 years of age, the child =s date of birth and age in days or months  (e.g., 859
+15 months ) should be included under item A2 of FDA Form 3500A.  The word days  or 860
+months  should be clearly written.  For all pediatric patients, body weight (item A4 of FDA 861
+Form 3500A) and dose (item C2 of FDA Form 3500A) should be included. 862
+
+For reports of a congenital anomaly, the age and sex of the infant should be included. 864
+Followup reports for the infant should be considered followup to the initial report; followup 865
+for the mother should be submitted as a new initial individual case safety report on a 866
+separate FDA Form 3500A. The date that the congenital anomaly is detected should be 867
+used as the event onset date (e.g., birth date of the infant, date pregnancy is terminated, 868
+date congenital anomaly is detected by ultrasound or other diagnostic technique).  This 869
+date should be used in item B3 of FDA Form 3500A. 870
+
+G:\4177dft.doc22I. Prescription Drugs Marketed for Human Use Without an Approved 872
+Application20873
+
+For prescription drugs marketed for human use without an approved NDA or ANDA, all 875
+serious, unexpected adverse experiences must be reported to the FDA on an FDA Form 876
+3500A within 15 calendar days. These reports must be submitted in SINGLE copy under 877
+separate cover.  The report should be marked on the outside envelope "15 -Day Alert 878
+Report - 310.305."  A copy of the U.S. product labeling must accompany each report. 879
+
+Postmarketing periodic reports should not be submitted for these drugs. 881
+
+J. Another Applicant ==s Product 883
+
+Reports of adverse experiences in which the initial reporter identifies the suspect product 885
+as one marketed by another applicant should be promptly forwarded to that applicant.  An 886
+applicant who receives a report of an adverse experience regarding one of its products 887
+from another applicant must submit the report to the FDA within the same time constraints 888
+applicable to any report received from a third party (see section VI.K in this guidance). 889
+
+An applicant should only submit a report of an adverse experience to the FDA for a 891
+suspect product marketed by another applicant if the applicant of the suspect product is 892
+unknown or the report is for a serious, unexpected adverse experience occurring during the 893
+conduct of a study. 894
+
+K. Multiple Suspect Products 896
+
+If a reportable adverse experience involves two or more suspect products from the same 898
+applicant, only one FDA Form 3500A should be completed. The FDA Form 3500A should 899
+reference only one manufacturer report number. The report should be submitted to the 900
+NDA, ANDA, or BLA considered most suspect  by the initial reporter.  If each product is 901
+equally suspect, the report should be submitted to the product first in alphabetical order. 902
+The adverse experience should also be reported in the narrative summary section of the 903
+periodic report for the other product(s). 904
+
+However, if one suspect product is a licensed non-vaccine biologic and the other is a 906
+licensed vaccine, separate reporting forms should be submitted.  An FDA Form 3500A 907
+should be used for the licensed non-vaccine biologic and a VAERS form should be used 908
+for the licensed vaccine. 909
+
+If a reportable adverse experience involves two or more suspect products and two or more 911
+applicants, an applicant may choose to submit an FDA Form 3500A to the FDA on the 912
+adverse experience that describes detailed information including the product(s) from the 913
+                                                20  The requirements for prescription drugs marketed for human use without an approved application can be
+found in ' 310.305.
+
+Draft — Not for Implementation
+G:\4177dft.doc23other applicant.  In such a case, the other applicant should receive a copy of the FDA Form 914
+3500A including its manufacturer report number so that the other applicant can reference 915
+this report when providing any relevant followup information to the FDA. The other applicant 916
+should not submit to the FDA information originally submitted to the Agency by the first 917
+applicant. 918
+
+L. Suspect Drugs with Multiple NDAs or ANDAs by the Same Applicant 920
+
+A drug substance can be the subject of more than one approved NDA or ANDA.  If an 922
+applicant receives a report for a drug and the specific application is identifiable, the report 923
+should be submitted to that application.  However, if a drug substance has more than one 924
+application and it cannot be determined which of the approved applications is involved, the 925
+report should be submitted to the application for the drug product that was approved first 926
+and that has the same general route of administration as the suspect drug substance.  This 927
+would usually be the application with the lowest number. 928
+
+M. Two or More Marketers of a Product 930
+
+If two or more companies that co-market a specific drug product have an approved NDA 932
+for the product, one of the companies should be identified as having primary responsibility 933
+for reporting adverse experiences for the drug product to the FDA to avoid duplicative 934
+reporting of adverse experiences. This would also be true for two or more companies that 935
+co-market a specific biological product and have an approved BLA for the product. 936
+
+N. Unapproved Indications 938
+
+An adverse experience associated with the use of a product for an unapproved indication 940
+should be reported to the FDA as is required for any other spontaneously reported adverse 941
+experience occurring in the United States (e.g., 15 -day report for a serious, unexpected 942
+adverse experience or periodic report for a nonserious, unexpected adverse experience). 943
+However, a lack of effect  report for an unapproved indication should not be reported on an 944
+FDA Form 3500A.  Instead, such information should be included in the narrative summary 945
+section of a periodic report. 946
+
+O. Product Interactions 948
+
+If an applicant receives a report identified as a product interaction, each of the products 950
+should be identified as a suspect product in item C1 of FDA Form 3500A. 951
+
+P. Reports from the FDA21953
+
+                                                21   The requirements for submitting reports received from the FDA can be found in '' 310.305(c)(5),
+314.80(b), and 600.80(b).
+
+Draft — Not for Implementation
+G:\4177dft.doc24Sometimes FDA forwards individual case safety reports (i.e., FDA Form 3500As) to 955
+applicants.  For example, applicants can participate in the FDA’s MedWatch-to- 956
+Manufacturer Program. This program is designed to expedite transmission from the FDA 957
+to applicants participating in the program cases of serious adverse experiences reported 958
+directly to the FDA voluntarily by initial reporters (e.g., health care professionals, 959
+consumers).  Details of the program can be found on the Internet at 960
+www.fda.gov/medwatch/report/mmp.htm. 961
+
+Applicants that receive individual case safety reports from FDA are not required to 963
+resubmit them to the Agency.  However, followup information to these initial reports must 964
+be submitted to the FDA (see section V.C in this guidance). 965
+
+Q. Product Defects 967
+
+If a product defect results in an adverse experience, the adverse experience should be 969
+reported as any other spontaneously reported adverse experience occurring in the United 970
+States (e.g., 15 -day rep ort for a serious, unexpected adverse experience or periodic report 971
+for a nonserious, unexpected adverse experience). 972
+
+R. Reporting Ambiguities 974
+
+In some cases, it may be difficult to interpret specific criteria used for reporting. Examples 976
+include determining whether an adverse experience is expected or unexpected or whether 977
+a patient is identifiable or not.  For these and any other ambiguities, the applicant should 978
+use a conservative approach and err on the side of reporting the adverse experience to the 979
+FDA.  Thus, if there is doubt, consider an adverse experience to be unexpected, consider 980
+a patient to be identifiable, and so on. 981
+
+VII. CODING OF ADVER SE EXPERIENCES IN INDIVIDUAL CASE SAFETY 984
+REPORTS 985
+
+Companies currently use a variety of medical terminologies to code adverse experiences 987
+in individual case safety reports (e.g., COSTART, WHOART, MedDRA).  At this time, the 988
+FDA will accept adverse experiences coded with any of these terminologies.  However, as 989
+recommended by ICH, the Agency encourages companies to use MedDRA for this 990
+purpose and as indicated in the FDA’s advanced notice of proposed rulemaking on this 991
+topic (63 FR 59746; November 5, 1998), the Agency plans to propose to require use of 992
+MedDRA as the terminology for coding adverse experiences in individual case safety 993
+reports submitted to the FDA. 994
+
+Companies can license MedDRA from an international maintenance and support services 996
+organization (MSSO) (toll free number 877-258-8280 (703-345-7799 in Washington D.C. 997
+area), fax 703-345-7755, e-mail subscrib@meddramsso.com, Internet at 998
+www.meddramsso.com). 999
+
+Draft — Not for Implementation
+G:\4177dft.doc251000
+
+VIII. REPORTING FORMATS221002
+
+Individual case safety reports of adverse experiences that occur domestically for marketed 1004
+human drugs and biological products, except vaccines, must be submitted to the FDA on 1005
+FDA Form 3500A; a VAERS form must be used for vaccines.  Foreign adverse 1006
+experiences can be submitted either on FDA Form 3500A or, if preferred, on a CIOMS I 1007
+form.  Foreign adverse experiences associated with the use of vaccines can be submitted 1008
+on either a VAERS form or, if preferred, a CIOMS I form.  A separate FDA Form 3500A, 1009
+VAERS form, or CIOMS I form must be completed for each individual person experiencing 1010
+an adverse experience. 1011
+
+The following paragraphs describe how to acquire or generate the various reporting forms 1013
+for individual case safety reports and how to obtain information on FDA’s pilot program for 1014
+electronic submission of these reports.  This section also describes a suggested reporting 1015
+format for distribution reports for human biological products with approved BLAs. 1016
+
+The following abbreviations should be used when specific information is not available  for 1018
+an individual case safety report or distribution report: 1019
+
+• NA for not applicable 1021
+• NI for no information at this time (but may be available later) 1022
+• UNK for unknown 1023
+
+A. FDA Form 3500A 1025
+
+See Appendix C of this guidance for a copy of the form.231027
+
+1. Copies of the FDA Form 3500A can be obtained in the following ways: 1029
+
+• From the Internet at www.fda.gov/medwatch/report/mfg.htm. Print the 1031
+form or download it as a PDF file.  Form software can also be 1032
+downloaded and used to complete the forms using a personal 1033
+computer.  Completed forms should be mailed to the FDA because 1034
+this software does not permit electronic submission of reports.  The 1035
+software is also available on disk.  For a copy of the disk, call 1-800- 1036
+FDA-1088 or send an electronic request via the MedWatch comment 1037
+page (www.fda.gov/medwatch/report/mfg.htm).  Note: this software 1038
+                                                22  The requirements for reporting formats can be found in '' 310.305(d), 314.80(f) and 600.80(f).
+23 Instructions for completing FDA Form 3500A are available on the Internet at
+www.fda.gov/medwatch/report/instruc.htm .
+
+Draft — Not for Implementation
+G:\4177dft.doc26contains both FDA Form 3500 for voluntary reporting and FDA Form 1039
+3500A for mandatory reporting. 1040
+
+• By Fax - Call 1-800-FDA-1088 and make the following selections: 1042
+
+Press 1 (health professional) 1044
+Press 2 (obtain a copy of a form) 1045
+Press 4 (obtain fax of FDA Form 3500A). 1046
+
+• By Mail - Up to 10 copies of FDA Form 3500A can be obtained from: 1048
+
+Office of Post-marketing Drug Risk Assessment 1050
+Center for Drug Evaluation and Research (HFD -400) 1051
+Food and Drug Administration 1052
+5600 Fishers Lane, Room 15B -31 1053
+Rockville, MD  20857 1054
+
+                                 OR 1056
+
+Office of Biostatistics and Epidemiology 1058
+Center for Biologics Evaluation and Research (HFM-210) 1059
+Adverse Experience Reporting 1060
+1401 Rockville Pike 1061
+Rockville, MD 20852-1448 1062
+
+Additional copies can be obtained from: 1064
+
+Consolidated Forms and Publications Distribution Center 1066
+Washington Commerce Center 1067
+3222 Hubbard Rd. 1068
+Landover, MD 20785 1069
+
+2. Copies can be created by: 1071
+
+• Photocopying a blank FDA Form 3500A 1073
+
+• Producing a computer-generated facsimile of FDA Form 3500A 1075
+
+In place of using the preprinted forms, a computer-generated facsimile of 1077
+FDA Form 3500A can be used after approval, in writing, by FDA ( '' 1078
+310.305(d)(3), 314.80(f)(3) and 600.80(f)(3)).  This computer-generated 1079
+facsimile of FDA Form 3500A should: 1080
+
+a. Contain all the elements (i.e., 2-column format, sections, blocks, titles, 1082
+descriptors within blocks, text for disclaimer) of FDA Form 3500A in 1083
+
+Draft — Not for Implementation
+G:\4177dft.doc27the identical enumerated sequence of the form, except as otherwise 1084
+noted.  For reports in which no suspect medical device is involved, the 1085
+box Section D. Suspect Medical Device  on the front page of FDA 1086
+Form 3500A can be replaced with the box Section G. All 1087
+Manufacturers  located on the back page of the form. This would allow 1088
+reporters of adverse experiences for drug and biological products to 1089
+use a one-page form for reporting.  See Appendix F of this guidance 1090
+for a sample of a one-page FDA Form 3500A). 1091
+
+b. Have, at least, a 1/4" margin around the entire form so that 1093
+information is not lost during scanning, copying or faxing of the 1094
+document (the left-hand margin may be increased up to 2" to permit 1095
+binding (e.g., hole-punching) of the form) (all other margins have to 1096
+continue to be at least 1/4"). 1097
+
+c. Include the name of the company centered on the top of the front 1099
+page. 1100
+
+d. Include in the lower left corner of the front page the phrase 3500A 1102
+Facsimile  instead of the phrase FDA Form 3500A (date of form [e.g., 1103
+6/93]) . 1104
+
+e. Include in the upper right corner of the front page above the FDA Use 1106
+Only box the phrase FDA Facsimile Approval: [include date of 1107
+approval by FDA] , instead of the phrase See OMB statement on 1108
+reverse . 1109
+
+f. Have the data and text contained within the boxes on a computer- 1111
+generated FDA Form 3500A conform to the following specifications: 1112
+
+• The font size should not be less than 10 point. 1114
+
+• A font type should be selected that is easy to read (e.g., CG 1116
+Times, Arial) and not condensed.  The form may be copied or 1117
+faxed multiple times.  For visual contrast, the font type used for 1118
+the data and text should, if possible, be different from the font 1119
+type used to create the FDA Form 3500A. 1120
+
+• Have all data and text contained within each of the boxes (e.g., 1122
+a box marked with an Ax@ should be centered within the box, 1123
+and narratives should include margins so that letters are not 1124
+obscured or made ambiguous by lines defining a box.). 1125
+
+Draft — Not for Implementation
+G:\4177dft.doc28• Have the phrase continued  included at the end of each field 1127
+that has additional information continued onto another page. 1128
+
+g. Have continuation pages containing additional information for 1130
+narrative entries conform to the following specifications: 1131
+
+• Each page should be identified as Page _ of _. 1133
+
+• Each page should include the manufacturer report number in 1135
+the upper right corner. 1136
+
+• Each page should include the name of the company in the 1138
+upper right corner. 1139
+
+• The section and block number (e.g., Block B5) for each 1141
+narrative entry should be included. 1142
+
+For approval of computer-generated facsimiles of FDA Form 3500As, companies 1144
+should mail their requests along with two copies of the computer-generated 1145
+facsimile, a blank one and one with all the boxes completed with sample data/text, 1146
+to: 1147
+
+Information Technology Staff 1149
+OPDRA/CDER/FDA Room 15B23 1150
+HFD-420 1151
+5600 Fishers Lane 1152
+Rockville, MD 20857 1153
+
+Companies can contact the Information Technology Staff at 301-827-3223 to check 1155
+on the status of an approval request.  Companies that are using a computer- 1156
+generated facsimile of FDA Form 3500A from a vendor that has already obtained 1157
+approval, in writing, from the FDA for the form do not have to submit another 1158
+approval request to the Agency (the vendor =s name and approval date should 1159
+appear in the upper right corner of the form).   1160
+
+B. VAERS Form for Vaccines 1162
+
+See Appendix D of this guidance for a copy of the form.241164
+                                                24 A guidance for industry entitled  How to Complete the Vaccine Adverse Event Reporting System Form
+(VAERS-1)  (October 1999) is available on the Internet at www.fda.gov/cber/guidelines.htm or from the Office
+of Communication, Training and Manufacturers Assistance (HFM-40), CBER, 1401 Rockville Pike, Rockville,
+MD 20852-1448, (Fax) 1-888-CBERFAX or 301-827-3844, (Voice Information) 1-800-835-4709 or 301-827-
+1800 .
+
+Draft — Not for Implementation
+G:\4177dft.doc291165
+1. Copies of the VAERS form can be obtained by calling 1-800-822-7967. 1166
+
+2. In place of using the preprinted forms, a computer-generated facsimile of the 1168
+VAERS form can be used after approval, in writing, by FDA ( ' 600.80(f)(3)). 1169
+To request approval of a computer-generated facsimile of a VAERS form, a 1170
+printed copy with data to illustrate how each data field will be reported should 1171
+be submitted to: 1172
+
+Office of Biostatistics and Epidemiology (HFM-210) 1174
+Center for Biologics Evaluation and Research, FDA 1175
+1401 Rockville Pike 1176
+Rockville, MD 20852-1448 1177
+
+C. CIOMS I Form for Foreign Adverse Experiences 1179
+
+CIOMS, working with several member nations and industry, has developed a format for 1181
+international adverse experience reporting (CIOMS I form) (see Appendix E of this 1182
+guidance).  Applicants can use an FDA Form 3500A or, if preferred, a CIOMS I form for 1183
+submission of 15-day reports of foreign adverse experiences to the FDA.  Applicants 1184
+cannot use a CIOMS I form for submissions of adverse experiences that occur within the 1185
+United States.  For these adverse experiences, an FDA Form 3500A must be used. 1186
+
+D. Distribution Reports for Biological Products Including Vaccines 1188
+
+This section on distribution reports only applies to human biological products with 1190
+approved BLAs.  Under ' 600.81, distribution reports must include the bulk lot, fill lot, and 1191
+label lot numbers for the total number of dosage units of each strength or potency 1192
+distributed (e.g., 50,000 per 10-milliliter vials), labeled date of expiration, and date of 1193
+distribution of fill lot or label lot. The report must also include information about any 1194
+significant amount of a fill lot or label lot that may have been returned. 1195
+
+The regulations do not specify a reporting form or format for distribution reports.  One 1197
+suggested report format is shown here: 1198
+
+                                                                        Product name, strength                                  1201
+Biologics License No.                                                        Product Code                   1202
+
+Bulk Lot
+No.Fill Lot
+No.Label Lot
+No.Expiration
+DateDistribution
+DateNo. of Doses
+DistributedNo. of Doses
+Returned
+
+Draft — Not for Implementation
+G:\4177dft.doc301205
+If there is more than one distribution date for a lot, the report should include each 1206
+distribution date and the number of doses distributed. When reporting returned doses, the 1207
+number of doses distributed should not be repeated. 1208
+
+For vaccines, if available, distribution of doses can be reported by public, private, or 1210
+military sectors. 1211
+
+E. Electronic Submissions 1213
+
+The FDA is in the process of developing a system for electronic submission of 1215
+postmarketing safety reports.  At this time, applicants can submit, under a pilot program, 1216
+certain individual case safety reports electronically.  Details of this pilot program are 1217
+available on the Internet at www.fda.gov/cder/aerssub.  The Agency also plans to have a 1218
+system for electronic submission of distribution reports for biological products including 1219
+vaccines in the near future.   1220
+
+IX. HOW AND WHERE TO  SUBMIT POSTMARKETING SAFETY REPORTS 1223
+
+All submissions should be legible and typewritten with a minimum acceptable font size of 1225
+10 point.  Legible photostatic copies can be submitted.  However, visual contrast should be 1226
+adequate to ensure clear readable archival images.  The applicant must submit one or two 1227
+copies of each safety report as specified in this section unless a waiver is granted 1228
+permitting a different number of copies (see section XI in this guidance). 1229
+
+A. Human Drug Products 1231
+
+1. For prescription drugs marketed for human use without  an approved NDA 1233
+or ANDA, postmarketing 15-day reports (initial and followup) should be sent 1234
+as single  copies  to: 1235
+
+Office of Post-marketing Drug Risk Assessment (HFD-400) 1237
+Center for Drug Evaluation and Research 1238
+Food and Drug Administration 1239
+5600 Fishers Lane 1240
+Rockville, MD  20857 1241
+
+2. For drugs with approved ANDAs , postmarketing 15-day reports, (initial and 1243
+followup), and periodic reports should be sent as single copies  to: 1244
+
+Office of Post-marketing Drug Risk Assessment (HFD-400) 1246
+ Center for Drug Evaluation and Research 1247
+ Food and Drug Administration 1248
+ 5600 Fishers Lane 1249
+
+Draft — Not for Implementation
+G:\4177dft.doc31 Rockville, MD  20857 1250
+
+3. For drugs with approved NDAs , postmarketing 15 -day reports (initial and 1252
+followup), and periodic reports should be sent in duplicate  to: 1253
+
+Food and Drug Administration 1255
+Central Document Room 1256
+12229 Wilkins Ave. 1257
+Rockville, MD  20852 1258
+
+B. Human Biological Products and Vaccines 1260
+
+1. For vaccines,  postmarketing 15-day reports (initial and followup), and 1262
+periodic reports should be sent in duplicate  to: 1263
+
+VAERS 1265
+P.O. Box 1100 1266
+Rockville, MD 20849-1100 1267
+
+2. For biological products other than vaccines, postmarketing 15-day reports 1269
+(initial and followup) and periodic reports should be sent in duplicate  to: 1270
+
+Office of Biostatistics and Epidemiology (HFM-210) 1272
+Center for Biologics Evaluation and Research, FDA 1273
+Adverse Experience Reporting 1274
+1401 Rockville Pike 1275
+Rockville, MD 20852-1448 1276
+
+3. For all biological produc ts and vaccines, distribution reports ( ' 600.81) 1278
+should be sent in duplicate  to: 1279
+
+Office of Biostatistics and Epidemiology (HFM-210) 1281
+Center for Biologics Evaluation and Research, FDA 1282
+Distribution Reports 1283
+1401 Rockville Pike 1284
+Rockville, MD 20852-1448 1285
+
+X. WRITTEN PROCEDURES FOR POSTMARKETING SAFETY REPORTING 1288
+
+Each applicant must develop written standard operating procedures for the surveillance, 1290
+receipt, evaluation, and reporting of adverse experiences to the FDA ( '' 310.305(a), 1291
+314.80(b) and 600.80(b)).  The FDA will consider an applicant responsible for information 1292
+known to its employees, affiliates, and contractors.  For this purpose, applicants should 1293
+
+Draft — Not for Implementation
+G:\4177dft.doc32develop procedures that allow for expedited handling of adverse experience reports. 1294
+Records of due diligence should be maintained.  This applies to surveillance and 1295
+processing for both domestic and foreign reports of adverse experiences. 1296
+
+XI. REQUESTS FOR WAIVERS TO POSTMARKETING SAFETY REPORTING 1299
+REQUIREMENTS 1300
+
+Under '' 314.90(a) and 600.90(a), applicants may ask the FDA to waive any 1302
+postmarketing safety reporting requirement that applies to the applicant under '' 314.80 1303
+and 600.80.  The following paragraphs discuss certain postmarketing periodic safety 1304
+reporting requirements for which the FDA is currently granting waivers. 1305
+
+A. Submission of FDA Form 3500A for Nonserious, Expected Adverse 1307
+Experiences 1308
+
+Applicants are encouraged to request a waiver for submission of FDA Form 3500As for 1310
+individual case safety reports of nonserious, expected adverse experiences that, at a 1311
+minimum, contain the four basic elements (see section IV.B in this guidance).  In such 1312
+cases, applicants should maintain records of these nonserious, expected adverse 1313
+experiences in their corporate drug or biological product safety files.  The FDA may 1314
+request that an applicant submit to the Agency FDA Form 3500As of one or more of these 1315
+adverse experiences.  The agency would expect these forms to be submitted within 5 1316
+calendar days after receipt of the request. 1317
+
+Applicants who obtain a waiver for the requirement to submit individual case safety reports 1319
+of nonserious, expected adverse experiences would still be expected to submit information 1320
+on these adverse experiences to the FDA in the summary tabulations section of 1321
+postmarketing periodic reports (see section V.B.2.a in this guidance). 1322
+
+At this time, the FDA does not intend to grant waiver requests for new biological molecular 1324
+entities within one year of licensure or for blood products, plasma derivatives, or vaccines. 1325
+The Agency believes that it is important to continue periodic review of all individual case 1326
+safety reports of adverse experiences for these products to identify safety problems due to 1327
+lot-to-lot variations and also to monitor the safety of newly approved biological products. 1328
+
+B. Submis sion of PSUR format for the Periodic Report 1330
+
+Applicants can request a waiver of the requirement to submit postmarketing periodic 1332
+safety reports in the format described in the regulations.  Instead, applicants can prepare 1333
+these reports using the PSUR (Periodic Safety Update Report) format described in the 1334
+ICH E2C guidance.  In addition, the Agency recommends the following: 1335
+
+• If all dosage forms and formulations for the active substance, as well as 1337
+indications, are combined in one PSUR, this information should be 1338
+
+Draft — Not for Implementation
+G:\4177dft.doc33separated into specific sections of the report when such separation is 1339
+appropriate to accurately portray the safety profile of the specific dosage 1340
+forms.  For example, one should not combine information from ophthalmic 1341
+drop dosage forms and solid oral dosage forms.  One copy of the PSUR 1342
+should be submitted for each approved NDA or ANDA whose product is 1343
+covered in the PSUR as well as an additional copy for review by the 1344
+postmarketing pharmacovigilance office. 1345
+
+• Copies of the FDA Form 3500A or VAERS form that are required by the 1347
+regulations must be included. 25  These forms should be included with the 1348
+PSUR as an appendix.  You can request a waiver for submission of certain 1349
+nonserious, expected adverse experiences on an FDA Form 3500A as 1350
+described in the previous section. 1351
+
+• A summary tabulation should be included as an appendix listing all 1353
+spontaneously reported U.S. individual case safety reports from consumers if 1354
+such cases are not already included in the PSUR.  Summary tabulations 1355
+should be presented by body system of all adverse experience terms and 1356
+counts of occurrences and be segregated by type (i.e., serious/unexpected; 1357
+serious/expected; nonserious/unexpected; and nonserious/expected), 1358
+
+• A narrative should be included as an appendix that references the changes, 1360
+if any, to the approved U.S. labeling for the dosage forms covered by the 1361
+PSUR based on new information in the PSUR.  A copy of the most recently 1362
+approved U.S. labeling for the product(s) covered by the PSUR should be 1363
+included. 1364
+
+C. Submission Date a nd Frequency for PSUR Reports 1366
+
+Applicants can request a waiver to submit PSURs to the FDA based on the month and day 1368
+of the international birth date of the product instead of the month and day of the anniversary 1369
+date of U.S. approval of the product.26  The waiver request should specify that these 1370
+PSURs would be submitted to the FDA within 60 calendar days of the data lock point (i.e., 1371
+month and day of the international birth date of the product or any other day agreed on by 1372
+the applicant and the FDA).271373
+
+Applicants can also request a waiver to submit PSURs to the FDA at a frequency other 1375
+than those required under § § 314.80(c)(2)(i) and 600.80(c)(2)(i). 1376
+
+                                                25  See '' 314.80(c)(2)(ii)(b) and 600.80(c)(2)(ii)(B).26  The international birth date for a product is the date the first regulatory authority in the world approved the
+first marketing application for a human drug product containing the drug substance or a human biological
+product.
+27  The data lock point is the date designated as the cut-off date for data to be included in a PSUR.
+
+Draft — Not for Implementation
+G:\4177dft.doc34D. How and Where to Submit Waiver Requests 1378
+
+1. Marketed human drug products 1380
+
+For waivers under ' 314.90(a), applicants should submit a written waiver request 1382
+(include the product’s name(s), date(s) of U.S. approval, and the application 1383
+number(s)) to: 1384
+
+Director 1386
+Office of Post-Marketing Drug Risk Assessment 1387
+Center for Drug Evaluation and Research 1388
+Food and Drug Administration 1389
+5600 Fishers Lane, HFD-400 1390
+Rockville, MD 20857 1391
+
+2. Licensed biological products 1393
+
+For waivers under ' 600.90(a), applicants should submit a written waiver request 1395
+(include the product name(s), date(s) of U.S. approval, and the application 1396
+number(s)) to: 1397
+
+Director 1399
+Office of Biostatistics & Epidemiology 1400
+Center for Biologics Evaluation and Research 1401
+Food and Drug Administration 1402
+140l Rockville Pike, HFM-220 1403
+Rockville, MD 20852-1448 1404
+
+XII. VALIDATION OF A DVERSE EXPERIENCE COMPUTER SYSTEMS 1407
+
+If an electronic record of an adverse experience is created, modified, maintained, 1409
+archived, retrieved, or transmitted, the applicant is required, among other things, to employ 1410
+procedures to ensure that records are trustworthy, reliable, and consistent with FDA's 1411
+ability to promote and protect public health (21 CFR part 11).  Those procedures must 1412
+include validation of systems to ensure accuracy, reliability, consistent intended 1413
+performance, and the ability to discern invalid or altered records. 1414
+
+Draft — Not for Implementation
+G:\4177dft.doc35APPENDIX A:  GLOSSARY 1415
+
+Adverse Experience  - Any adverse event associated with the use of a drug or biological 1417
+product in humans, whether or not considered product -related, including the following: An 1418
+adverse event occurring in the course of the use of a drug product in professional practice; 1419
+an adverse event occurring from drug overdose whether accidental or intentional; an 1420
+adverse event occurring from drug abuse; an adverse event occurring from drug 1421
+withdrawal; and any failure of expected pharmacological action.  Reporting an adverse 1422
+experience does not necessarily reflect a conclusion by the applicant or the FDA that the 1423
+product caused or contributed to the adverse experience. Adverse experience is 1424
+synonymous with  adverse drug experience , adverse biological experience , adverse 1425
+product experience , and adverse event . 1426
+
+Affiliate  - Any individual or entity related by employment or organizational structure to the 1428
+applicant, including all subsidiaries, whether domestic or foreign. 1429
+
+Applicant  - An individual or entity who holds t he new drug application (NDA), abbreviated 1431
+new drug application (ANDA), or the biologics license application (BLA).  For purposes of 1432
+this guidance, this term includes any person whose name appears on the label of a 1433
+marketed drug or licensed biological product as its manufacturer, packer, distributor, 1434
+shared manufacturer, joint manufacturer, or any participant involved in divided 1435
+manufacturing. 1436
+
+Causality Assessment  - Determination of whether there is a reasonable possibility that 1438
+the product is etiologically related to the adverse experience.  Causality assessment 1439
+includes, for example, assessment of temporal relationships, dechallenge/rechallenge 1440
+information, association with (or lack of association with) underlying disease, presence (or 1441
+absence) of a more likely cause, and physiologic plausibility. 1442
+
+Challenge  - Administration of a suspect product by any route. 1444
+
+Dechallenge  - Withdrawal of a suspect product from a patient's therapeutic 1446
+regimen. 1447
+
+Negative Dechallenge  - Continued presence of an adverse experie nce after 1449
+withdrawal of the suspect product. 1450
+
+Positive Dechallenge  - Partial or complete disappearance of an adverse 1452
+experience after withdrawal of the suspect product. 1453
+
+Rechallenge  - Reintroduction of a suspect product suspected of having caused an 1455
+adverse experience following a positive dechallenge. 1456
+
+Draft — Not for Implementation
+G:\4177dft.doc36Negative Rechallenge  - Failure of the product, when reintroduced, to produce 1458
+signs or symptoms similar to those observed when the suspect product was 1459
+previously introduced. 1460
+
+Positive Rechallenge  - Reoccurrenc e of similar signs and symptoms upon 1462
+reintroduction of the suspect product. 1463
+
+Disability  - A substantial disruption in one's ability to conduct normal life functions. 1465
+
+Expected Adverse Experience - Adverse experience listed in the current FDA -approved 1467
+labeling for the drug or licensed biological product.  This would include any section of the 1468
+labeling that refers to adverse experience information. 1469
+
+Initial Reporter  - The original source of information concerning an adverse experience 1471
+(e.g., consumer, healthcare professional). 1472
+
+Life-threatening Adverse Experience - An adverse experience that, in the view of the 1474
+initial reporter, places the patient at immediate risk of death from the adverse experience 1475
+as it occurred.  It does not include an adverse experience that, had it occurred in a more 1476
+severe form, might have caused death. 1477
+
+Serious Adverse Experience - An adverse experience occurring at any dose that results 1479
+in any of the following outcomes: 1480
+
+• Death 1482
+
+• Life-threatening adverse experience 1484
+
+• Initial inpatient hospitalization 1486
+
+• Prolongation of hospitalization 1488
+
+• Significant or persistent disability/incapacity 1490
+
+• Congenital anomaly/birth defect (including that occurring in a fetus); 1492
+
+• Important medical events, based upon appropriate medical judgment, that may 1494
+jeopardize the patient or subject and may require medical or surgical intervention to 1495
+prevent one of the outcomes listed above. 1496
+
+Spontaneous Report  - A communication from an individual (e.g. health care 1498
+professional, consumer) to a company or regulatory authority that describes a suspected 1499
+adverse experience.  It does not include cases identified from information solicited by the 1500
+applicant such as individual cases or findings derived from a study. 1501
+
+Draft — Not for Implementation
+G:\4177dft.doc37Study  - Any organized data collection system  (e.g., adverse experie nce information 1503
+derived from a clinical trial, patient registry including pregnancy registries).  Reports from 1504
+company sponsored patient support programs and disease management programs should 1505
+be handled as if they were study reports and not as spontaneous reports. 1506
+
+Suspect Product  - Drug or biological product associated with an adverse experience as 1508
+determined by the initial reporter, regardless of the opinion of the applicant. 1509
+
+Unexpected Adverse Experience - Adverse experience not included in any section  of 1511
+the current FDA -approved labeling for the drug or licensed biological product.  This 1512
+includes an adverse experience that may differ from a labeled adverse experience 1513
+because of greater severity or specificity (e.g., abnormal liver function versus hepatic 1514
+necrosis).  Adverse experiences listed as occurring with a class of drugs or biological 1515
+products but not specifically mentioned with a particular drug or biological product are 1516
+considered unexpected (e.g., rash with antibiotic X would be unexpected if the labeling 1517
+said "rash may be associated with antibiotics"). This is because the labeling does not 1518
+specifically state "rash is associated with antibiotic X."  Reports of death from an adverse 1519
+experience are considered unexpected unless the possibility of a fatal outcome from that 1520
+adverse experience is stated in the labeling. 1521
+
+Draft — Not for Implementation
+G:\4177dft.doc38APPENDIX B:  REPORT CHECKLIST 1523
+
+Before mailing your postmarketing safety reports to the FDA, you should make sure that 1525
+the following questions have been addressed: 1526
+
+A. For All FDA Form 3500A Reports 1528
+
+l. Have you completed a separate FDA Form 3500A for each patient? 1530
+
+2. Have you included the manufacturer report number in item G9 on FDA Form 1532
+3500A? (Note: For followup reports, this number should be identical to the 1533
+manufacturer report number on the initial report.) 1534
+
+3. Have you clearly marked the report "Periodic" or "15 -Day" as appropriate in 1536
+item G7 on FDA Form 3500A? 1537
+
+4. Have you clearly marked the report "Initial" or "Followup" as appropriate in 1539
+item G7 on FDA Form 3500A?  Do not package and send a 15 -day followup 1540
+report with a non-15 day followup report. 1541
+
+5. Have you included the name, address, and telephone number of the initial 1543
+reporter in item E1 on FDA Form 3500A? 1544
+
+6. Have you left all the boxes in item B2 of the FDA Form 3500A blank for a 1546
+nonserious adverse experience? A box should only be checked in item B2 if 1547
+the outcome for the adverse experience is serious. 1548
+
+7. Have you included all relevant attachments and eliminated unnecessary 1550
+attachments? 1551
+
+Attachments can include copies of: 1553
+
+• hospital discharge summaries 1555
+• autopsy/biopsy reports 1556
+• death certificates 1557
+• relevant office visit notes 1558
+• summaries of relevant laboratory tests and other diagnostic 1559
+procedures, particularly pre - and post -drug values. 1560
+
+Each page of an attachment should identify the manufacturer report number (i.e., 1562
+reported in item G9 on FDA Form 3500A) for that case. 1563
+
+In general, attachments should not include: 1565
+
+• lengthy legal records 1567
+
+Draft — Not for Implementation
+G:\4177dft.doc39• complete medical records 1568
+
+8. If two or more products produced by your company were suspected by t he 1571
+initial reporter: 1572
+
+• Have you completed only one FDA Form 3500A?  (You should not 1574
+prepare more than one FDA Form 3500A even if more than one of 1575
+the suspect products was produced by your company.) 1576
+
+• Have you identified all the suspect products in item C1 on FDA Form 1578
+3500A? 1579
+
+• Have you indicated on FDA Form 3500A the product considered 1581
+most suspect by the initial reporter and prepared the report 1582
+accordingly?  (If the initial reporter ranked them equally, you should 1583
+submit an FDA Form 3500A to the file of the first suspect product in 1584
+alphabetical order.  You should list the adverse experience(s) for each 1585
+of the other suspected product(s) in the narrative summary section of 1586
+the periodic report.) 1587
+
+9. Have you completed an FDA Form 3500A for another applicant's drug ? 1589
+(You should send the report to the FDA if the applicant of the suspect product 1590
+is unknown or the report is for a serious, unexpected adverse experience 1591
+occurring during the conduct of a study.  For all other cases, you should send 1592
+the report to the applicant holder of the suspect drug and not to the FDA.) 1593
+
+B. For 15 -Day Reports 1595
+
+1. Have you clearly marked "15 -Day Report" in item G7 on the FDA Form 1597
+3500A? 1598
+
+2. Have you packaged the 15 -day report (FDA Form 3500A initial or followup) 1600
+separately?  (Do not package and send an initial 15 -day report with a 15-day 1601
+followup report.  You should not submit copies of 15 -day reports with a 1602
+periodic report.) 1603
+
+3. Have you submitted the report in duplicate? (Exceptions: for prescription 1605
+drugs marketed for human use without an approved application and for drugs 1606
+with approved ANDAs, only a single copy should be sent.) 1607
+
+4. Have you clearly marked the outside mailing envelope "15 -Day Report”? 1609
+
+Draft — Not for Implementation
+G:\4177dft.doc401610
+C. For Periodic Reports 1611
+
+1. Have you included the four types of information require d for a periodic report 1613
+and clearly separated the four sections with marked tabs? 1614
+
+2. Have you submitted the report in duplicate? (Exception: For drugs with 1616
+approved ANDAs, only a single copy should be sent). 1617
+
+3. Have you eliminated all unnecessary attachm ents to FDA Form 3500As? 1619
+
+D. For Followup Reports 1621
+
+l. Have you included the manufacturer report number in item G9 on FDA Form 1623
+3500A? (Note: this number should be identical to the manufacturer report 1624
+number on the initial report). 1625
+
+2. Have you marked Afollowup @ in item G7 on FDA Form 3500A and indicated 1627
+what number followup report it is? 1628
+
+
+
+
+
+
+
+
+
+
+
