@@ -1,0 +1,523 @@
+INTERNATIONAL CONFERENCE ON HARMONISATION OF TECHNICAL 
+REQUIREMENTS FOR REGISTRATION OF PHARMACEUTICALS FOR HUMAN 
+USE 
+ 
+ 
+ICH  HARMONISED TRIPARTITE GUIDELINE  
+ 
+ 
+POST-APPROVAL SAFETY DATA MANAGEMENT : 
+DEFINITIONS AND STANDARDS FOR EXPEDITED REPORTING  
+E2D 
+ 
+ 
+Current Step 4  version 
+dated 12 November 2003 
+ 
+ 
+ 
+ 
+ 
+ 
+This Guideline has been developed by the app ropriate ICH Expert Working Group and has 
+been subject to consultation by  the regulatory parties, in accordance with the ICH Process.  
+At Step 4 of the Process the final draft is reco mmended for adoption to the regulatory bodies 
+of the European Union, Japan and USA.
+
+E2D 
+Document History 
+ 
+First 
+Codification History Date New 
+Codification 
+November 
+
+E2D Approval by the Steering Committee under Step 2  and 
+release for public consultation. 18 
+ July 
+ 2003 E2D 
+Current Step 4 version 
+E2D Approval by the Steering Committee under Step 4 and 
+recommendation for adoption to the three ICH regulatory 
+bodies. 12 
+November 
+2003 E2D
+
+POST-APPROVAL SAFETY DATA MANAGEMENT : 
+DEFINITIONS AND STANDARDS FOR EXPEDITED REPORTING  
+ICH Harmonised Tripartite Guideline 
+Having reached Step 4 of the ICH Process at the ICH Steering Committee meeting  
+on 12 November 2003, this guideline is recommended for  
+adoption to the three regulatory parties to ICH 
+ 
+TABLE  OF CONTENTS 
+ 
+1. INTRODUCTION .................................................................................................... 1  
+2. DEFINITIONS AND TERMINOLOGY ASSOCIATED  
+WITH POST-APPROVAL DRUG SAFETY EXPERIENCE ............................. 1  
+2.1 Adverse Event (AE) ................................................................................................... 1  
+2.2 Adverse Drug Reaction (ADR) .................................................................................. 1  
+2.3 Serious AE/ADR ........................................................................................................ 1  
+2.4 Unexpected ADR ....................................................................................................... 2  
+2.5 Healthcare Professional ............................................................................................ 2  
+2.6 Consumer ................................................................................................................... 2  
+3. SOURCES Of INDIVIDUAL CASE SAFETY REPORTS ................................ 3  
+3.1 Unsolicited Sources ................................................................................................... 3  
+3.1.1 Spontaneous Reports .................................................................................... 3  
+3.1.2 Literature ...................................................................................................... 3  
+3.1.3 Internet ......................................................................................................... 3  
+3.1.4 Other Sources ................................................................................................ 4  
+3.2 Solicited Sources ....................................................................................................... 4  
+3.3 Contractual Agreements ........................................................................................... 4  
+3.4 Regulatory Authority Sources .................................................................................. 4  
+4. STANDARDS FOR EXPEDITED REPORTING ............................................... 5  
+4.1 What Should Be Reported? ....................................................................................... 5  
+4.1.1 Serious ADRs ................................................................................................ 5  
+4.1.2 Other Observations ...................................................................................... 5  
+4.1.2.1 Lack of Efficacy ............................................................................. 5  
+i
+
+Post-Approval Safety Data Management:  Definitions and Standards for Expedited Reporting 
+ 
+4.1.2.2 Overdose ........................................................................................ 5  
+4.2 Minimum Criteria for Reporting .............................................................................. 5  
+4.3 Reporting Time Frames ............................................................................................ 6  
+4.4 Non-serious ADRs ..................................................................................................... 6  
+5. GOOD CASE MANAGEMENT PRACTICES ..................................................... 6  
+5.1 Assessing Patient and Reporter Identifiability1...................................................... 6  
+5.2 The Role of Narratives .............................................................................................. 7  
+5.3 Clinical Case Evaluation .......................................................................................... 7  
+5.4 Follow-up Information .............................................................................................. 7  
+5.4.1 Pregnancy Exposure ..................................................................................... 8  
+5.5 How to Report ............................................................................................................ 8  
+REFERENCES ....................................................................................................................... 9  
+ATTACHMENT ..................................................................................................................... 10  
+ 
+ 
+ 
+ii
+
+1 POST-APPROVAL SAFETY DATA MANAGEMENT : 
+DEFINITIONS AND STANDARDS FOR EXPEDITED REPORTING  
+ 
+1. INTRODUCTION 
+It is important to establish an internationally standardized procedure in order to 
+improve the quality of post-approval safety information and to harmonise the way of 
+gathering and reporting information.  Th e ICH E2A guideline provides guidance on 
+pre-approval safety data management. Al though many stakeholders have applied 
+ICH E2A concepts to the post-approval phas e, there is a need to provide further 
+guidance on definitions and standards for post-approval expedited reporting, as well 
+as good case management practices.  This guideline is based on the content of ICH E2A guideline, with consideration as to ho w the terms and definitions can be applied 
+in the post-approval phase of the product life cycle. 
+2. DEFINITIONS AND TERMINOL OGY ASSOCIATED WITH POST-
+APPROVAL DRUG SAFETY EXPERIENCE 
+2.1 Adverse Event (AE) 
+An adverse event is any untoward medical occurrence in a patient administered a medicinal product and which does not necessa rily have to have a causal relationship 
+with this treatment.  An adverse even t can therefore be any unfavorable and 
+unintended sign (for example, an abnormal laboratory finding), symptom, or disease temporally associated with the use of a medicinal product, whether or not considered 
+related to this medicinal product. 
+2.2 Adverse Drug Reaction (ADR)  
+Adverse drug reactions, as established by regional regulations, guidance, and 
+practices, concern noxious and unintende d responses to a medicinal product. 
+The phrase “responses to a medicinal product” means that a causal relationship 
+between a medicinal product and an adverse event is at least a reasonable possibility 
+(refer to the ICH E2A guideline). 
+A reaction, in contrast to an event, is characterized by the fact that a causal 
+relationship between the drug and the o ccurrence is suspected.  For regulatory 
+reporting purposes, if an event is spontaneously reported, even if the relationship is 
+unknown or unstated, it meets the definition of an adverse drug reaction.  
+2.3 Serious AE/ADR 
+In accordance with the ICH E2A guideline, a serious adverse event or reaction is any 
+untoward medical occurrence that at any dose: 
+* results in death, 
+* is life-threatening (NOTE: The term “life-threatening” in the definition of “serious” refers to an 
+event/reaction in which the patient was at risk of death at the time of the event/reaction; it does not refer to an event/ reaction which hypothetically 
+might have caused death if it were more severe), 
+* requires inpatient hospitalisation or results in prolongation of existing 
+hospitalisation, 
+* results in persistent or significant disability/incapacity,
+
+Post-Approval Safety Data Management:  Definitions and Standards for Expedited Reporting 
+ 
+2 * is a congenital anomaly/birth defect, 
+* is a medically important event or reaction. 
+Medical and scientific judgment should be exercised in deciding whether other 
+situations should be considered serious such as important medical events that 
+might not be immediately life-threatening or result in death or hospitalisation 
+but might jeopardise the patient or migh t require intervention to prevent one 
+of the other outcomes listed in the definition above.  Examples of such events 
+are intensive treatment in an emergenc y room or at home for allergic 
+bronchospasm, blood dyscrasias or convulsions that do not result in 
+hospitalization, or development of  drug dependency or drug abuse. 
+2.4 Unexpected ADR 
+An ADR whose nature, severity, specificity, or outcome is not consistent with the term 
+or description used in the local/regional  product labeling (e.g. Package Insert or 
+Summary of Product Characteristics) should be considered unexpected.  When a Marketing Authorisation Holder (MAH) is uncertain whether an ADR is expected or 
+unexpected, the ADR should be treated as unexpected. 
+An expected ADR with a fatal outcome should be considered unexpected unless the 
+local/regional product labeling specifically states that the ADR might be associated 
+with a fatal outcome.  
+“Class ADRs” should not automatically be considered to be expected for the subject 
+drug. “Class ADRs” should be considered ex pected only if described as specifically 
+occurring with the product in the local/regional product labeling.  This is illustrated in the following examples: 
+• “As with other drugs of this class, the following undesirable effect occurs with 
+Drug X.” 
+• “Drugs of this class, including Drug X, can cause...” 
+If the ADR has not been documented with Drug X, statements such as the following are likely to appear in the local/regional product labeling:   
+• “Other drugs of this class are reported to cause…” 
+• “Drugs of this class are reported to cause..., but no reports have been received 
+to date with Drug X.”  
+In these situations, the ADR should not be considered as expected for Drug X. 
+NOTE: The term “listedness” is not applicable to expedited reporting but should be 
+used to characterize the ADR according to the Company Core Safety Information 
+(refer to ICH E2C guideline for definitions).  
+2.5 Healthcare Professional 
+Healthcare professional is defined as a medi cally-qualified person such as a physician, 
+dentist, pharmacist, nurse, coroner, or as otherwise specified by local regulations.  
+2.6 Consumer 
+Consumer is defined as a person who is not a healthcare professional such as a 
+patient, lawyer, friend, or relative of a patient.
+
+Post-Approval Safety Data Management:  Definitions and Standards for Expedited Reporting 
+ 
+3 3. SOURCES Of INDIVIDUAL CASE SAFETY REPORTS  
+3.1 Unsolicited Sources 
+3.1.1 Spontaneous Reports 
+A spontaneous report is an unsolicited communi cation by a healthcare professional or 
+consumer to a company, regulatory autho rity or other organization (e.g. WHO, 
+Regional Center, Poison Control Center) th at describes one or more adverse drug 
+reactions in a patient who was given one or  more medicinal products and that does 
+not derive from a study or any organized data collection scheme. 
+Stimulated reporting can occur in certain si tuations, such as notification by a “Dear 
+Healthcare Professional” letter, publication in the press, or questioning of healthcare 
+professionals by company representatives.   These reports should be considered 
+spontaneous. 
+Consumer adverse reaction reports shou ld be handled as spontaneous reports 
+irrespective of any subsequent “medical co nfirmation”.  Regulatory Authorities might 
+require medical confirmation for the purpos e of expedited reporting. Emphasis should 
+be placed on the quality of the report and not on its source.  Even if reports received 
+from consumers do not qualify for regulatory reporting, the cases should be retained.  
+3.1.2 Literature  
+Each MAH is expected to regularly screen  the worldwide scientific literature by 
+accessing widely used systematic literat ure reviews or reference databases.  The 
+frequency of the literature searches should be according to local requirements or at least every two weeks. Cases of ADRs from the scientific and medical literature, including relevant published abstracts from meetings and draft manuscripts, might 
+qualify for expedited reporting.  A regulatory  reporting form with relevant medical 
+information should be provided for each identifiable patient.  The publication 
+reference(s) should be given as the report source; additionally a copy of the article 
+might be requested by the local regulatory  authority to accompany the report.  All 
+company offices are encouraged to be aware of publications in their local journals and to bring them to the attention of the co mpany safety department as appropriate.  
+The regulatory reporting time clock starts  as soon as the MAH has knowledge that 
+the case meets minimum criteria for reportability.  
+If the product source, brand, or trade name is not specified, the MAH should assume that it was its product, although the report should indicate that the specific brand was not identified. 
+If multiple products are mentioned in the a rticle, a report should be submitted only by 
+the applicant whose product is suspected.  The suspect product is that identified as such by the article's author.   
+3.1.3 Internet  
+MAHs should regularly screen websites und er their management or responsibility for 
+potential ADR case reports.  MAHs are not expected to screen external websites for 
+ADR information. However, if an MAH be comes aware of an adverse reaction on a 
+website that it does not manage, the MAH should review the case and determine 
+whether it should be reported.
+
+Post-Approval Safety Data Management:  Definitions and Standards for Expedited Reporting 
+ 
+4 MAHs should consider utilising their websites to facilitate ADR data collection, e.g., 
+by providing ADR forms for reporting or by  providing appropriate contact details for 
+direct communication.   
+Unsolicited cases from the Internet should be handled as spontaneous reports. For the 
+determination of reportability, the same criteria should be applied as for cases provided via other ways.   
+In relation to such cases from the Internet e.g. e-mail, identifiability of the reporter 
+refers to the existence of a real person, i.e., it is possible to verify that the patient and 
+the reporter exist. 
+3.1.4 Other Sources 
+If an MAH becomes aware of a case report from  non-medical sources, e.g. the lay press 
+or other media, it should be handled as a spontaneous report.  For the determination of reportability, the same criteria shou ld be applied as for other reports.  
+3.2 Solicited Sources 
+Solicited reports are those derived from organized data collection systems, which 
+include clinical trials, registries, post-a pproval named patient use programs, other 
+patient support and disease management programs, surveys of patients or healthcare 
+providers, or information gathering on effi cacy or patient compliance.  Adverse event 
+reports obtained from any of these should not be considered spontaneous.  
+For the purposes of safety reporting, solicited reports should be classified as study reports, and therefore should have an appropriate causality assessment by a 
+healthcare professional or an MAH.  Furth er guidance on study-related issues, such 
+as managing blinded therapy cases, can be found in the ICH E2A guideline. 
+3.3 Contractual Agreements 
+The marketing of many medicines increas ingly takes place through contractual 
+agreements between two or more companies, which may market same product in the same or different countries/region.  Arrang ements vary considerably with respect to 
+inter-company communication and regulatory re sponsibilities.  Overall, this can be a 
+complex issue. 
+In such relationships, it is very impo rtant that explicit licensing/contractual 
+agreements specify the processes for exc hange of safety information, including 
+timelines and regulatory reporting respon sibilities. Safety personnel should be 
+involved in development of any agreements from the beginning.  Processes should be 
+in place to avoid duplicate reporting to the regulatory  authority, e.g. assigning 
+responsibility to one company for literature screening.   
+Whatever the nature of the arrangement, the MAH is ultimately responsible for regulatory reporting. Therefore, every reas onable effort should be made between the 
+contracting partners to minimize the da ta exchange period so as to promote 
+compliance with MAH responsibilities. 
+3.4 Regulatory Authority Sources 
+Individual serious unexpected adverse drug reaction reports originating from foreign regulatory authorities are subject to expedited reporting to other authorities by each 
+MAH.  Re-submission of serious ADR cases without new information to the
+
+Post-Approval Safety Data Management:  Definitions and Standards for Expedited Reporting 
+ 
+5 originating regulatory authority is not us ually necessary, unless otherwise specified 
+by local regulation. 
+4. STANDARDS FOR EXPEDITED REPORTING 
+4.1 What Should Be Reported? 
+4.1.1 Serious ADRs 
+Cases of adverse drug reactions that are both serious and unexpected are subject to 
+expedited reporting.  The reporting of se rious expected reactions in an expedited 
+manner varies among countries.  Non-serious adverse reactions, whether expected or 
+not, would normally not be subject to expedited reporting.   
+For reports from studies and other solicited sources, all cases judged by either the 
+reporting healthcare professional or the MAH as having a possible causal relationship to the medicinal product would qualify as  ADRs.  For purposes of reporting, 
+spontaneous reports associated with ap proved drugs imply a suspected causal 
+relationship. 
+4.1.2 Other Observations  
+In addition to single case reports, any safe ty information from other observations that 
+could change the risk-benefit evaluation fo r the product should be communicated as 
+soon as possible to the regulatory authori ties in accordance with local regulation. 
+Examples include any significant unanticipat ed safety findings from an in vitro, 
+animal, epidemiological, or clinical study that suggest a significant human risk, such 
+as evidence of mutagenicity, teratogenicity, carcinogenicity, or lack of efficacy with a drug used in treating a life-threatening or serious disease. 
+4.1.2.1 Lack of Efficacy  
+Evidence of lack of efficacy should not norm ally be expedited, but should be discussed 
+in the relevant periodic safety update re port. However, in certain circumstances and 
+in some regions, individual reports of la ck of efficacy are considered subject to 
+expedited reporting. Medicinal products used for the treatment of life-threatening or 
+serious diseases, vaccines, and contraceptiv es are examples of classes of medicinal 
+products where lack of efficacy should be considered for expedited reporting.  Clinical 
+judgment should be used in reporting, with consideration of the local product labeling and disease being treated.  
+4.1.2.2 Overdose  
+Reports of overdose with no associated adverse outcome should not be reported as adverse reactions.  Cases associated with  serious adverse reactions are considered 
+subject to expedited reporting, unless otherw ise specified by local regulation.  They 
+should be routinely followed up to ensure that the information is as complete as 
+possible with regard to symptoms, treatment, and outcome.  The MAH should collect 
+any available information on overdose related to its products.  
+4.2 Minimum Criteria for Reporting   
+It is recommended that as much information as possible be collected at the time of the 
+initial report.  However, for the purpose of regulatory reporting, the minimum data 
+elements for an ADR case are: an identifiab le reporter, an identifiable patient, an 
+adverse reaction, and a suspect product.  La ck of any of these four elements means
+
+Post-Approval Safety Data Management:  Definitions and Standards for Expedited Reporting 
+ 
+6 that the case is considered incomplete; ho wever, MAHs are expected to exercise due 
+diligence to collect the missing data elements. 
+4.3 Reporting Time Frames 
+In general, expedited reporting of serious and unexpected ADRs is required as soon as 
+possible, but in no case later than 15 calendar days of initial receipt of the information 
+by the MAH.  Time frames for other type s of serious reports vary among countries, 
+depending on source, expectedness and outcome.  
+The regulatory reporting time clock is co nsidered to start on the date when any 
+personnel of the MAH first receive a case report that fulfills minimum criteria as well as the criteria for expedited reporting.  In general, this date should be considered 
+day 0. 
+When additional medically relevant informat ion is received for a previously reported 
+case, the reporting time clock is considered to begin again for submission of the follow-
+up report.  In addition, a case initially classified as a non-ex pedited report, would 
+qualify for expedited reporting upon receipt of follow-up information that indicates 
+the case should be re-classified (e.g., from non serious to serious).   
+4.4 Non-serious ADRs 
+Cases of non-serious ADRs, whether expe cted or not, would not normally be 
+considered reportable on an expedited basis.  Non-serious ADRs should be included in 
+the periodic safety update report acco rding to the ICH E2C guideline.   
+5. GOOD CASE MANAGEMENT PRACTICES 
+Accurate, complete, and bona fide inform ation is very important for MAHs and 
+regulatory agencies identifying and assessi ng ADR reports.  Both are faced with the 
+task of acquiring sufficient information to help ensure that the reports are authentic, 
+accurate, as complete as possible, and non-duplicative.  
+5.1 Assessing Patient and Reporter Identifiability1
+Patient and reporter identifiability is important to avoid case duplication, detect fraud, and facilitate follow-up of appropriat e cases.  The term identifiable in this 
+context refers to the verification of th e existence of a patient and a reporter.  
+Local data privacy laws regarding patient and reporter identifiability might apply.  
+One or more of the following should autom atically qualify a patient as identifiable: 
+age (or age category, e.g., adolescent, adult,  elderly), gender, initials, date of birth, 
+name, or patient identification number.  In addition, in the event of second-hand reports, every reasonable effort should be  made to verify the existence of an 
+identifiable patient and reporter. 
+All parties supplying case information or approached for case information should be identifiable: not only the initial reporter (t he initial contact for the case), but also 
+others supplying information.  
+In the absence of qualifying descriptors, a report referring  to a definite number of 
+patients should not be regarded as a ca se until the minimum four criteria for case 
+reporting are met.  For example, “Two pa tients experienced…” or “ a few patients 
+experienced” should be followed up for patient-identifiable information before 
+regulatory reporting.
+
+Post-Approval Safety Data Management:  Definitions and Standards for Expedited Reporting 
+ 
+7 5.2 The Role of Narratives  
+The objective of the narrative is to summarize all relevant clinical and related 
+information, including patient characteri stics, therapy details, medical history, 
+clinical course of the event(s), diagno sis, and ADR(s) including the outcome, 
+laboratory evidence (including normal ranges), and any other information that 
+supports or refutes an ADR.  The narrative should serve as a comprehensive, stand-alone “medical story”. The information should be presented in a logical time sequence; 
+ideally this should be presented in the chronology of the patient’s experience, rather 
+than in the chronology in which the information was received.  In follow-up reports, new information should be clearly identified. 
+Abbreviations and acronyms should be avoi ded, with the possible exception of 
+laboratory parameters and units.  Key information from supplementary records 
+should be included in the report, and their availability should be mentioned in the 
+narrative and supplied on request.  Any re levant autopsy or post-mortem findings 
+should also be summarized in the narrative and related documents should be 
+provided according to local regulation and if allowed by local data privacy laws.   
+Terms (e.g., AEs/ADRs, indication, and medica l conditions) in the narrative should be 
+accurately reflected in appropriate data fields. 
+5.3 Clinical Case Evaluation  
+The purpose of careful medical review is to  ensure correct interpretation of medical 
+information.  Preferably, information about  the case should be collected from the 
+healthcare professionals who are directly invo lved in the patient’s care. Regardless of 
+the source of an ADR report, the recipient should carefully review the report for the 
+quality and completeness of the medical information. The review should include, but 
+is not limited to, the following considerations:  
+•  Is a diagnosis possible?  
+•  Have the relevant diagnostic procedures been performed?  
+•  Were alternative causes of the reaction(s) considered?  
+•  What additional information is needed?  
+ADR terms should be used consistently  and in accordance with recommended 
+standards for diagnosis, if possible.  The report should include the verbatim term as used by the reporter, or an accurate tr anslation of it.  Any company personnel 
+receiving reports should provide an unbiased  and unfiltered report of the information 
+from the reporter.  While th e report recipient is encourag ed to actively query the 
+reporter to elicit the most complete acco unt possible, inferences and imputations 
+should be avoided in report submission.  Ho wever, clearly identified evaluations by 
+the MAH are considered appropriate and are required by some regulatory authorities. 
+When a case is reported by a consumer, his/her description of the event should be retained, although confirmatory or addi tional information from any relevant 
+healthcare professionals should also be sought and included.   
+5.4 Follow-up Information  
+The information from ADR cases when first received is generally incomplete. Ideally, 
+comprehensive information would be availabl e on all cases, but in practice efforts
+
+Post-Approval Safety Data Management:  Definitions and Standards for Expedited Reporting 
+ 
+8 should be made to seek additional inform ation on selected reports, including second –
+hand reports (see Attachment, Recommended Key Data Elements, of this guideline).  
+In any scheme to optimize the value of follow-up, the first consideration should be 
+prioritization of case reports by importance.   The priority for follow-up should be as 
+follows: cases which are 1) serious and unexp ected, 2) serious and expected, and 3) 
+non-serious and unexpected. In addition to  seriousness and expectedness as criteria, 
+cases “of special interest” also deserve extra attention as a high priority (e.g., ADRs 
+under active surveillance at the request of the regulators), as well as any cases that 
+might lead to a labeling change decision. 
+Follow-up information should be obtained, via a telephone call and/or site visit and/or 
+a written request.  The company should prov ide specific questions it would like to 
+have answered.  Follow-up methods should be tailored towards optimizing the collection of missing information.  Writte n confirmation of details given verbally 
+should be obtained whenever possible.  In exceptional circumstances, if requests for 
+information have been refused by the reporter,  a regulatory authority might be able to 
+assist an MAH in obtaining follow-up data. 
+To facilitate the capture of clinically relevant and complete information, use of a 
+targeted questionnaire/specific form is encour aged, preferably at the time of the initial 
+report.  Ideally, healthcare professionals with thorough pharmacovigilance training 
+and therapeutic expertise should be involved  in the collection and the direct follow-up 
+of reported cases (particularly those of medical significance).  For serious ADRs, it is 
+important to continue follow-up and re port new information until the outcome has 
+been established or the condition is stabilized.  How long to follow up such cases is a 
+matter of judgment. 
+It is important that at the time of the original report, sufficient details about the 
+patient and reporter be collecte d and retained to enable future investigations, within 
+the constraints imposed by local data privacy laws. 
+5.4.1 Pregnancy Exposure 
+MAHs are expected to follow up all pregnanc y reports from healthcare professionals 
+or consumers where the embryo/foetus could have been exposed to one of its medicinal 
+products.  When an active substance, or on e of its metabolites, has a long half-life, 
+this should be taken into account when considering whether a foetus could have been 
+exposed (e.g., if medicinal products taken before the gestational period should be 
+considered).   
+5.5 How to Report  
+The CIOMS I form has been a widely acce pted standard for expedited adverse event 
+reporting.  However, no matte r what the form or format used, it is important that 
+certain basic information/data elements, when available, be included with any 
+expedited report, whether in a tabular or narrative presentation.  It is recommended that the Medical Dictionary for Regulatory Activities (MedDRA) be used for coding 
+medical information.  The standards for el ectronic submission of Individual Case 
+Safety Reports (ICSRs), according to the ICH E2B/M2 guidelines, should be 
+implemented.  
+The listing in the Attachment of this guideline addresses those data elements 
+regarded as desirable; if all relevant el ements are not available at the time of 
+expedited reporting, efforts should be made to obtain them.
+
+Post-Approval Safety Data Management:  Definitions and Standards for Expedited Reporting 
+ 
+9 REFERENCES  
+ 
+1. Current Challenges in Pharmacovigilanc e: Pragmatic Approaches (Report of 
+CIOMS Working V), Geneva 2001 
+2. Rules Governing Medicinal Products in the European Union, Volume 9, 
+PHARMACOVIGILANCE: Medicinal Products for Human Use, 2001 
+http://pharmacos.eudra.org/F2/eudralex/vol-9/home.htm  
+3. Guidance for Industry: Postmarketing Safety Reporting for Human Drug and 
+Biological Products Including Vaccines, Food and Drug Administration, March 
+2001 (draft) http://www.fda.gov/cder/guidance/4153dft.pdf  
+4. Safety Reporting Requirements for Hu man Drug and Biological Products, 
+Proposed Rule, Food and Drug Administration, March 2003 
+5. Notification No 421 on Enforcement of the Law Revising Partially the  
+Pharmaceutical Affairs Law, the Dire ctor General, Pharmaceutical Affairs 
+Bureau, Ministry of Health and Welfare, March 1997
+
+Post-Approval Safety Data Management:  Definitions and Standards for Expedited Reporting 
+ 
+10 ATTACHMENT 
+RECOMMENDED  KEY  DATA  ELEMENTS  FOR  INCLUSION   
+IN EXPEDITED  REPORTS   
+OF SERIOUS  ADVERSE  DRUG  REACTIONS 
+Some data elements might not be rele vant, depending on the circumstances.  
+Attempts should be made to obtain follow- up information on as many other listed 
+items as are pertinent to the case.  Refer to the ICH E2B/M2 guidelines for detailed 
+data elements for electronic transmission of ICSRs. 
+1. Patient Details 
+• Initials  
+• Other relevant identifier (p atient number, for example) 
+• Gender 
+• Age, age category (e.g., adolescent, adult, elderly), or date of birth 
+• Concomitant conditions 
+• Medical history 
+• Relevant family history 
+2. Suspected Medicinal Product(s) 
+• Brand name as reported 
+• International Non-Proprietary Name (INN) 
+• Batch/lot number 
+• Indication(s) for which suspect medici nal product was prescribed or tested 
+• Dosage form and strength 
+• Daily dose (specify units - e.g., mg, ml, mg/kg) and regimen  
+• Route of administration 
+• Starting date and time  
+• Stopping date and time, or duration of treatment 
+3. Other Treatment(s) 
+The same information as in item 2 should be provided for the following:  
+• Concomitant medicinal products  
+(including non-prescription, over-the -counter medicinal products, herbal 
+remedies, dietary supplements, comple mentary and alternative therapies, 
+etc.) 
+• Relevant medical devices
+
+Post-Approval Safety Data Management:  Definitions and Standards for Expedited Reporting 
+ 
+11 4. Details (all available) of Adverse Drug Reaction(s)  
+• Full description of reaction(s), in cluding body site and severity  
+• The criterion (or criteria) for re garding the report as serious  
+• Description of the reported signs and symptoms 
+• Specific diagnosis for the reaction 
+• Onset date (and time) of reaction 
+• Stop date (and time) or duration of reaction 
+• Dechallenge and rechallenge information 
+• Relevant diagnostic test results and laboratory data 
+• Setting (e.g., hospital, out-patient clinic, home, nursing home) 
+• Outcome (recovery and any sequelae)  
+• For a fatal outcome, stated cause of death  
+• Relevant autopsy or post-mortem findings  
+• Relatedness of product to reaction(s)/event(s) 
+5. Details on Reporter of an ADR 
+• Name 
+• Mailing address 
+• Electronic mail address 
+• Telephone and/or facsimile number 
+• Reporter type (consumer, heal thcare professional, etc.) 
+• Profession (specialty) 
+6. Administrative and MAH Details 
+• Source of report (spontaneous, epid emiological study, patient survey, 
+literature, etc.) 
+• Date the event report was first re ceived by manufacturer/company 
+• Country in which the event occurred 
+• Type (initial or follow-up) and seque nce (first, second, etc.) of case 
+information reported to authorities  
+• Name and address of MAH 
+• Name, address, electronic mail address, telephone number, and facsimile 
+number of contact person of MAH  
+• Identifying regulatory code or numbe r for marketing authorisation dossier 
+• Company/manufacturer's identification number for the case (the same number should be used for the initia l and follow-up reports on the same 
+case).
