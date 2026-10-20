@@ -16,7 +16,7 @@ if str(PROJECT_ROOT) not in sys.path:
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import HTMLResponse, FileResponse
-from pydantic import BaseModel
+from pydantic import BaseModel, Field
 
 # Load .env for COMPLIANCE_USE_LLM, GROQ_API_KEY, etc.
 try:
@@ -31,18 +31,31 @@ app = FastAPI(
     version="1.0",
 )
 
-# CORS so frontend can call API from same or different origin
+# CORS: the shipped UI is served same-origin by this app, so cross-origin
+# access is only a local-development convenience. Origins are therefore
+# restricted to this app's own local addresses, and credentials are NOT
+# allowed (the API is stateless and uses no cookies/auth). The previous
+# wildcard + allow_credentials combination made Starlette reflect ANY
+# requesting origin with credentials enabled — any website open in the
+# user's browser could have called this local API (and spent the user's
+# LLM API quota). See docs/SECURITY.md.
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    allow_origins=["http://localhost:8000", "http://127.0.0.1:8000"],
+    allow_credentials=False,
+    allow_methods=["GET", "POST"],
+    allow_headers=["Content-Type"],
 )
+
+# Demo-grade request-size limit for report_text (characters). Oversized
+# bodies are rejected by pydantic validation with HTTP 422 before any
+# processing happens. This is a local-demo safeguard, not a substitute
+# for a reverse-proxy body limit in a real deployment.
+MAX_REPORT_CHARS = 1_000_000
 
 
 class CheckComplianceRequest(BaseModel):
-    report_text: str
+    report_text: str = Field(max_length=MAX_REPORT_CHARS)
 
 
 @app.get("/health")
@@ -62,8 +75,16 @@ def check_compliance(req: CheckComplianceRequest):
         from compliance_agent import run
         result = run(req.report_text.strip(), use_llm=use_llm)
         return result
-    except Exception as e:
-        raise HTTPException(status_code=500, detail=str(e))
+    except Exception:
+        # Never return exception text to the client: str(e) can contain
+        # absolute filesystem paths and provider internals. The full
+        # traceback goes to the server log (stderr) only.
+        import traceback
+        traceback.print_exc()
+        raise HTTPException(
+            status_code=500,
+            detail="Internal error while processing the report. See server log for details.",
+        )
 
 
 # Serve frontend: index.html at /, static files at /static
@@ -82,8 +103,16 @@ def index():
 
 @app.get("/static/{path:path}")
 def static_file(path: str):
-    """Serve CSS/JS from frontend/static/."""
-    file_path = STATIC_DIR / path
-    if not file_path.exists() or not file_path.is_file():
+    """Serve CSS/JS from frontend/static/.
+
+    The requested path is resolved and required to stay inside the static
+    directory: `..` segments (raw or percent-encoded) previously escaped
+    it and exposed arbitrary files readable by the server process
+    (repository source, config, a local .env, /etc/passwd). Containment
+    failures return the same 404 as a missing file.
+    """
+    static_root = STATIC_DIR.resolve()
+    file_path = (static_root / path).resolve()
+    if not file_path.is_relative_to(static_root) or not file_path.is_file():
         raise HTTPException(status_code=404, detail="Not found")
     return FileResponse(file_path)

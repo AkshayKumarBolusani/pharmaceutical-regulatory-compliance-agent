@@ -1,0 +1,331 @@
+{
+  "dataset": "pharma-compliance-synthetic-v1",
+  "kind": "synthetic",
+  "description": "SYNTHETIC labelled cases for regression evaluation of the deterministic rule engine. Every label traces to an existing project artifact named in the case's 'origin' field (test fixtures, the seeded synthetic reports' README expectations, or passing adversarial/regression tests). No real documents, no real-world accuracy is measured by this dataset.",
+  "cases": [
+    {
+      "id": "fx-clean",
+      "origin": "tests/fixtures/synthetic_reports.py::CLEAN_REPORT (asserted by tests/test_compliance_agent.py::test_clean_report)",
+      "text": "\nThe product is authorised for the management of hypertension in adults as per the label.\nRefer to the full prescribing information for safety information.\nPatients should discuss any concerns with their healthcare provider.\n",
+      "expected_rule_ids": [],
+      "expected_status": "PASS",
+      "tags": [
+        "fixture",
+        "clean",
+        "anchored-recitation"
+      ]
+    },
+    {
+      "id": "fx-privacy-violation",
+      "origin": "tests/fixtures/synthetic_reports.py::PRIVACY_VIOLATION_REPORT (asserted by tests/test_compliance_agent.py::test_privacy_violation)",
+      "text": "\nPatient John Smith, date of birth 1985-03-12, from Boston, Massachusetts,\ncontacted us at 555-123-4567 and john.smith@email.com regarding his experience.\nHe reported taking the medication for two weeks. We have documented his feedback.\n",
+      "expected_rule_ids": [
+        "privacy"
+      ],
+      "expected_status": "FAIL",
+      "tags": [
+        "fixture",
+        "privacy",
+        "pii-formats"
+      ]
+    },
+    {
+      "id": "fx-off-label",
+      "origin": "tests/fixtures/synthetic_reports.py::OFF_LABEL_REPORT (asserted by tests/test_compliance_agent.py::test_off_label)",
+      "text": "\nThis medication is recommended for weight loss and is effective for improving\nenergy levels. Many physicians use it for off-label indications with good results.\nConsider recommending for patients seeking these benefits.\n",
+      "expected_rule_ids": [
+        "off_label_promotion"
+      ],
+      "expected_status": "FAIL",
+      "tags": [
+        "fixture",
+        "off-label",
+        "promotional"
+      ]
+    },
+    {
+      "id": "fx-ae-without-reporting",
+      "origin": "tests/fixtures/synthetic_reports.py::AE_WITHOUT_REPORTING_REPORT (asserted by tests/test_compliance_agent.py::test_ae_without_reporting)",
+      "text": "\nThe patient experienced nausea and dizziness after starting the drug.\nShe discontinued the medication after three days. No hospitalization was required.\nWe are collecting follow-up information.\n",
+      "expected_rule_ids": [
+        "adverse_event"
+      ],
+      "expected_status": "FAIL",
+      "tags": [
+        "fixture",
+        "adverse-event",
+        "negation"
+      ]
+    },
+    {
+      "id": "fx-comparative-claim",
+      "origin": "tests/fixtures/synthetic_reports.py::COMPARATIVE_CLAIM_REPORT (asserted by tests/test_compliance_agent.py::test_comparative_claim)",
+      "text": "\nOur drug is better than the leading competitor and has been shown to outperform\nother treatments in real-world use. Head-to-head studies suggest superior efficacy.\nConsider positioning as the number one choice for this indication.\n",
+      "expected_rule_ids": [
+        "comparative_claims"
+      ],
+      "expected_status": "NEEDS_REVIEW",
+      "tags": [
+        "fixture",
+        "comparative"
+      ]
+    },
+    {
+      "id": "fx-ae-with-reporting-context",
+      "origin": "tests/fixtures/synthetic_reports.py::AE_WITH_REPORTING_CONTEXT_REPORT (optional fixture, not in ALL_CASES; expected outcome per the fixture's documented escalation semantics, full rule set probe-verified against the engine 2026-10-20)",
+      "text": "\nSerious adverse event: patient was hospitalized due to severe hypersensitivity reaction.\nThe event was life_threatening. Treatment was discontinued. Congenital anomaly was not reported.\nExpedited reporting has been initiated.\n",
+      "expected_rule_ids": [
+        "mandatory_reporting_context"
+      ],
+      "expected_status": "FAIL",
+      "tags": [
+        "fixture",
+        "adverse-event",
+        "escalation",
+        "negation"
+      ]
+    },
+    {
+      "id": "seeded-01-clean",
+      "origin": "synthetic_reports/README.md (01_clean.txt)",
+      "file": "synthetic_reports/01_clean.txt",
+      "expected_rule_ids": [],
+      "expected_status": "PASS",
+      "tags": [
+        "seeded-report",
+        "clean"
+      ]
+    },
+    {
+      "id": "seeded-02-privacy-violation",
+      "origin": "synthetic_reports/README.md (02_privacy_violation.txt)",
+      "file": "synthetic_reports/02_privacy_violation.txt",
+      "expected_rule_ids": [
+        "privacy"
+      ],
+      "expected_status": "FAIL",
+      "tags": [
+        "seeded-report",
+        "privacy"
+      ]
+    },
+    {
+      "id": "seeded-03-off-label",
+      "origin": "synthetic_reports/README.md (03_off_label.txt)",
+      "file": "synthetic_reports/03_off_label.txt",
+      "expected_rule_ids": [
+        "off_label_promotion"
+      ],
+      "expected_status": "FAIL",
+      "tags": [
+        "seeded-report",
+        "off-label"
+      ]
+    },
+    {
+      "id": "seeded-04-ae-without-reporting",
+      "origin": "synthetic_reports/README.md (04_ae_without_reporting.txt)",
+      "file": "synthetic_reports/04_ae_without_reporting.txt",
+      "expected_rule_ids": [
+        "adverse_event"
+      ],
+      "expected_status": "FAIL",
+      "tags": [
+        "seeded-report",
+        "adverse-event"
+      ]
+    },
+    {
+      "id": "seeded-05-comparative-claim",
+      "origin": "synthetic_reports/README.md (05_comparative_claim.txt)",
+      "file": "synthetic_reports/05_comparative_claim.txt",
+      "expected_rule_ids": [
+        "comparative_claims"
+      ],
+      "expected_status": "NEEDS_REVIEW",
+      "tags": [
+        "seeded-report",
+        "comparative"
+      ]
+    },
+    {
+      "id": "seeded-06-ae-mandatory-reporting",
+      "origin": "synthetic_reports/README.md (06_ae_mandatory_reporting.txt)",
+      "file": "synthetic_reports/06_ae_mandatory_reporting.txt",
+      "expected_rule_ids": [
+        "mandatory_reporting_context"
+      ],
+      "expected_status": "FAIL",
+      "tags": [
+        "seeded-report",
+        "adverse-event",
+        "escalation"
+      ]
+    },
+    {
+      "id": "hard-negation-no-nausea-reported",
+      "origin": "tests/test_rule_engine_adversarial.py::test_no_nausea_was_reported_no_ae",
+      "text": "No nausea was reported.",
+      "expected_rule_ids": [],
+      "expected_status": "PASS",
+      "tags": [
+        "adversarial",
+        "negation",
+        "hard-negative",
+        "adverse-event"
+      ]
+    },
+    {
+      "id": "hard-ae-with-negated-hospitalization",
+      "origin": "tests/test_rule_engine_adversarial.py::test_real_ae_with_negated_hospitalization",
+      "text": "The patient reported nausea. No hospitalization was required.",
+      "expected_rule_ids": [
+        "adverse_event"
+      ],
+      "expected_status": "FAIL",
+      "tags": [
+        "adversarial",
+        "negation",
+        "adverse-event",
+        "escalation"
+      ]
+    },
+    {
+      "id": "hard-negation-nausea-was-not-reported",
+      "origin": "tests/test_rule_engine_adversarial.py::test_nausea_was_not_reported_no_ae",
+      "text": "Nausea was not reported by any patient.",
+      "expected_rule_ids": [],
+      "expected_status": "PASS",
+      "tags": [
+        "adversarial",
+        "negation",
+        "hard-negative",
+        "adverse-event"
+      ]
+    },
+    {
+      "id": "hard-negation-death-did-not-occur",
+      "origin": "tests/test_rule_engine_adversarial.py::test_death_did_not_occur_no_mandatory",
+      "text": "Death did not occur.",
+      "expected_rule_ids": [],
+      "expected_status": "PASS",
+      "tags": [
+        "adversarial",
+        "negation",
+        "hard-negative",
+        "escalation"
+      ]
+    },
+    {
+      "id": "hard-anchored-approved-indication",
+      "origin": "tests/test_rule_engine_adversarial.py::test_approved_for_the_stated_indication_no_offlabel",
+      "text": "The medicine is approved for the stated indication.",
+      "expected_rule_ids": [],
+      "expected_status": "PASS",
+      "tags": [
+        "adversarial",
+        "anchored-recitation",
+        "hard-negative",
+        "off-label"
+      ]
+    },
+    {
+      "id": "hard-mixed-anchored-and-promotional",
+      "origin": "tests/test_rule_engine_adversarial.py::test_mixed_anchored_and_promotional_sentences_offlabel_fires",
+      "text": "The drug is approved for hypertension in adults. It is also recommended for weight loss.",
+      "expected_rule_ids": [
+        "off_label_promotion"
+      ],
+      "expected_status": "FAIL",
+      "tags": [
+        "adversarial",
+        "mixed-sentences",
+        "anchored-recitation",
+        "off-label"
+      ]
+    },
+    {
+      "id": "hard-comparative-better-than-every-product",
+      "origin": "tests/test_rule_engine_adversarial.py::test_better_than_every_competing_product_fires",
+      "text": "The medicine is better than every competing product.",
+      "expected_rule_ids": [
+        "comparative_claims"
+      ],
+      "expected_status": "NEEDS_REVIEW",
+      "tags": [
+        "adversarial",
+        "comparative"
+      ]
+    },
+    {
+      "id": "hard-word-boundary-crashed",
+      "origin": "tests/test_rule_engine_adversarial.py::test_keyword_inside_unrelated_word_no_ae",
+      "text": "The truck crashed into the barrier during transport.",
+      "expected_rule_ids": [],
+      "expected_status": "PASS",
+      "tags": [
+        "adversarial",
+        "word-boundary",
+        "hard-negative",
+        "adverse-event"
+      ]
+    },
+    {
+      "id": "hard-discontinued-is-ae-keyword-not-flag",
+      "origin": "tests/test_rule_engine_adversarial.py::test_discontinued_is_ae_keyword_not_escalation_flag",
+      "text": "The patient discontinued the medication.",
+      "expected_rule_ids": [
+        "adverse_event"
+      ],
+      "expected_status": "FAIL",
+      "tags": [
+        "adversarial",
+        "adverse-event",
+        "escalation",
+        "token-distinction"
+      ]
+    },
+    {
+      "id": "hard-life-threatening-hyphenated-escalates",
+      "origin": "tests/test_rule_engine_adversarial.py::test_life_threatening_hyphenated_escalates",
+      "text": "The patient suffered a life-threatening reaction and was admitted.",
+      "expected_rule_ids": [
+        "mandatory_reporting_context"
+      ],
+      "expected_status": "FAIL",
+      "tags": [
+        "adversarial",
+        "escalation",
+        "hyphenation"
+      ]
+    },
+    {
+      "id": "hard-patient-verb-is-not-a-name",
+      "origin": "tests/test_rule_engine_fixes.py::test_patient_plus_verb_is_not_a_name (asserts privacy absent; full expected set derived from probe-verified engine run 2026-10-20)",
+      "text": "The patient experienced nausea and dizziness after starting the drug.",
+      "expected_rule_ids": [
+        "adverse_event"
+      ],
+      "expected_status": "FAIL",
+      "tags": [
+        "regression",
+        "privacy",
+        "hard-negative",
+        "adverse-event"
+      ]
+    },
+    {
+      "id": "hard-anchored-label-recitation-clean",
+      "origin": "tests/test_rule_engine_fixes.py::test_approved_indication_recitation_is_clean",
+      "text": "The product is authorised for the management of hypertension in adults as per the label. It is approved for once-daily dosing.",
+      "expected_rule_ids": [],
+      "expected_status": "PASS",
+      "tags": [
+        "regression",
+        "anchored-recitation",
+        "hard-negative",
+        "off-label"
+      ]
+    }
+  ]
+}

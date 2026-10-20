@@ -48,9 +48,19 @@ def run(
     status = compute_status(raw_violations)
 
     if index_path.exists():
-        violations, all_retrieved = enrich_violations_with_rag(
-            raw_violations, index_path, top_k=top_k, use_llm=use_llm
-        )
+        try:
+            violations, all_retrieved = enrich_violations_with_rag(
+                raw_violations, index_path, top_k=top_k, use_llm=use_llm
+            )
+        except Exception:
+            # Graceful degradation (audit 2026-10-20): an index that exists
+            # but cannot be used (chromadb not installed, corrupt store,
+            # embedding model unavailable) must not crash the check — fall
+            # back to rules-only output with empty retrieval fields.
+            violations = [
+                __violation_from_raw(v) for v in raw_violations
+            ]
+            all_retrieved = []
     else:
         violations = [
             __violation_from_raw(v) for v in raw_violations
@@ -66,8 +76,8 @@ def run(
 
 
 def __violation_from_raw(v: dict):
-    from src.schemas import Violation
-    return Violation(
+    from src.schemas import Violation, apply_trace
+    violation = Violation(
         type=v["violation_type"],
         severity=v["severity"],
         evidence=v["evidence_text"],
@@ -77,16 +87,25 @@ def __violation_from_raw(v: dict):
         suggested_fix="",
         retrieved_regulations=[],
     )
+    # Feature 1: populate finding_id / matched_text / context / matches from
+    # the raw rule-engine trace. evidence_status stays
+    # "insufficient_evidence" and origin "deterministic_rule" (schema
+    # defaults): no retrieval backed this finding.
+    return apply_trace(violation, v)
 
 
 def main():
     """CLI: read report from file or stdin; print JSON to stdout."""
     if len(sys.argv) > 1:
         path = Path(sys.argv[1])
-        if not path.exists():
+        if not path.is_file():
             print(json.dumps({"error": f"File not found: {path}. Use a path to an existing .txt file."}), file=sys.stderr)
             sys.exit(1)
-        report_text = path.read_text(encoding="utf-8")
+        try:
+            report_text = path.read_text(encoding="utf-8")
+        except (OSError, UnicodeDecodeError) as e:
+            print(json.dumps({"error": f"Could not read file: {path} ({e}). Use a UTF-8 encoded .txt file."}), file=sys.stderr)
+            sys.exit(1)
     else:
         report_text = sys.stdin.read()
     use_llm = os.environ.get("COMPLIANCE_USE_LLM", "1").strip().lower() in ("1", "true", "yes")

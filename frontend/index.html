@@ -75,7 +75,7 @@
           emoji = '⚠️ ';
         }
         const label = 'Status: ';
-        statusBadge.innerHTML = '<span class="status-label">' + escapeHtml(label) + '</span><span class="' + cls + '">' + emoji + (status || '—') + '</span>';
+        statusBadge.innerHTML = '<span class="status-label">' + escapeHtml(label) + '</span><span class="' + cls + '">' + emoji + escapeHtml(status || '—') + '</span>';
       }
 
       function escapeHtml(s) {

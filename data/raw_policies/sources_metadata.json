@@ -1,7 +1,7 @@
 {
-  "description": "Phase 1 regulatory sources. Place PDFs in this folder with the exact 'file' name. All sources are public and traceable.",
+  "description": "Regulatory source manifest. Place permitted source PDFs in this folder using the exact file name. Verification status and reuse notes are recorded per source; not every source URL or redistribution right has been verified.",
   "version": "1.0",
-  "gdpr_scope_note": "Only pharma-relevant GDPR articles (e.g. 4, 5, 6, 9, 17) are used for compliance reasoning; full regulation is stored for traceability.",
+  "gdpr_scope_note": "CORRECTED 2026-10-20: GDPR is NOT in the corpus. No GDPR text file exists in this project and no rule cites GDPR articles. Early project documents named GDPR as a source; it is recorded in this manifest as a missing source (see the GDPR entry). The previous wording of this note, which implied GDPR articles are used for compliance reasoning, was inaccurate.",
   "sources": [
     {
       "id": "FDA_PROMO",
@@ -9,7 +9,18 @@
       "country": "USA",
       "category": "Promotion",
       "name": "Brief Summary and Adequate Directions for Use: Disclosing Risk Information in Consumer-Directed Print Advertisements and Promotional Labeling for Prescription Drugs (Aug 2015, Rev 2)",
-      "file": "FDA_risk_disclosure_promo.pdf"
+      "file": "FDA_risk_disclosure_promo.pdf",
+      "official_url": "https://www.fda.gov/files/drugs/published/Brief-Summary-and-Adequate-Directions-for-Use---Disclosing-Risk-Information-in-Consumer-Directed-Print-Advertisements-and-Promotional-Labeling-for-Prescription-Drugs.pdf",
+      "url_status": "verified",
+      "url_note": "Exact document PDF on fda.gov; fetched and read on 2026-10-20 (title page: August 2015, Revision 2, Revised Draft Guidance).",
+      "version_date": "2015-08 (Revision 2)",
+      "applicable_rules": [
+        "off_label_promotion",
+        "comparative_claims"
+      ],
+      "reuse_notes": "Work of the US federal government; US federal government works are generally not subject to domestic copyright protection (17 U.S.C. 105) and the document is posted publicly by the agency. Note, not legal advice.",
+      "retrieval_date": null,
+      "corpus_status": "present_clean_text"
     },
     {
       "id": "FDA_AE_1",
@@ -17,7 +28,18 @@
       "country": "USA",
       "category": "Adverse events",
       "name": "Postmarketing Safety Reporting for Human Drug and Biological Products (Guidance for Industry)",
-      "file": "FDA_postmarketing_safety_reporting.pdf"
+      "file": "FDA_postmarketing_safety_reporting.pdf",
+      "official_url": "",
+      "url_status": "unverified",
+      "url_note": "A candidate fda.gov media-download URL for the draft guidance 'Postmarketing Safety Reporting for Human Drug and Biological Products Including Vaccines' was located in search results on 2026-10-20, but a direct fetch was rejected (HTTP 401), so no URL is recorded as verified.",
+      "version_date": null,
+      "applicable_rules": [
+        "adverse_event",
+        "mandatory_reporting_context"
+      ],
+      "reuse_notes": "Work of the US federal government; US federal government works are generally not subject to domestic copyright protection (17 U.S.C. 105) and the document is posted publicly by the agency. Note, not legal advice.",
+      "retrieval_date": null,
+      "corpus_status": "present_clean_text"
     },
     {
       "id": "FDA_AE_2",
@@ -25,7 +47,18 @@
       "country": "USA",
       "category": "Adverse events",
       "name": "Best Practices for FDA Staff in the Postmarketing Safety Surveillance of Human Drug and Biological Products (Jan 2024)",
-      "file": "FDA_postmarketing_surveillance_best_practices.pdf"
+      "file": "FDA_postmarketing_surveillance_best_practices.pdf",
+      "official_url": "https://www.fda.gov/drugs/cder-conversations/understanding-cders-postmarket-safety-surveillance-programs-and-public-data",
+      "url_status": "landing_page_only",
+      "url_note": "FDA CDER page that discusses and names the Best Practices document; the exact document URL was not verified. Final document announced in the Federal Register, Vol. 89 No. 18, 26 Jan 2024 (Docket No. FDA-2023-N-2853).",
+      "version_date": "2024-01",
+      "applicable_rules": [
+        "adverse_event",
+        "mandatory_reporting_context"
+      ],
+      "reuse_notes": "Work of the US federal government; US federal government works are generally not subject to domestic copyright protection (17 U.S.C. 105) and the document is posted publicly by the agency. Note, not legal advice.",
+      "retrieval_date": null,
+      "corpus_status": "present_clean_text"
     },
     {
       "id": "EMA_GVP_VI",
@@ -33,7 +66,19 @@
       "country": "EU",
       "category": "Pharmacovigilance",
       "name": "GVP Module VI: Management and reporting of adverse reactions to medicinal products (Rev 1)",
-      "file": "EMA_GVP_Module_VI.pdf"
+      "file": "EMA_GVP_Module_VI.pdf",
+      "official_url": "https://www.ema.europa.eu/en/documents/scientific-guideline/guideline-good-pharmacovigilance-practices-module-vi-management-and-reporting-adverse-reactions-medicinal-products-rev-1-superseded_en.pdf",
+      "url_status": "verified",
+      "url_note": "Exact document PDF on ema.europa.eu; fetched and read on 2026-10-20 (EMA/873138/2011 Rev 1). SUPERSEDED: Module VI Rev 2 is the current version; this corpus holds Rev 1.",
+      "version_date": "Rev 1 - adopted 2014-09-08, in effect 2014-09-16",
+      "applicable_rules": [
+        "adverse_event",
+        "mandatory_reporting_context"
+      ],
+      "reuse_notes": "(c) European Medicines Agency and Heads of Medicines Agencies. The document itself states: 'Reproduction is authorised provided the source is acknowledged.' Note, not legal advice.",
+      "retrieval_date": null,
+      "corpus_status": "excluded_from_distribution_pending_redistribution_verification",
+      "distribution_note": "Cleaned text NOT shipped in the release candidate (2026-10-20): redistribution terms for this issuer's documents have not been verified. Obtain the document from the official URL in this manifest and place the cleaned text at data/processed/clean_text/<file stem>.txt to restore it locally."
     },
     {
       "id": "EMA_GVP_ANNEX_I",
@@ -41,7 +86,18 @@
       "country": "EU",
       "category": "Pharmacovigilance",
       "name": "GVP Annex I — Definitions (Rev 4)",
-      "file": "EMA_GVP_Annex_I_Definitions.pdf"
+      "file": "EMA_GVP_Annex_I_Definitions.pdf",
+      "official_url": "https://www.ema.europa.eu/it/human-regulatory-overview/post-authorisation/pharmacovigilance-post-authorisation/good-pharmacovigilance-practices-gvp/archive-development-good-pharmacovigilance-practices",
+      "url_status": "landing_page_only",
+      "url_note": "EMA GVP archive page listing 'Guideline on good pharmacovigilance practices: Annex I - Definitions (Rev. 4)', reference EMA/876333/2011, legal effective date 13/10/2017, marked superseded. The direct Rev 4 PDF was not fetched during verification (archive page fetch timed out on 2026-10-20). Rev 4 has been superseded by Rev 5 (26 July 2024).",
+      "version_date": "Rev 4 - legal effective date 2017-10-13",
+      "applicable_rules": [
+        "definitions_supporting"
+      ],
+      "reuse_notes": "(c) European Medicines Agency. EMA GVP documents state reproduction is authorised provided the source is acknowledged. Supporting/definitions source: it underpins terminology used by the other rules rather than mapping to one engine rule. Note, not legal advice.",
+      "retrieval_date": null,
+      "corpus_status": "excluded_from_distribution_pending_redistribution_verification",
+      "distribution_note": "Cleaned text NOT shipped in the release candidate (2026-10-20): redistribution terms for this issuer's documents have not been verified. Obtain the document from the official URL in this manifest and place the cleaned text at data/processed/clean_text/<file stem>.txt to restore it locally."
     },
     {
       "id": "CDSCO_PV",
@@ -49,7 +105,18 @@
       "country": "India",
       "category": "Adverse events",
       "name": "Pharmacovigilance Guidance Document for Marketing Authorization Holders of Pharmaceutical Products (Version 2.0)",
-      "file": "CDSCO_PV_guidance_pharma.pdf"
+      "file": "CDSCO_PV_guidance_pharma.pdf",
+      "official_url": "https://cdsco.gov.in/opencms/opencms/en/Post-Marketing-DSM/",
+      "url_status": "landing_page_only",
+      "url_note": "CDSCO Post-Marketing DSM page (fetched and read on 2026-10-20) lists the exact document 'Pharmacovigilance Guidance Document for Marketing Authorization Holders of Pharmaceutical Products (Version: 2.0)', release date 2024-Sep-17, with a PDF download; the direct PDF URL was not captured.",
+      "version_date": "Version 2.0 - 2024-09-17",
+      "applicable_rules": [
+        "adverse_event",
+        "mandatory_reporting_context"
+      ],
+      "reuse_notes": "Government of India (CDSCO) guidance published for public compliance use; reuse terms are not stated on the listing page, so treat as reference/citation only. Note, not legal advice.",
+      "retrieval_date": null,
+      "corpus_status": "present_clean_text"
     },
     {
       "id": "INDIA_DMRA_1954",
@@ -57,27 +124,88 @@
       "country": "India",
       "category": "Promotion",
       "name": "Drugs and Magic Remedies (Objectionable Advertisements) Act, 1954",
-      "file": "India_Drugs_and_Magic_Remedies_Act_1954.pdf"
+      "file": "India_Drugs_and_Magic_Remedies_Act_1954.pdf",
+      "official_url": "",
+      "url_status": "unverified",
+      "url_note": "An India Code (indiacode.gov.in) content URL serving this Act (Act No. 21 of 1954) was located in search results on 2026-10-20, but the available fetch tooling could not resolve/verify it, so no URL is recorded as official.",
+      "version_date": "1954 (Act No. 21 of 1954)",
+      "applicable_rules": [
+        "off_label_promotion"
+      ],
+      "reuse_notes": "Act of the Parliament of India; the official text is published via India Code. Legal texts are cited and referenced, not redistributed commercially. Note, not legal advice.",
+      "retrieval_date": null,
+      "corpus_status": "present_clean_text"
     },
-    
     {
       "id": "ICH_E2D",
       "authority": "ICH",
       "country": "International",
       "category": "Safety",
       "name": "ICH E2D: Post-Approval Safety Data Management: Definitions and Standards for Expedited Reporting",
-      "file": "ICH_E2D.pdf"
+      "file": "ICH_E2D.pdf",
+      "official_url": "",
+      "url_status": "unverified",
+      "url_note": "No verbatim ICH (ich.org) URL for the original E2D document was verified on 2026-10-20. Currency note: ICH adopted the revision E2D(R1) on 15 September 2025 (per the ICH document history); the corpus text is the original E2D (Step 4 adoption November 2003).",
+      "version_date": null,
+      "applicable_rules": [
+        "adverse_event",
+        "mandatory_reporting_context"
+      ],
+      "reuse_notes": "ICH harmonised guidelines are copyrighted by ICH and published for implementation by regulatory parties; reference/citation basis only, do not redistribute commercially. Note, not legal advice.",
+      "retrieval_date": null,
+      "corpus_status": "excluded_from_distribution_pending_redistribution_verification",
+      "distribution_note": "Cleaned text NOT shipped in the release candidate (2026-10-20): redistribution terms for this issuer's documents have not been verified. Obtain the document from the official URL in this manifest and place the cleaned text at data/processed/clean_text/<file stem>.txt to restore it locally."
     },
-    
     {
       "id": "HIPAA",
       "authority": "HHS",
       "country": "USA",
       "category": "Privacy",
       "name": "HIPAA Privacy Rule (45 CFR Part 160 and Subparts A and E of Part 164)",
-      "file": "HIPAA_Privacy_Rule.pdf"
+      "file": "HIPAA_Privacy_Rule.pdf",
+      "official_url": "https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html",
+      "url_status": "landing_page_only",
+      "url_note": "HHS 'Summary of the HIPAA Privacy Rule' page; fetched and read on 2026-10-20. Per HHS, the combined rule text is at 45 CFR Part 160 and Part 164, Subparts A and E.",
+      "version_date": null,
+      "applicable_rules": [
+        "privacy"
+      ],
+      "reuse_notes": "Work of the US federal government; US federal government works are generally not subject to domestic copyright protection (17 U.S.C. 105) and the document is posted publicly by the agency. Note, not legal advice.",
+      "retrieval_date": null,
+      "corpus_status": "present_clean_text"
+    },
+    {
+      "id": "GDPR",
+      "authority": "European Parliament and Council of the European Union",
+      "country": "EU",
+      "category": "Privacy",
+      "name": "Regulation (EU) 2016/679 (General Data Protection Regulation), OJ L 119, 4 May 2016",
+      "official_url": "https://eur-lex.europa.eu/legal-content/EN/LSU/?uri=CELEX:32016R0679",
+      "url_status": "verified",
+      "url_note": "EUR-Lex summary page for CELEX 32016R0679, returned from eur-lex.europa.eu in search results on 2026-10-20.",
+      "version_date": "2016-04-27 (applies from 2018-05-25)",
+      "retrieval_date": null,
+      "applicable_rules": [
+        "privacy"
+      ],
+      "reuse_notes": "EU legislation published in the Official Journal and via EUR-Lex; the EU reuse policy applies. IMPORTANT: this source is NOT in the corpus - no GDPR file exists and no 'file' key is set. It is listed because early project documents name GDPR as a source (see the gdpr_scope_note above, which is inaccurate for the current corpus). Note, not legal advice.",
+      "corpus_status": "missing_named_in_early_docs_not_in_corpus"
     }
   ],
-  "category_enum": ["Promotion", "Adverse events", "Pharmacovigilance", "Safety", "Privacy"],
-  "country_enum": ["USA", "EU", "India", "International"]
+  "category_enum": [
+    "Promotion",
+    "Adverse events",
+    "Pharmacovigilance",
+    "Safety",
+    "Privacy"
+  ],
+  "country_enum": [
+    "USA",
+    "EU",
+    "India",
+    "International"
+  ],
+  "manifest_version": "2.0",
+  "last_verified": "2026-10-20",
+  "distribution_note": "Release candidate 2026-10-20: EMA and ICH cleaned texts are excluded from distribution pending redistribution-rights verification. Their manifest entries, official URLs and attribution are preserved. US federal texts (FDA, HHS) and the remaining sources ship as before. See NOTICE.md."
 }
