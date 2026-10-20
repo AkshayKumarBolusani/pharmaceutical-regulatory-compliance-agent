@@ -4,15 +4,53 @@ Retrieves top-k regulatory clauses from ChromaDB; calls LLM to explain violation
 LLM does NOT decide compliance; it only explains using retrieved text.
 """
 
+import json
 import os
 from pathlib import Path
 from typing import Any
 
-from .schemas import RetrievedRegulation, Violation
+from .schemas import RetrievedRegulation, Violation, apply_trace
 
 
 def _get_project_root() -> Path:
     return Path(__file__).resolve().parent.parent
+
+
+# --- Source-manifest join (Feature 1) -----------------------------------------
+# Chunk metadata carries source_id = clean-text file stem; the manifest at
+# data/raw_policies/sources_metadata.json keys entries by the source PDF's
+# file name, whose stem is the same identifier. The join supplies the
+# document title / version / official URL for the evidence trace. Anything
+# missing stays empty — metadata is never invented.
+_MANIFEST_MAP: dict[str, dict] | None = None
+
+
+def _manifest_map() -> dict[str, dict]:
+    """Map of clean-text file stem -> manifest entry (cached; {} if absent)."""
+    global _MANIFEST_MAP
+    if _MANIFEST_MAP is None:
+        _MANIFEST_MAP = {}
+        try:
+            path = _get_project_root() / "data" / "raw_policies" / "sources_metadata.json"
+            data = json.loads(path.read_text(encoding="utf-8"))
+            for entry in data.get("sources", []):
+                fname = entry.get("file")
+                if fname:
+                    _MANIFEST_MAP[Path(fname).stem] = entry
+        except Exception:
+            _MANIFEST_MAP = {}
+    return _MANIFEST_MAP
+
+
+def _apply_manifest(reg: RetrievedRegulation) -> RetrievedRegulation:
+    """Fill title/version_date/official_url from the source manifest when an
+    entry matches the chunk's source_id; otherwise leave them empty."""
+    entry = _manifest_map().get(reg.source_id)
+    if entry:
+        reg.title = entry.get("name") or ""
+        reg.version_date = entry.get("version_date") or ""
+        reg.official_url = entry.get("official_url") or ""
+    return reg
 
 
 def retrieve(
@@ -39,10 +77,17 @@ def retrieve(
     )
     docs = results["documents"][0] or []
     metas = results["metadatas"][0] or []
-    return [
-        RetrievedRegulation(source=meta.get("source", "Unknown"), text=doc)
-        for doc, meta in zip(docs, metas)
-    ]
+    regs = []
+    for doc, meta in zip(docs, metas):
+        reg = RetrievedRegulation(
+            source=meta.get("source", "Unknown"),
+            text=doc,
+            source_id=meta.get("source_id", ""),
+            country=meta.get("country", ""),
+            category=meta.get("category", ""),
+        )
+        regs.append(_apply_manifest(reg))
+    return regs
 
 
 def _get_llm_client():
@@ -155,7 +200,7 @@ def enrich_violations_with_rag(
     violations_out: list[Violation] = []
     for v in raw_violations:
         query = v.get("evidence_text", "") or v.get("violation_type", "")
-        retrieved = retrieve(query, index_path, top_k=top_k)
+        retrieved = [_apply_manifest(r) for r in retrieve(query, index_path, top_k=top_k)]
         for r in retrieved:
             key = (r.source, r.text[:100])
             if key not in seen:
@@ -164,18 +209,34 @@ def enrich_violations_with_rag(
         regulatory_basis = retrieved[0].source if retrieved else ""
         explanation = ""
         suggested_fix = ""
+        explanation_origin = "none"
         if use_llm and retrieved:
             explanation, suggested_fix = explain_violation_with_llm(v, retrieved, api_key)
-        violations_out.append(
-            Violation(
-                type=v["violation_type"],
-                severity=v["severity"],
-                evidence=v["evidence_text"],
-                rule_id=v["rule_id"],
-                regulatory_basis=regulatory_basis,
-                explanation=explanation,
-                suggested_fix=suggested_fix,
-                retrieved_regulations=retrieved,
-            )
+            # The explainer returns "unavailable / could not be generated"
+            # fallback strings when no LLM actually ran; only a real model
+            # response counts as an LLM explanation (Feature 1 provenance).
+            if explanation and not explanation.startswith(
+                ("Explanation unavailable", "Explanation could not be generated")
+            ):
+                explanation_origin = "llm"
+        violation = Violation(
+            type=v["violation_type"],
+            severity=v["severity"],
+            evidence=v["evidence_text"],
+            rule_id=v["rule_id"],
+            regulatory_basis=regulatory_basis,
+            explanation=explanation,
+            suggested_fix=suggested_fix,
+            retrieved_regulations=retrieved,
+            # A finding is "supported" only when at least one retrieved
+            # clause backs it; retrieval alone never proves a violation.
+            evidence_status="supported" if retrieved else "insufficient_evidence",
+            explanation_origin=explanation_origin,
         )
+        if retrieved:
+            top = retrieved[0]
+            violation.source_title = top.title
+            violation.source_version = top.version_date
+            violation.source_url = top.official_url
+        violations_out.append(apply_trace(violation, v))
     return violations_out, all_retrieved

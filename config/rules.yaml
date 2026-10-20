@@ -4,6 +4,11 @@
 
 privacy:
   description: "PII/PHI that must not appear in inappropriate contexts (e.g. promotional text, unredacted reports)"
+  # IMPLEMENTATION STATUS (2026-10-20): detected = patient_name (capitalised
+  # names only), phone_number, email, national_id (SSN format).
+  # Declared but NOT yet detected: address, health_plan_beneficiary_number,
+  # device_identifier, biometric_identifier. Do not cite this taxonomy as
+  # implemented coverage for those four types.
   forbidden_entities:
     - patient_name
     - phone_number

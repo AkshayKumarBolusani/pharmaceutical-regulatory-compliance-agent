@@ -1,9 +1,15 @@
-# Phase 1 — Foundation & Policy Intelligence
+# Pharmaceutical Regulatory Compliance Agent — dependencies
+# Python 3.10+ (verified on 3.12.3). Sections note what actually imports each
+# package (audited 2026-10-20). Verified-working versions on 2026-10-20:
+# chromadb 1.5.9, fastapi 0.152.0, pytest 9.1.1, PyYAML 6.0.3, pydantic 2.14.1.
+# pdfplumber was removed 2026-10-20: it was never imported anywhere (only
+# mentioned in a notebook comment as an option); pypdf does the extraction.
+
+# Phase 1 — Foundation & Policy Intelligence (notebooks)
 # Python 3.10+ recommended
 
-# PDF & text
+# PDF & text (notebook 01 uses pypdf)
 pypdf>=4.0.0
-pdfplumber>=0.11.0
 
 # Text processing
 regex>=2024.0.0
