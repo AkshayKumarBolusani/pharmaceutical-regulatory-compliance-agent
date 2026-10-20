@@ -1,239 +1,243 @@
 # AI-Powered Pharmaceutical Regulatory Compliance Agent
 
-A research prototype that checks a pharmaceutical document against a
-deterministic rule taxonomy, grounds each finding in retrieved regulatory
-clauses where possible, and produces a structured, auditable JSON report
-for human review.
+**A Python research prototype for pharmaceutical regulatory document review, deterministic compliance rules, regulatory-clause retrieval (RAG), evidence traceability, and human-in-the-loop review.**
 
-> **Scope & disclaimers**
-> - College research project; not a production legal system.
-> - Regulations are for reference only; no claim of legal completeness or certification.
-> - Findings are preliminary flags for qualified human review — never a
->   legal compliance determination. Never submit real patient data to it.
+The Pharmaceutical Regulatory Compliance Agent analyzes pharmaceutical safety reports, pharmacovigilance text, and promotional drafts against a configurable rule taxonomy. It produces a structured JSON report with a `PASS`, `FAIL`, or `NEEDS_REVIEW` status, traceable findings, and regulatory-source evidence when retrieval is available.
 
-## What it does
+> **Research prototype — not legal advice or a compliance certification tool.** Findings are preliminary signals for qualified human review. The system has not been validated on real-world documents. Do not submit real patient data.
 
-Submit a document (a safety report, promotional draft, or similar) and the
-agent reports:
+## Key features
 
-- a status — `PASS`, `FAIL`, or `NEEDS_REVIEW` — rolled up deterministically
-  from rule severities;
-- one finding per triggered rule family (privacy, adverse-event reporting
-  context, mandatory-reporting escalation, off-label promotion, comparative
-  claims), each with the exact matched text, its location in the document,
-  and a stable finding ID;
-- where a vector index is available, the regulatory clauses retrieved for
-  each finding, with their source title, version and official URL — or an
-  explicit `insufficient_evidence` marker when no clause backs a finding.
+- **Deterministic compliance rules:** Rule matches, severity levels, and final status are computed by the rule engine, not by an LLM.
+- **Evidence-traceable findings:** Findings include matched text, location, stable identifiers, rule details, and regulatory evidence where available.
+- **Regulatory RAG:** Optional ChromaDB retrieval connects findings to indexed source passages and metadata. When supporting evidence is unavailable, the report marks it as insufficient rather than inventing a citation.
+- **Optional LLM explanations:** Groq or OpenAI can explain existing findings in plain language; the model does not decide the compliance status.
+- **Human review history:** Reviewer decisions are recorded separately from automated results in an append-only, hash-chained log.
+- **Evaluation tools:** A reproducible synthetic evaluation script reports metrics while explicitly distinguishing regression consistency from real-world accuracy.
+- **Change-impact helper:** Compare two local versions of a regulatory source and identify potentially affected rule families for human review.
+- **CLI and local web demo:** Run checks from the command line or through a FastAPI endpoint and browser interface.
+- **Security and adversarial tests:** Regression coverage addresses input handling, static-file path traversal, error leakage, and difficult rule-engine cases.
 
-An optional LLM (Groq or OpenAI) may *explain* findings in plain English.
-It never decides anything: violations, severities and the status are
-computed by the deterministic rule engine before any LLM call, and tests
-prove model output cannot alter them.
+## Project status and validation
 
-## Architecture (short version)
+This is an independently developed research and engineering prototype. The latest reported audit run on 20 October 2026 recorded:
 
+- **Full environment:** 141 passed, 2 expected failures (`xfail`).
+- **Minimal environment:** 109 passed, 11 skipped, 2 expected failures.
+- **Evaluation data:** Synthetic fixtures and seeded reports only.
+- **Real-world accuracy:** Not measured.
+- **Regulatory completeness:** Not established.
+- **Production readiness:** Not production-ready; intended for localhost demonstration and research.
+
+The two expected failures document known deterministic limits involving keywords inside quoted text and first-name-only patient references. See [Evaluation](docs/EVALUATION.md) for details. Re-run tests in your environment before relying on these historical results.
+
+## How it works
+
+```text
+Input document
+     |
+     v
+Deterministic rule engine (config/rules.yaml)
+     |
+     v
+Severity roll-up --> PASS / FAIL / NEEDS_REVIEW
+     |
+     +--> Optional regulatory-clause retrieval (ChromaDB)
+     |
+     +--> Optional LLM explanation (never controls the verdict)
+     |
+     v
+Structured JSON report + evidence trace
+     |
+     v
+Optional human review and audit history
 ```
-report text → rule engine (config/rules.yaml) → severity roll-up → status
-                                            ↘ optional: clause retrieval (ChromaDB)
-                                              + LLM explanation → JSON report
-```
 
-Full detail — components, data flow, the evidence-trace schema, degradation
-behaviour and design invariants — is in [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
+The design invariant is that optional retrieval and LLM explanation must not change the deterministic verdict. See [Architecture](docs/ARCHITECTURE.md).
 
-## Installation
+## Technology stack
 
-Python 3.10+ (verified on 3.12.3).
+- **Language:** Python 3.10+
+- **API:** FastAPI, Uvicorn
+- **Rule configuration:** YAML
+- **Retrieval:** ChromaDB and sentence embeddings
+- **Optional explanations:** Groq or OpenAI API
+- **Validation and testing:** Pydantic, pytest
+- **Interface:** HTML/CSS/JavaScript local demo
+
+## Quick start
+
+### 1. Install
 
 ```bash
+git clone https://github.com/AkshayKumarBolusani/pharmaceutical-regulatory-compliance-agent.git
+cd pharmaceutical-regulatory-compliance-agent
+
 python -m venv .venv
-source .venv/bin/activate        # or .venv\Scripts\activate on Windows
+source .venv/bin/activate        # Windows: .venv\Scripts\activate
+python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-The core test suite also runs in a minimal environment (pyyaml, pytest,
-pydantic, python-dotenv); tests that need the web/retrieval/LLM packages
-skip cleanly when those are absent.
+Python 3.10 or newer is required. Some retrieval and API tests depend on optional packages; consult the test output and `requirements.txt` for the environment you installed.
 
-## Usage
-
-**Build the vector index** (from the cleaned corpus in
-`data/processed/clean_text/`; produces `outputs/vector_index/` — 255 chunks
-from the 6 texts shipped in the release candidate; 649 chunks when the 3
-excluded texts below are restored locally):
+### 2. Build the regulatory retrieval index
 
 ```bash
 python scripts/build_index.py
 ```
 
-Without an index the agent still works — rules only, with retrieval fields
-empty and `evidence_status: "insufficient_evidence"` on every finding.
+The index builder processes the local text files under `data/processed/clean_text/` and writes a generated index under `outputs/vector_index/`. The reported audit build contained 649 chunks when all nine source texts were present. Do not commit generated indexes unless the project documentation explicitly calls for them.
 
-**Check a document (CLI):**
+**Source-material notice:** the current audit branch contains cleaned EMA and ICH regulatory texts whose redistribution terms have not yet been verified. The MIT license applies to original project code, not automatically to third-party regulatory publications. Review [NOTICE.md](NOTICE.md) and [Regulatory Sources](docs/REGULATORY_SOURCES.md) before redistributing the repository. If preparing a public source package, confirm the terms for each text or omit any material whose redistribution is not permitted.
+
+The agent can still run in rules-only mode without an index. In that mode, retrieval evidence is unavailable and findings should be interpreted accordingly.
+
+### 3. Check a text file with the CLI
+
+```bash
+python compliance_agent.py synthetic_reports/01_clean.txt
+```
+
+You can also provide a file path:
 
 ```bash
 python compliance_agent.py path/to/report.txt
-echo "Patient John Smith, 555-123-4567..." | python compliance_agent.py
 ```
 
-**Demo UI + API:**
+The CLI emits a structured report. Use only synthetic or appropriately authorized, de-identified material.
+
+### 4. Start the local web demo
 
 ```bash
 uvicorn backend.main:app --host 127.0.0.1 --port 8000
-# open http://localhost:8000/  — paste a report, click Check Compliance
 ```
 
-`GET /health` returns `{ "status": "ok" }`; `POST /check_compliance` takes
-`{ "report_text": "..." }` (max 1,000,000 characters) and returns the same
-JSON as the CLI. Localhost demo only — no authentication or TLS.
+Open `http://127.0.0.1:8000/` in your browser. The API exposes `GET /health` and `POST /check_compliance`. The demo is for localhost use; it does not provide production authentication, authorization, TLS, or multi-user isolation.
 
-**Optional LLM explanations:** copy `.env.example` to `.env` and set
-`GROQ_API_KEY` (preferred) or `OPENAI_API_KEY`. `COMPLIANCE_USE_LLM=0`
-disables explanations entirely. Never commit `.env` or real keys. See
-[LLM_SETUP.md](LLM_SETUP.md).
-
-**Evaluation lab** (synthetic benchmark — see
-[docs/EVALUATION.md](docs/EVALUATION.md) before quoting any number):
+### 5. Run tests and the synthetic evaluation
 
 ```bash
+python -m pytest -q
 python scripts/evaluate.py
 ```
 
-**Human review** (decisions are stored separately from the automated
-report, in an append-only hash-chained log):
+Read [Evaluation](docs/EVALUATION.md) before quoting any score. The synthetic benchmark checks implementation behavior against constructed cases; perfect synthetic results do **not** establish real-world extraction quality, regulatory accuracy, or legal compliance.
+
+## Optional LLM explanations
+
+Copy `.env.example` to `.env` and set `GROQ_API_KEY` or `OPENAI_API_KEY` if you want optional plain-language explanations. Set `COMPLIANCE_USE_LLM=0` to disable LLM explanations.
 
 ```bash
-python compliance_agent.py my_report.txt > report.json
-python scripts/review.py add --report report.json --rule-id privacy \
-    --decision confirmed --rationale "Real name and phone in a public draft" \
-    --reviewer "a.reviewer" --log reviews.jsonl
+cp .env.example .env
+```
+
+Never commit `.env`, API keys, confidential documents, or real patient data. See [LLM setup](LLM_SETUP.md).
+
+## Human review and report export
+
+Example workflow:
+
+```bash
+python compliance_agent.py synthetic_reports/02_privacy_violation.txt > report.json
+
+python scripts/review.py add \
+  --report report.json \
+  --rule-id privacy \
+  --decision confirmed \
+  --rationale "Example reviewer rationale for a synthetic case" \
+  --reviewer "reviewer-1" \
+  --log reviews.jsonl
+
 python scripts/review.py verify --log reviews.jsonl
-python scripts/report_html.py --report report.json --log reviews.jsonl --out report.html
+
+python scripts/report_html.py \
+  --report report.json \
+  --log reviews.jsonl \
+  --out report.html
 ```
 
-**Assess the impact of a regulatory source changing:**
+Review actions supplement the automated report; they do not convert the prototype into a legal approval system. The local hash-chained log is tamper-evident, not absolutely immutable against an attacker who can rewrite the entire log.
+
+## Regulatory source change analysis
+
+Compare two local versions of a source document:
 
 ```bash
-python scripts/source_diff.py --old old_version.txt --new new_version.txt --source-id FDA_AE_1
+python scripts/source_diff.py \
+  --old old_version.txt \
+  --new new_version.txt \
+  --source-id FDA_AE_1
 ```
 
-## Example
+The tool identifies text changes and potentially affected rule families. It does not interpret regulatory changes or update rules automatically; qualified human review is required.
 
-Input (`my_report.txt`, the repo's demo snippet):
+## Rule coverage
 
-```
-Patient John Smith, 555-123-4567, had nausea.
-```
+The current rule taxonomy includes checks for:
 
-Output (core fields shown; the full JSON adds the evidence trace):
+- Privacy and selected personal identifiers
+- Adverse-event mentions without reporting context
+- Mandatory-reporting escalation context
+- Off-label promotional language
+- Comparative claims
 
-```json
-{
-  "compliance_status": "FAIL",
-  "violations": [
-    { "type": "Patient Privacy Violation", "severity": "critical",
-      "evidence": "PII/PHI detected: phone number, patient/person name",
-      "rule_id": "privacy" },
-    { "type": "Adverse Event Without Reporting Context", "severity": "high",
-      "evidence": "AE trigger keywords found (nausea); no reporting context (e.g. serious, hospitalization) provided.",
-      "rule_id": "adverse_event" }
-  ],
-  "retrieved_regulations": []
-}
-```
+Coverage is partial. The current implementation detects only a subset of the privacy entity types declared in configuration. See [Audit Report](docs/AUDIT_REPORT.md) and [Regulatory Sources](docs/REGULATORY_SOURCES.md) for the detailed scope and known gaps.
 
-A named patient with a phone number is a critical privacy finding, and an
-adverse event mentioned with none of the context regulators require is a
-high-severity finding — any critical/high finding makes the status FAIL.
+## Repository guide
 
-Six seeded synthetic reports with known expected outcomes live in
-`synthetic_reports/` for a larger demo.
-
-## Tests
-
-```bash
-python -m pytest
-```
-
-Verified 2026-10-20: **141 passed, 2 xfailed** in a full environment
-(chromadb + fastapi + openai); **109 passed, 11 skipped, 2 xfailed** in a
-minimal one. The 2 xfails are documented deterministic limits (quoted-text
-keywords; first-name-only patient references) — see
-[docs/EVALUATION.md](docs/EVALUATION.md), which also explains why the
-synthetic benchmark's perfect scores measure regression consistency, not
-accuracy, and why no real-world accuracy is claimed.
-
-## Security
-
-The demo treats submitted documents, retrieved text and the LLM as
-untrusted. Confirmed issues found in audit (path traversal in static file
-serving, CORS with credentials, error responses leaking internals) are
-fixed and covered by regression tests. Keep the app on localhost, and
-never submit real patient data. Full threat model and findings:
-[docs/SECURITY.md](docs/SECURITY.md).
-
-## Limitations
-
-- **Evaluation is synthetic only.** All labelled data is fixtures, seeded
-  reports and regression tests authored alongside the rules. Real-world
-  accuracy on real documents is unmeasured.
-- **The corpus is not current.** Three of the nine source texts are
-  superseded revisions (EMA GVP Module VI Rev 1, GVP Annex I Rev 4,
-  ICH E2D as adopted in 2003). Details: [docs/REGULATORY_SOURCES.md](docs/REGULATORY_SOURCES.md).
-- **Three texts are excluded from distribution.** The cleaned EMA GVP
-  Module VI, EMA GVP Annex I, and ICH E2D texts are **not shipped** in the
-  release candidate: their issuers' redistribution terms have not been
-  verified. Their manifest entries, official URLs, and attribution are
-  preserved in `data/raw_policies/sources_metadata.json`; to use them,
-  obtain the documents from the official URLs there and place the cleaned
-  texts in `data/processed/clean_text/` before building the index. The
-  shipped corpus is the remaining 6 texts (FDA ×3, CDSCO, HIPAA, India
-  Drugs and Magic Remedies Act).
-- **GDPR is not in the corpus**, despite being named in early project
-  documents; the working corpus is the 9 texts listed in
-  `docs/REGULATORY_SOURCES.md` (6 shipped, 3 excluded as above).
-- **Privacy coverage is partial.** `config/rules.yaml` declares 8 PII/PHI
-  entity types; 4 are implemented (patient name, phone, email, national
-  ID). Address, health-plan beneficiary number, device and biometric
-  identifiers are not detected.
-- **Deterministic limits.** Keywords inside quoted text still flag (D8);
-  a patient referenced by first name only is not detected (D10).
-- **Localhost demo only.** No authentication, authorisation, TLS or
-  multi-user isolation.
+| Path | Purpose |
+|---|---|
+| `src/rule_engine.py` | Deterministic rule matching |
+| `src/hybrid_decision.py` | Severity roll-up and status decision |
+| `src/rag_explainer.py` | Regulatory retrieval and optional explanation |
+| `config/rules.yaml` | Configurable rule taxonomy |
+| `data/raw_policies/sources_metadata.json` | Regulatory-source metadata and provenance |
+| `scripts/build_index.py` | Rebuild the retrieval index |
+| `scripts/evaluate.py` | Synthetic evaluation report |
+| `scripts/review.py` | Reviewer decisions and audit-log verification |
+| `scripts/report_html.py` | HTML report export |
+| `scripts/source_diff.py` | Source-version text comparison |
+| `tests/` | Unit, integration, security, and adversarial tests |
+| `synthetic_reports/` | Synthetic demo reports |
+| `docs/` | Architecture, security, source provenance, evaluation, and audit notes |
 
 ## Documentation
 
-- [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md) — components, data flow, trace schema, invariants
-- [docs/EVALUATION.md](docs/EVALUATION.md) — test/benchmark evidence, and what is not measured
-- [docs/REGULATORY_SOURCES.md](docs/REGULATORY_SOURCES.md) — corpus provenance, versions, verified URLs
-- [docs/SECURITY.md](docs/SECURITY.md) — threat model, audit findings and fixes
-- [docs/AUDIT_BASELINE.md](docs/AUDIT_BASELINE.md) — the pre-remediation baseline audit
-- [docs/AUDIT_REPORT.md](docs/AUDIT_REPORT.md) — confirmed issues, fixes and validation evidence from the 2026-10-20 audit & remediation mission
-- [LLM_SETUP.md](LLM_SETUP.md) — optional LLM explanation setup
-- `PHASE1_PROPOSAL.md`, `PHASE2_PROPOSAL.md`, `PHASE2_COMPLETION_REPORT.md`,
-  `PHASE3_PROPOSAL.md` — the original phase-by-phase design documents
+- [Architecture](docs/ARCHITECTURE.md)
+- [Security threat model and audit](docs/SECURITY.md)
+- [Evaluation methodology and limitations](docs/EVALUATION.md)
+- [Regulatory sources and provenance](docs/REGULATORY_SOURCES.md)
+- [Audit baseline](docs/AUDIT_BASELINE.md)
+- [Audit and remediation report](docs/AUDIT_REPORT.md)
+- [Optional LLM setup](LLM_SETUP.md)
+- [Notice and source-material limitations](NOTICE.md)
+
+## Known limitations
+
+- **No real-world validation:** the labeled evaluation set is synthetic; performance on real pharmaceutical documents is unknown.
+- **No legal certification:** the rules are not a complete representation of any regulator's requirements.
+- **Source currency and redistribution:** some included EMA/ICH texts are older versions, and their redistribution terms have not been verified. Check the source manifest and notice before public redistribution.
+- **Partial privacy detection:** not every entity type declared in configuration is implemented.
+- **Known deterministic edge cases:** quoted text can still trigger findings, and first-name-only patient references may be missed.
+- **Retrieval quality unmeasured:** there is no human-judged relevance benchmark yet.
+- **Localhost-grade deployment:** authentication, rate limiting, TLS, and multi-user isolation are not provided.
+- **Human review required:** a PASS result is not proof of legal or regulatory compliance.
 
 ## Contributing
 
-- Run `python -m pytest` before and after your change; the full suite
-  must stay green (xfails D8/D10 excepted).
-- Rule changes live in `config/rules.yaml` and **require tests** covering
-  a positive, a negative, and a negation/anchoring case for the change.
-- Never commit `.env`, API keys, or real patient data. Test and demo data
-  must be synthetic.
-- Keep the honesty rules: do not document or claim a capability you have
-  not verified in code and tests.
+Contributions and issue reports are welcome. Before submitting a change:
+
+1. Run `python -m pytest -q`.
+2. Add positive, negative, and negation/anchoring tests for rule changes.
+3. Keep test data synthetic or appropriately authorized.
+4. Do not add credentials, private patient data, or unverified third-party content.
+5. Document limitations and avoid claims not supported by code and evaluation.
 
 ## License
 
-The project's **code** is licensed under the **MIT License** — see
-[`LICENSE`](LICENSE) (Copyright (c) 2026 Akshay Kumar Bolusani).
+Original project code is licensed under the [MIT License](LICENSE), copyright © 2026 Akshay Kumar Bolusani. The MIT license does not automatically apply to third-party regulatory publications, source texts, dependencies, or future research papers. See [NOTICE.md](NOTICE.md).
 
-The MIT license applies to the original code, tests, scripts, and project
-documentation only. It does **not** extend to the third-party regulatory
-documents in `data/processed/clean_text/` (publications of the FDA, HHS,
-EMA, CDSCO, ICH, and the Government of India, each under its issuer's own
-terms), to external dependencies (not vendored here), or to any future
-research paper. See [`NOTICE.md`](NOTICE.md) for the full license-scope
-and provenance statement.
+## Keywords
+
+Pharmaceutical regulatory compliance, pharmacovigilance, adverse event reporting, regulatory document analysis, deterministic rule engine, explainable AI, retrieval-augmented generation, RAG, ChromaDB, evidence traceability, human-in-the-loop review, pharmaceutical safety, Python, FastAPI.
